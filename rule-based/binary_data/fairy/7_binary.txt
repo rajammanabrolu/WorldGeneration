@@ -1,0 +1,186 @@
+A merchant with a young son and daughter lost everything except a field.
+0.95 (A merchant with a young daughter; lost; everything except a field)
+0.95 (A merchant with a young son; lost; everything except a field)
+
+Walking in that field, he met a black mannikin who promised to make him rich if, in twelve years, he brought the first thing that rubbed against his leg when he went home.
+0.55 (he; brought the first thing that rubbed against his leg in; T:twelve years)
+0.14 (he; brought; the first thing that rubbed against his leg)
+0.85 Context(a black mannikin promised,List([30, 59))):(a black mannikin; promised to make; him rich if, in twelve years, he brought the first thing)
+0.78 (a black mannikin; promised to; make him rich)
+0.28 (he; went; home)
+0.26 (he; met a black mannikin who promised to make him rich; T:Walking in that field)
+0.31 (he; met; a black mannikin who promised to make him rich)
+0.43 (the first thing; rubbed; T:when he went home)
+
+The merchant agreed.
+0.73 (The merchant; agreed; )
+
+When he got home, his boy rubbed against his leg.
+0.59 (his boy; rubbed against his leg; T:When he got home)
+0.49 (his boy; rubbed against; his leg)
+0.28 (he; got; home)
+
+He went to the attic and found money, but when the twelve years were up, he grew sad.
+0.55 (he; grew sad; T:when the twelve years were up)
+0.28 (he; grew; sad)
+0.78 (the twelve years; were; up)
+0.45 (He; found; money)
+0.45 (He; went to; the attic)
+
+His son got the story from him and assured him that the black man had no power over him.
+0.85 Context(His son assured,List([0, 15))):(the black man; had; no power over him)
+0.42 (His son; assured him that; the black man had no power over him)
+0.42 (His son; assured; him)
+0.49 (His son; got the story from; him)
+0.70 (His son; got; the story)
+
+The son had himself blessed by the priest and went to argue with the black man.
+0.56 Context(The son had,List([0, 11))):(himself; went to; argue with the black man)
+0.84 (The son; had; himself went to argue with the black man)
+0.58 (himself; to argue with; the black man)
+0.56 Context(The son had,List([0, 11))):(himself; blessed by; the priest)
+0.84 (The son; had; himself blessed by the priest)
+
+Finally, the mannikin agreed that the boy could be put in a boat and shoved off into the water.
+0.88 Context(the mannikin agreed,List([10, 29))):(the boy; could be shoved off into; the water)
+0.79 (the mannikin; agreed that the boy could be shoved off into the water; T:Finally)
+0.88 (the mannikin; agreed that; the boy could be shoved off into the water)
+0.88 Context(the mannikin agreed,List([10, 29))):(the boy; could be put in; a boat)
+0.79 (the mannikin; agreed that the boy could be put in a boat; T:Finally)
+0.88 (the mannikin; agreed that; the boy could be put in a boat)
+
+The boat carried him to another shore.
+0.90 (The boat; carried him to; another shore)
+0.83 (The boat; carried; him)
+
+A snake met him, but was a transformed princess.
+0.93 (A snake; was; a transformed princess)
+0.87 (A snake; met; him)
+
+She told him if for three nights he let twelve black men beat him, she would be freed.
+0.82 Context(he let,List([33, 39))):(twelve black men; beat; him)
+0.32 (he; let; twelve black men beat him)
+0.55 (she; would be freed for; T:three nights)
+0.42 (She; told him if; for three nights he let twelve black men beat him, she would be freed)
+0.37 (She; told; him)
+
+He agreed and did it, and she married him, making him the King of the Golden Mountain, and in time bore him a son.
+0.44 (He; bore him in; T:time)
+0.41 (He; bore him; a son)
+0.27 (He; bore; him)
+0.54 (He she married him; making; him the King of the Golden Mountain)
+0.31 (she; married; him)
+0.37 (He; did; it)
+0.19 (He; agreed; )
+
+When the boy was seven, the king wanted to see his own parents.
+0.80 Context(the king wanted,List([24, 39))):(the king; wanted to see; his own parents)
+0.91 (the king; wanted to see his own parents; T:When the boy was seven)
+0.80 (the king; wanted to; see his own parents)
+0.81 (the boy; was; seven)
+
+His wife thought it would bring evil, but gave him a ring that would wish him to his parents and back again, telling him must not wish her to come with him.
+0.26 Context(a ring would wish telling him must not wish,List([18, 90))):(her; to come with; him)
+0.26 Context(a ring would wish telling,List([18, 72))):(him; must not wish; her to come with him)
+0.68 Context(a ring would wish,List([18, 40))):(a ring; would wish him telling him; must not wish her to come with him)
+0.68 Context(a ring would wish,List([18, 40))):(a ring; would wish him telling; him)
+0.64 (a ring; would wish him; T:again)
+0.77 (a ring; would wish him to; his back)
+0.36 (His wife; gave him; a ring that would wish him to his back again ,)
+0.26 Context(him telling him must not wish,List([41, 87))):(her; to come with; him)
+0.26 Context(him telling,List([41, 69))):(him; must not wish; her to come with him)
+0.23 (him; telling him; must not wish her to come with him)
+0.23 (him; telling; him)
+0.81 (a ring; would wish him to; his parents)
+0.81 (a ring; would wish; him)
+0.36 (His wife; gave him; a ring that would wish him to his parents ,)
+0.49 (His wife; gave; him)
+0.19 Context(His wife thought,List([0, 16))):(it; would bring; evil)
+0.43 (His wife; thought; it would bring evil)
+
+He went, but to get in the town, he had to put off his fine and magnificent clothing for a shepherd's; once inside, first he had to persuade his parents that he was their son, and then he could not persuade him that he was a king.
+0.31 Context(he to persuade,List([104, 122))):(he; was; their son)
+0.27 (he; to put off; his magnificent clothing)
+0.31 Context(he to persuade,List([97, 115))):(he; was; their son)
+0.23 (he; to persuade his parents that; he was their son)
+0.23 (he; to persuade; his parents)
+0.27 (he; to put off; his fine clothing)
+0.46 Context(he could not persuade,List([5, 26))):(he; was; a king)
+0.25 (he; could not persuade him; T:then)
+0.26 (he; could not persuade him that; he was a king)
+0.26 (he; could not persuade; him)
+0.24 (He; went; )
+
+Frustrated, he wished his wife and son with him.
+0.31 (he; wished his son with; him)
+0.31 (he; wished; his son)
+0.31 (he; wished; his wife)
+
+When he slept, his wife took the ring and wished herself and their son back to the Golden Mountain.
+0.30 (he; wished back; their son)
+0.30 (he; wished back; herself)
+0.59 (his wife; took the ring; T:When he slept)
+0.64 (his wife; took; the ring)
+0.24 (he; slept; )
+
+He walked until he found three giants quarreling over their inheritance: a sword that would cut off all heads but the owner's, if ordered to; a cloak of invisibility; and boots that would carry the wearer anywhere.
+0.83 (three giants; quarreling over; their inheritance)
+0.31 (he; found; three giants quarreling over their inheritance)
+0.72 (boots; would carry the wearer; anywhere)
+0.88 (boots; would carry; the wearer)
+0.42 (he; found; three giants quarreling over their inheritance : , if ordered to ; a cloak of invisibility ; and boots)
+0.31 (He; walked until; T:he found three giants)
+
+He said he had to try them first, and with them, went back to the Golden Mountain, where his wife was about to marry another man.
+0.60 (his wife; to marry; another man)
+0.70 (his wife; was; about to marry another man)
+0.53 (He; went; back to the Golden Mountain)
+0.19 (He; said; )
+0.26 (He; said; he had to try them first)
+0.20 (he; to try them; T:first)
+0.27 (he; to try; them)
+
+But at the banquet she was unable to enjoy any of the food or wine because the hero would invisibly take them away and consume them.
+0.31 (she; was unable to enjoy any of the wine because; the hero would invisibly take them consume them)
+0.41 (she; to enjoy; any of the wine)
+0.55 (she; was unable to enjoy any of the wine at; L:the banquet)
+0.31 (she; was unable to enjoy any of the wine because; the hero would invisibly take them away)
+0.52 (she; was; unable to enjoy any of the wine)
+0.80 Context(the hero would invisibly take,List([67, 96))):(the hero; would invisibly take them consume; them)
+0.31 (she; was unable to enjoy any of the food because; the hero would invisibly take them consume them)
+0.77 (the hero; would invisibly take them; away)
+0.83 (the hero; would invisibly take; them)
+0.41 (she; to enjoy; any of the food)
+0.55 (she; was unable to enjoy any of the food at; L:the banquet)
+0.31 (she; was unable to enjoy any of the food because; the hero would invisibly take them away)
+0.52 (she; was; unable to enjoy any of the food)
+
+The dismayed queen ran to her chamber, whereupon the hero revealed himself to her, rebuking her betrayal.
+0.72 Context(the hero revealed,List([49, 66))):(the hero; revealed himself rebuking; her betrayal)
+0.80 (the hero; revealed himself to; her)
+0.80 (the hero; revealed; himself)
+0.91 (The dismayed queen; ran; T:whereupon the hero revealed himself to her, rebuking her betrayal)
+0.85 (The dismayed queen; ran to; her chamber)
+
+Now addressing himself to the guests in the hall, he declared the wedding called off, as he was the rightful ruler, asking the guests to leave.
+0.75 (the rightful ruler; asking the guests to; leave)
+0.90 (the rightful ruler; asking; the guests)
+0.52 (he; was; the rightful ruler, asking the guests to leave)
+0.69 Context(he declared,List([50, 61))):(the wedding; called off; )
+0.36 (he; declared; the wedding called off, as he was the rightful ruler,)
+0.73 (the guests; to leave; )
+
+As they refused to do this, and tried to seize him, the hero invoked the command to his magic sword, and all other heads rolled off.
+0.41 Context(they tried,List([3, 13))):(they; tried to seize; him)
+0.41 (they; tried to; seize him)
+0.88 (the hero; invoked the command As; T:they tried to seize him)
+0.31 Context(they refused,List([3, 15))):(they; refused to do; this)
+0.31 (they; refused to; do this)
+0.83 (the hero; invoked the command to; his magic sword)
+0.90 (the hero; invoked; the command)
+0.75 (all other heads; rolled off; )
+
+He had now again assumed his place as King of the Golden Mountain.
+0.22 (He; had assumed his place as King of the Golden Mountain; T:now again)
+0.26 (He; had assumed; his place as King of the Golden Mountain)
+

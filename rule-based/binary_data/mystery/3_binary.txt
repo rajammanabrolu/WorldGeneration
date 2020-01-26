@@ -1,0 +1,223 @@
+Holmes receives a visit from Dr. Thorneycroft Huxtable, the founder and principal of a preparatory school called Priory School in Northern England.
+0.39 (Dr. Thorneycroft Huxtable; [is] the principal of; a preparatory school)
+0.39 (Dr. Thorneycroft Huxtable; [is] the founder of; a preparatory school)
+0.93 (a preparatory school; called; Priory School in Northern England)
+0.93 (Holmes; receives; a visit from Dr. Thorneycroft Huxtable)
+
+He beseeches Holmes to come back to Mackleton with him to look into the disappearance of one of his pupils, the ten-year-old Lord Saltire, whose father is the very rich and famous Duke of Holdernesse.
+0.97 (the ten - year - old Lord Saltire; is; the famous Duke of Holdernesse)
+0.86 Context(He beseeches,List([0, 12))):(Holmes; to come with; him to look into the disappearance of one of his pupils , the ten - year - old Lord Saltire)
+0.92 Context(He beseeches,List([0, 12))):(Holmes; to come; back to Mackleton)
+0.44 (He; beseeches; Holmes to come back to Mackleton)
+0.97 (the ten - year - old Lord Saltire; is; the very rich Duke of Holdernesse)
+0.31 (him; to look into; the disappearance of one of his pupils)
+
+Huxtable explains that not only the boy has disappeared, but also the German master, Heidegger, along with his bicycle.
+0.39 (Heidegger; [is] master [from]; Germany)
+0.54 (Huxtable; explains; the German master)
+0.69 Context(Huxtable explains,List([0, 17))):(the boy; has disappeared; )
+0.45 (Huxtable; explains that; not only the boy has disappeared , along with his bicycle)
+
+Once in the North, the Duke says to Holmes that he does not think that his estranged wife has anything to do with his son's disappearance, nor has there been a ransom demand.
+0.82 (anything; to do with; his son's disappearance)
+
+Holmes establishes that the boy and his kidnappers could not have used the nearby road without being seen, suggesting that they went cross-country.
+0.63 Context(Holmes establishes suggesting,List([0, 106))):(they; went; T:cross-country)
+0.76 Context(Holmes establishes,List([0, 18))):(Holmes; establishes suggesting that; they went cross-country)
+0.59 Context(Holmes establishes,List([0, 18))):(his kidnappers; could not have used; the nearby road)
+0.89 (Holmes; establishes that; his kidnappers could not have used the nearby road without being seen)
+0.62 Context(Holmes establishes the boy could not have used suggesting,List([0, 99))):(they; went; T:cross-country)
+0.72 Context(Holmes establishes the boy could not have used,List([0, 51))):(the boy; could not have used the nearby road suggesting that; they went cross-country)
+0.88 Context(Holmes establishes,List([0, 18))):(the boy; could not have used; the nearby road)
+0.74 (Holmes; establishes that; the boy could not have used the nearby road without being seen , suggesting that they went cross-country)
+
+As if to confirm this, the police find the boy's school cap in some gypsies' possession.
+0.95 (the police; find; the boy's school cap in some gypsies' possession)
+
+They swear that they simply found it on the moor, but the police lock them up.
+0.80 Context(They swear,List([0, 10))):(the police; lock up; them)
+0.41 (They; swear that; the police lock them up)
+0.56 Context(They swear,List([0, 10))):(they; simply found it on; L:the moor)
+0.41 Context(They swear,List([0, 10))):(they; simply found; it)
+0.41 (They; swear that; they simply found it on the moor)
+
+Holmes and Dr. Watson go hunting for clues.
+0.91 Context(Dr. Watson go,List([0, 13))):(Dr. Watson; go hunting for; clues)
+0.93 (Dr. Watson; go; hunting for clues)
+0.87 Context(Holmes go,List([0, 9))):(Holmes; go hunting for; clues)
+0.90 (Holmes; go; hunting for clues)
+
+They find a bicycle track, but it is not Heidegger's; it does not match his tyres.
+0.43 Context(it does not match,List([25, 42))):(it; is not; Heidegger 's)
+0.16 (it; does not match; )
+0.68 (They; find; a bicycle track)
+
+Holmes observe that one tyre has a patch on it.
+0.84 Context(Holmes observe,List([0, 14))):(one tyre; has; a patch on it)
+0.79 (Holmes; observe that; one tyre has a patch on it)
+
+Eventually, Heidegger's bicycle tracks are found, and they end where he lies, dead.
+0.16 Context(they end,List([11, 19))):(he; lies; )
+0.47 (they; end; T:Eventually)
+0.89 (Heidegger 's bicycle tracks; are found; T:Eventually)
+
+After that, Holmes and Watson arrive at the Fighting Cock Inn, and meet the innkeeper, Reuben Hayes, who seems startled indeed to hear that Holmes wants to go to Holdernesse Hall, the Duke's nearby house, to tell him news of his son.
+0.68 (Watson; arrive After; T:that)
+0.92 (Watson; arrive at; the Fighting)
+0.68 (Holmes; arrive After; T:that)
+0.92 (Holmes; arrive at; the Fighting)
+
+The two men have lunch there, and Holmes suddenly realises that he and Watson saw lots of cow tracks out on the moor, but never at any time did they see any cows.
+0.86 Context(Holmes realises,List([0, 24))):(Watson; saw; never at any time did they see any cows)
+0.82 (Holmes; realises that Watson saw never at any time did they see any cows; T:suddenly)
+0.89 (Holmes; realises that; Watson saw never at any time did they see any cows)
+0.89 Context(Holmes realises Watson saw,List([0, 40))):(lots of cow; tracks out on; the moor)
+0.92 Context(Holmes realises,List([0, 24))):(Watson; saw; lots of cow tracks out on the moor)
+0.82 (Holmes; realises that Watson saw lots of cow tracks out on the moor; T:suddenly)
+0.94 (Holmes; realises that; Watson saw lots of cow tracks out on the moor)
+0.31 Context(Holmes realises,List([0, 24))):(he; saw; never at any time did they see any cows)
+0.82 (Holmes; realises that he saw never at any time did they see any cows; T:suddenly)
+0.87 (Holmes; realises that; he saw never at any time did they see any cows)
+0.89 Context(Holmes realises he saw,List([0, 36))):(lots of cow; tracks out on; the moor)
+0.46 Context(Holmes realises,List([0, 24))):(he; saw; lots of cow tracks out on the moor)
+0.82 (Holmes; realises that he saw lots of cow tracks out on the moor; T:suddenly)
+0.87 (Holmes; realises that; he saw lots of cow tracks out on the moor)
+0.78 (The two men; have lunch; L:there)
+0.91 (The two men; have; lunch)
+
+Furthermore, the patterns of the hoof prints were quite unusual, suggesting that the cow in question trotted, cantered, and galloped.
+0.69 Context(the patterns of the hoof prints suggesting,List([14, 77))):(the cow; galloped; )
+0.90 (the patterns of the hoof prints; suggesting that; the cow galloped)
+0.92 (the patterns of the hoof prints; suggesting that; the cow in question)
+0.83 (the patterns of the hoof prints; were; quite unusual)
+
+Holmes and Watson sneak out to Hayes's stable and examine the horse's hooves.
+0.90 Context(Watson sneak out,List([0, 16))):(Watson; sneak out to examine; the horse 's hooves)
+0.90 (Watson; sneak out to; examine the horse 's hooves)
+0.90 Context(Holmes sneak out,List([0, 16))):(Holmes; sneak out to examine; the horse 's hooves)
+0.90 (Holmes; sneak out to; examine the horse 's hooves)
+0.93 (Watson; sneak out to; Hayes 's stable)
+0.93 (Holmes; sneak out to; Hayes 's stable)
+
+As Holmes has expected, there is evidence of recent shoeing, but with old shoes and new nails.
+0.77 (Holmes; has expected; )
+
+Examining the nearby smithy, Holmes and Watson are rather belligerently asked to leave by Mr. Hayes.
+0.92 (Watson; to leave by; Mr. Hayes)
+0.93 (Watson; are rather belligerently asked to; leave by Mr. Hayes)
+0.92 (Holmes; to leave by; Mr. Hayes)
+0.93 (Holmes; are rather belligerently asked to; leave by Mr. Hayes)
+
+Shortly afterwards, the two men hide as a cyclist comes along the road from the direction of the Duke's.
+0.92 (a cyclist; comes along; L:the road from the direction of the Duke's)
+0.84 (the two men; hide; T:Shortly afterwards)
+0.95 (the two men; hide as; T:a cyclist comes along the road from the direction of the Duke's)
+
+It is James Wilder, the Duke's personal secretary, and he looks agitated.
+0.23 (he; looks; agitated)
+0.38 (James Wilder; [is] personal secretary [of]; the Duke)
+0.57 (It; is; James Wilder)
+
+He arrives at the inn.
+0.45 (He; arrives at; the inn)
+
+Soon afterwards, a trap pulls out of the stable yard and goes along the road towards Chesterfield.
+0.83 (a trap; goes along the road towards Chesterfield; T:Soon afterwards)
+0.92 (a trap; goes along; the road towards Chesterfield)
+0.83 (a trap; pulls out of the stable yard; T:Soon afterwards)
+0.90 (a trap; pulls out; of the stable yard)
+
+A while later, someone else – it is getting dark and only a fleeting glimpse of the new visitor is caught – arrives at the inn.
+0.92 (someone else; is getting only a fleeting glimpse of the new visitor; T:A while later)
+0.89 (someone else; is getting; only a fleeting glimpse of the new visitor)
+0.55 (it; is getting dark; T:A while later)
+0.23 (it; is getting; dark)
+
+Coming closer, Holmes observes Wilder's bicycle tyres and notes that they are the same make as the first ones encountered on the moor.
+0.91 (the first ones; encountered on; L:the moor)
+0.62 (they; are; the same make as the first ones)
+0.93 (Holmes; observes; Wilder 's bicycle tyres)
+
+The next morning, they go to Holdernesse Hall, where they find that the Duke is not well.
+0.77 Context(they find,List([53, 62))):(the Duke; is not; well)
+0.69 (they; find that the Duke is not well; L:Holdernesse Hall)
+0.60 (they; find that; the Duke is not well)
+0.76 (they; go; T:The next morning)
+0.66 (they; go to; Holdernesse Hall)
+
+Nevertheless, Holmes demands from him a cheque for £6000, saying that he has earned the reward.
+0.39 Context(Holmes demands saying,List([14, 64))):(he; has earned; the reward)
+0.76 Context(Holmes demands,List([14, 28))):(Holmes; demands from him saying that; he has earned the reward)
+0.90 (Holmes; demands from him; a cheque for £6000)
+0.83 (Holmes; demands from; him)
+
+His son is at the Fighting Cock, and the accused is the Duke himself, but the actual mastermind of this crime is James Wilder, who has a terrible secret: he is the illegitimate son of the Duke.
+0.50 (James Wilder; is the actual mastermind of; this crime)
+0.95 Context(he is,List([82, 87))):(the actual mastermind of this crime; is; James Wilder)
+0.93 (James Wilder; has; a terrible secret)
+0.63 Context(he is,List([34, 39))):(the accused; is; the Duke)
+0.59 Context(he is,List([34, 39))):(His son; is at; the Fighting Cock)
+0.51 (he; is; the illegitimate son of the Duke)
+
+He conceived a plan to kidnap Lord Saltire to force the Duke to change his will, knowing very well that his father would not call the police on him, as he abhorred the very idea of scandal.
+0.87 (the Duke; to change; his will)
+0.87 (Lord Saltire; to force the Duke to; change his will)
+0.94 (Lord Saltire; to force; the Duke)
+0.45 (he; abhorred; the very idea of scandal)
+0.58 Context(He conceived knowing very well,List([0, 98))):(his father; would not call; the police)
+0.26 Context(He conceived,List([0, 12))):(He; conceived a plan to kidnap Lord Saltire knowing very well that; his father would not call the police on him, as he abhorred the very idea of scandal)
+0.43 (He; conceived; a plan to kidnap Lord Saltire)
+
+The plan began to unravel when Wilder hired Hayes – who has now fled, but been caught on Holmes's information – to do the actual kidnapping.
+0.91 (Holmes 's; to do; the actual kidnapping)
+0.77 (Hayes; has fled; T:now)
+0.93 (Wilder; hired; Hayes)
+0.90 (The plan; to unravel; T:when Wilder hired Hayes)
+0.90 (The plan; began; T:when Wilder hired Hayes)
+
+Hayes killed Heidegger, and when Wilder heard the news, he confessed all to his father.
+0.60 (he; confessed all; T:when Wilder heard the news)
+0.31 (he; confessed all to; his father)
+0.23 (he; confessed; all)
+0.92 (Wilder; heard; the news)
+0.93 (Hayes; killed; Heidegger)
+
+So anxious was the Duke to avoid scandal, he agreed to let his younger son stay at the inn for another three days, and to keep quiet, so that Hayes could flee justice.
+0.16 Context(he agreed,List([43, 52))):(he; agreed to keep quiet so; that Hayes could flee justice)
+0.19 Context(he agreed,List([43, 52))):(he; agreed to keep; quiet)
+0.22 (he; agreed to; keep quiet , so that Hayes could flee justice)
+0.92 (Hayes; could flee; justice)
+0.50 Context(he agreed to let,List([43, 59))):(his younger son; stay for; T:another three days)
+0.61 Context(he agreed to let,List([43, 59))):(his younger son; stay at; the inn)
+0.36 Context(he agreed,List([43, 52))):(he; agreed to let; his younger son stay at the inn for another three days)
+0.36 (he; agreed to; let his younger son stay at the inn for another three days)
+0.93 (the Duke; to avoid; scandal)
+0.46 (So anxious; was to; avoid scandal)
+0.68 (So anxious; was; the Duke)
+
+All ends well, except for Hayes, who faces the gallows.
+0.91 (Hayes; faces; the gallows)
+0.15 (All; ends well; )
+
+Lord Saltire is brought home from the inn and the Duke writes to his estranged wife asking her to reconcile with him.
+0.84 Context(the Duke writes,List([0, 15))):(the Duke; writes to his estranged wife asking her to; reconcile with him)
+0.84 Context(the Duke writes,List([0, 15))):(the Duke; writes to his estranged wife asking; her)
+0.84 (the Duke; writes to his estranged wife; asking her to reconcile with him)
+0.84 (the Duke; writes to; his estranged wife)
+0.31 (her; to reconcile with; him)
+0.93 (Lord Saltire; is brought home from; T:the inn)
+0.82 (Lord Saltire; is brought; home)
+
+This he feels she will be willing to do, for the source of the friction between them is going away: James Wilder is being packed off to Australia to seek his fortune .
+0.84 (James Wilder; is being packed off to Australia to; seek his fortune)
+0.92 (James Wilder; is being packed off to; Australia)
+0.19 Context(he feels,List([5, 13))):(she; will be; willing to do)
+0.26 (he; feels; she will be willing to do)
+0.57 (This he feels; to do; she)
+0.85 (James Wilder; to seek; his fortune)
+
+As for the cow tracks, they were accomplished by shoeing the horses with special shoes shaped like cow's hooves.
+0.73 (special shoes; shaped; )
+0.58 (they; by shoeing the horses with; special shoes)
+0.58 (they; by shoeing; the horses)
+0.32 (they; were accomplished; )

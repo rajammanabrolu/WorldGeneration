@@ -1,0 +1,211 @@
+A lonely couple, who want a child, live next to a walled garden belonging to a sorceress.
+0.90 Context(A lonely couple , who want a child live,List([0, 39))):(A lonely couple; want; a child)
+0.92 (A lonely couple, who want a child; live; L:next to a walled garden)
+0.91 (a walled garden; belonging to; a sorceress)
+
+The wife, experiencing the cravings associated with the arrival of her long-awaited pregnancy, notices some rapunzel, growing in the garden and longs for it.
+0.83 (the cravings; associated with; the arrival of her long - awaited pregnancy)
+0.87 (The wife; experiencing; the cravings associated with the arrival of her long - awaited pregnancy)
+
+She refuses to eat anything else and gets sick, and the husband begins to fear for her life.
+0.81 (the husband; to fear for; her life)
+0.73 (the husband; begins; )
+0.28 (She; gets; sick)
+0.40 Context(She refuses,List([0, 11))):(She; refuses to eat; anything else)
+0.40 (She; refuses to; eat anything else)
+
+One night, her husband breaks into the garden to get some for her.
+0.42 Context(her husband breaks,List([11, 29))):(her husband; breaks into the garden to get some for; her)
+0.32 Context(her husband breaks,List([11, 29))):(her husband; breaks into the garden to get; some)
+0.67 (her husband; breaks into the garden; T:One night)
+0.42 (her husband; breaks into the garden to; get some for her)
+0.58 (her husband; breaks into; the garden)
+
+She makes a salad out of it and greedily eats it.
+0.31 (She; greedily eats; it)
+0.31 (She; makes a salad out; of it)
+0.45 (She; makes; a salad)
+
+It tastes so good that she longs for more.
+0.23 (she; longs for; more)
+
+So her husband goes to get some more for her.
+0.45 (her husband; to get some more for; her)
+0.34 (her husband; to get; some more)
+
+As he scales the wall to return home, the sorceress catches him and accuses him of theft.
+0.45 (he; accuses him of; theft)
+0.31 (he; accuses; him)
+0.83 (the sorceress; catches; him)
+0.77 (the wall; to return; home)
+0.45 (he; scales; the wall to return home)
+
+He begs for mercy, and she agrees to be lenient, and allows him to take all the rapunzel he wants, on condition that the baby be given to her when it's born.
+0.17 Context(He allows,List([0, 9))):(him; to take; all the rapunzel he wants , on condition that the baby be given to her)
+0.26 (He; allows; him to take all the rapunzel)
+0.24 (it; 's born; )
+0.83 (the baby; be given to her; T:when it 's born)
+0.83 (the baby; be given to; her)
+0.92 (all the rapunzel; wants; he)
+0.20 (she; to be; lenient)
+0.23 (she; agrees to; be lenient)
+0.45 (He; begs for; mercy)
+
+Desperate, he agrees.
+0.19 (he; agrees; )
+
+When his wife has a baby girl, the sorceress takes her to raise as her own and names her "Rapunzel" after the plant her mother craved.
+0.88 (the plant; craved; her mother)
+0.54 (his wife; names her " Rapunzel after; the plant)
+0.54 (his wife; names; her " Rapunzel)
+0.88 (the sorceress; takes her; T:When his wife has a baby girl)
+0.83 (the sorceress; takes her to; raise as her own)
+0.83 (the sorceress; takes; her)
+0.70 (his wife; has; a baby girl)
+
+She grows up to be the most beautiful child in the world, with long golden hair.
+0.41 (She; to be; the most beautiful child in the world)
+0.45 (She; grows up to; be the most beautiful child in the world)
+
+When she turns twelve, the sorceress locks her up inside a tower in the middle of the woods, with neither stairs nor a door, and only one room and one window.
+0.83 (the sorceress; locks up; T:When she turns twelve)
+0.86 (the sorceress; locks up inside; L:a tower in the middle of the woods)
+0.28 (she; turns; twelve)
+
+In order to visit Rapunzel, the sorceress stands beneath the tower and calls out:
+0.73 (the sorceress; calls out; )
+0.90 (the sorceress; stands beneath; the tower)
+
+One day, a prince rides through the forest and hears Rapunzel singing from the tower.
+0.90 Context(One hears,List([0, 9))):(Rapunzel; singing from; the tower)
+0.54 (One; hears; Rapunzel singing from the tower)
+0.93 (a prince; rides; T:One day)
+0.90 (a prince; rides through; the forest)
+
+Entranced by her ethereal voice, he searches for her and discovers the tower, but is naturally unable to enter it.
+0.27 (he; to enter; it)
+0.31 (he; is naturally; unable to enter it)
+0.45 (he; discovers; the tower)
+0.31 (he; searches for; her)
+
+He returns often, listening to her beautiful singing, and one day sees the sorceress visit, and thus learns how to gain access to Rapunzel.
+0.30 Context(He learns,List([0, 14))):(He; learns to gain; access to Rapunzel)
+0.39 (He; learns; how to gain access to Rapunzel)
+0.90 (one day; sees; the sorceress visit)
+0.27 (He; listening to; her beautiful singing)
+0.23 (He; returns; T:often)
+
+When the sorceress leaves, he bids Rapunzel let her hair down.
+0.86 Context(he bids,List([27, 34))):(Rapunzel; let; her hair down)
+0.49 (he; bids Rapunzel let her hair down; T:When the sorceress leaves)
+0.35 (he; bids; Rapunzel let her hair down)
+0.73 (the sorceress; leaves; )
+
+When she does so, he climbs up and they fall in love.
+0.62 (they; fall in; love)
+0.47 (he; climbs; T:When she does so)
+0.28 (he; climbs; up)
+0.23 (she; does; so)
+
+He eventually asks her to marry him, which she agrees to.
+0.31 (her; to marry; him)
+0.30 (He; asks her; T:eventually)
+0.27 (He; asks her to; marry him, which she agrees to)
+0.33 (He; asks; her)
+
+Together they plan a means of escape, wherein he will come each night, and bring Rapunzel a piece of silk, which she will gradually weave into a ladder.
+0.91 (a piece of silk; will gradually weave into; a ladder)
+0.39 (he; will come; T:each night)
+
+Before the plan can come to fruition, however, she foolishly gives him away.
+0.55 (she; foolishly gives away Before; T:the plan can come to fruition)
+0.90 (the plan; can come to; fruition)
+
+In the first edition of Kinder- und Hausmärchen, she innocently says that her dress is growing tighter around her waist; in later editions, she asks "Dame Gothel" why it is easier for her to draw up the prince than her.
+0.42 Context(she innocently says she asks,List([49, 148))):(her dress; is growing; tighter around her waist)
+0.53 Context(she asks,List([140, 148))):(she; innocently says that her dress is growing tighter around her waist In; L:the first edition of Kinder- und Hausmärchen)
+0.26 Context(she asks,List([140, 148))):(she; innocently says that; her dress is growing tighter around her waist)
+0.48 (she; asks Dame Gothel in; L:later editions)
+0.23 (she; asks Dame Gothel; why it is easier for her to draw up the prince than her)
+0.46 (she; asks; Dame Gothel)
+0.31 (her; to draw up; the prince than her)
+
+In anger, she cuts off a majority of Rapunzel's hair and casts her out into the wilderness to fend for herself.
+0.55 (she; casts her In; L:anger)
+0.35 (she; casts her into; the wilderness)
+0.23 (she; casts her; out)
+0.37 (she; casts; her)
+0.55 (she; cuts off a majority of Rapunzel 's hair In; L:anger)
+0.50 (she; cuts off; a majority of Rapunzel 's hair)
+
+When the prince calls that night, the sorceress lets the severed hair down to haul him up.
+0.82 (the severed hair; to haul up; him)
+0.82 (the prince; calls; T:that night)
+
+To his horror, he finds himself meeting her instead of Rapunzel, who is nowhere to be found.
+0.40 Context(he finds,List([15, 23))):(himself; meeting; her)
+0.35 (he; finds; himself meeting her instead of Rapunzel)
+0.82 (Rapunzel; is; nowhere to be found)
+
+After she tells him in a rage that he will never see Rapunzel again, he leaps or falls from the tower, landing in a thorn bush.
+0.41 (she; landing in; L:a thorn bush)
+0.45 (she; falls from; the tower)
+0.18 Context(she tells,List([6, 15))):(he; will never see Rapunzel; T:again)
+0.43 Context(she tells,List([6, 15))):(he; will never see; Rapunzel)
+0.21 (she; tells him that; he will never see Rapunzel again)
+0.39 (she; tells him in; L:a rage)
+0.31 (she; tells; him)
+0.32 (he; leaps After; T:she tells him in a rage that he will never see Rapunzel again)
+
+Although the thorn bush breaks his fall and saves his life, it scratches his eyes and blinds him.
+0.37 (it; blinds; him)
+0.83 (the thorn; saves; his life)
+0.31 (it; scratches; his eyes)
+0.85 (the thorn bush; breaks; his fall)
+
+For years, he wanders through the wastelands of the country and eventually comes to the wilderness where Rapunzel now lives with the twins to whom she has given birth, a boy and a girl.
+0.89 (the twins; has given; birth)
+0.91 (the twins to whom; has given; birth)
+0.86 (Rapunzel; lives; T:now)
+0.94 (Rapunzel; lives; L:the wilderness)
+0.55 (he; wanders through the wastelands of the country For; T:years)
+0.45 (he; wanders through; the wastelands of the country)
+
+One day, as she sings, he hears her voice again, and they are reunited.
+0.32 (they; are reunited; )
+0.40 (he; hears her voice as; T:she sings)
+0.55 (he; hears her voice; T:One day)
+0.23 (he; hears her voice; T:again)
+0.31 (he; hears; her voice)
+0.24 (she; sings; )
+
+When they fall into each other's arms, her tears immediately restore his sight.
+0.48 (her tears; restore his sight; T:immediately)
+0.55 (her tears; restore his sight; T:When they fall into each other's arms)
+0.45 (her tears; restore; his sight)
+0.62 (they; fall into; each other's arms)
+
+He leads her and their twins to his kingdom, where they live happily ever after.
+0.31 (He; leads their twins to; his kingdom)
+0.31 (He; leads; their twins)
+0.56 (they; live happily; L:his kingdom)
+0.36 (they; live happily; T:ever after)
+0.31 (He; leads her to; his kingdom)
+0.31 (He; leads; her)
+
+In some versions of the story, Rapunzel's hair magically grows back after the prince touches it.
+0.83 (the prince; touches; it)
+0.95 (Rapunzel's hair; magically grows back In; L:some versions of the story)
+0.88 (Rapunzel's hair; magically grows back after; T:the prince touches it)
+0.83 (Rapunzel's hair; magically grows; back)
+
+Another version of the story ends with the revelation that her foster mother had untied Rapunzel's hair after the prince leapt from the tower, and it slipped from her hands and landed far below, leaving her trapped in the tower.
+0.89 (Another version; leaving her; trapped in the tower)
+0.81 (Another version; leaving; her)
+0.77 (Another version; landed; L:far below)
+0.41 (it; leaving her; trapped in the tower)
+0.27 (it; leaving; her)
+0.31 (it; slipped from; her hands)
+0.45 (her; trapped in; the tower)
+0.79 (her foster mother; had untied; Rapunzel 's hair after the prince leapt from the tower)
+0.83 (Another version of the story; ends with; the revelation that her foster mother had untied Rapunzel 's hair after the prince leapt from the tower)

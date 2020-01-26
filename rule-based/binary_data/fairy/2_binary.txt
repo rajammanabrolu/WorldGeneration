@@ -1,0 +1,195 @@
+The story is set in medieval Germany.
+0.92 (The story; is set in; medieval Germany)
+
+Hansel and Gretel are the children of a poor woodcutter.
+0.92 (Gretel; are; the children of a poor woodcutter)
+0.92 (Hansel; are; the children of a poor woodcutter)
+
+When a famine settles over the land, the woodcutter's wife decides to take the children into the woods and leave them there to fend for themselves so she and her husband will not starve to death.
+0.72 Context(the woodcutter 's wife decides to leave,List([38, 77))):(the woodcutter 's wife; decides to leave them to fend; so her husband will not starve to death)
+0.76 Context(the woodcutter 's wife decides to leave,List([38, 77))):(the woodcutter 's wife; decides to leave them to fend for; themselves)
+0.83 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave them to; fend for themselves so her husband will not starve to death)
+0.75 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave them; L:there)
+0.93 (the woodcutter 's wife; decides to leave them there to fend for themselves; T:When a famine settles over the land)
+0.83 (the woodcutter 's wife; decides to; leave them there to fend for themselves)
+0.80 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave them; so she will not starve to death)
+0.76 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave them to; fend for themselves)
+0.75 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave them; there)
+0.83 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to leave; them)
+0.93 (the woodcutter 's wife; decides to leave them there to fend for themselves so she will not starve to death; T:When a famine settles over the land)
+0.88 (the woodcutter 's wife; decides to; leave them there to fend for themselves so she will not starve to death)
+0.27 (them; to fend for; themselves)
+0.90 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to take the children into; the woods)
+0.90 Context(the woodcutter 's wife decides,List([38, 68))):(the woodcutter 's wife; decides to take; the children)
+0.93 (the woodcutter 's wife; decides to take the children into the woods; T:When a famine settles over the land)
+0.90 (the woodcutter 's wife; decides to; take the children into the woods)
+0.90 (a famine; settles over; the land)
+
+The woodcutter opposes the plan but finally reluctantly submits to his wife's scheme, unaware that Hansel and Gretel have overheard them.
+0.86 (Gretel; have overheard; them)
+0.86 (Hansel; have overheard; them)
+0.90 (The woodcutter; opposes; the plan)
+
+After the parents have gone to bed, Hansel sneaks out of the house and gathers as many white pebbles as he can, then returns to his room, reassuring Gretel that God will not forsake them.
+0.83 (the parents; gathers; as many white pebbles as he can)
+0.94 (Hansel; sneaks out of the house After; T:the parents have gone to bed)
+0.92 (Hansel; sneaks out; of the house)
+0.90 (the parents; have gone to; bed)
+
+The next day, the family walk deep into the woods and Hansel lays a trail of white pebbles.
+0.92 (Hansel; lays; a trail of white pebbles)
+0.95 (the family; walk; T:The next day)
+0.93 (the family; walk; deep into the woods)
+
+After their parents abandon them, Hansel and Gretel follow the trail back home.
+0.90 (Gretel; follow the trail After; T:their parents abandon them)
+0.80 (Gretel; follow the trail; back home)
+0.92 (Gretel; follow; the trail)
+0.90 (Hansel; follow the trail After; T:their parents abandon them)
+0.80 (Hansel; follow the trail; back home)
+0.92 (Hansel; follow; the trail)
+0.49 (their parents; abandon; them)
+
+When their stepmother sees them, she is furious and locks them in the house.
+0.64 (their stepmother; locks them in; L:the house)
+0.56 (their stepmother; locks; them)
+0.40 (she; is furious; T:When their stepmother sees them)
+0.28 (she; is; furious)
+0.49 (their stepmother; sees; them)
+
+Hansel and Gretel are unable to escape to collect pebbles.
+0.89 Context(Gretel to escape,List([0, 27))):(Gretel; to escape to collect; pebbles)
+0.89 (Gretel; to escape to; collect pebbles)
+0.80 (Gretel; are; unable to escape)
+0.88 (Hansel; to escape to; collect pebbles)
+0.75 (Hansel; are; unable to escape)
+
+The following morning, the family treks deeper into the woods.
+0.95 (the family; treks; T:The following morning)
+0.93 (the family; treks; deeper into the woods)
+
+Hansel takes a slice of bread and leaves a trail of bread crumbs for them to follow home.
+0.45 (them; to follow; home)
+0.91 (Hansel; leaves; a trail of bread crumbs for them to follow home)
+0.92 (Hansel; takes; a slice of bread)
+
+However, after they are once again abandoned, they find that birds have eaten the crumbs, leaving them lost in the woods.
+0.69 Context(they find birds have eaten,List([46, 77))):(birds; have eaten the crumbs leaving them; lost in the woods)
+0.54 Context(they find birds have eaten,List([46, 77))):(birds; have eaten the crumbs leaving; them)
+0.60 Context(they find,List([46, 55))):(birds; have eaten the crumbs; leaving them lost in the woods)
+0.77 Context(they find,List([46, 55))):(birds; have eaten; the crumbs)
+0.50 (they; find that birds have eaten the crumbs , leaving them lost in the woods after; T:they are once again abandoned)
+0.52 (they; find that; birds have eaten the crumbs, leaving them lost in the woods)
+0.45 (them; lost in; L:the woods)
+0.35 (they; are abandoned; T:once again)
+
+After days of wandering, they follow a beautiful white bird to a clearing in the woods, and discover a large cottage built of gingerbread, cakes, and candy, with window panes of clear sugar.
+0.91 (a large cottage; built of; candy)
+0.91 (a large cottage; built of; cakes)
+0.91 (a large cottage; built of; gingerbread)
+0.70 (they; follow a beautiful white bird After; T:days of wandering)
+0.62 (they; follow a beautiful white bird to; a clearing in the woods)
+0.62 (they; follow; a beautiful white bird)
+
+Hungry and tired, the children begin to eat the roof, when the door opens and a hideous old woman emerges and lures the children inside, with the promise of soft beds, delicious food, and a hot bath.
+0.77 (the children; lures the children; inside)
+0.90 (the children; lures; the children)
+0.77 (a hideous old woman; emerges; )
+0.73 (the door; opens; )
+0.79 (the children; begin to eat the roof , with the promise of a hot bath; T:tired)
+0.92 (the children; begin to; eat the roof , with the promise of a hot bath)
+0.79 (the children; begin to eat the roof , with the promise of delicious food; T:tired)
+0.92 (the children; begin to; eat the roof , with the promise of delicious food)
+0.88 Context(the children begin,List([8, 26))):(the children; begin to eat; the roof)
+0.79 (the children; begin to eat the roof , with the promise of soft beds; T:tired)
+0.92 (the children; begin to; eat the roof , with the promise of soft beds)
+0.89 (the children; to eat; the roof)
+0.73 (the children; begin; )
+
+They do this unaware that their hostess is a bloodthirsty witch who built the gingerbread house to waylay children to cook and eat them.
+0.67 (a bloodthirsty witch; built the gingerbread house to; cook)
+0.90 (a bloodthirsty witch; built; the gingerbread house)
+0.79 (their hostess; is; a bloodthirsty witch who built the gingerbread house to waylay children)
+0.43 (They; do; this)
+
+The next morning, the witch throws Hansel into a cage and enslaves Gretel, forcing her to work from dawn till dusk.
+0.35 (her; to work till; T:dusk)
+0.45 (her; to work from; dawn)
+0.93 (The next morning; enslaves; Gretel)
+0.93 (the witch; throws Hansel; T:The next morning)
+0.90 (the witch; throws Hansel into; a cage)
+0.94 (the witch; throws; Hansel)
+
+The witch force-feeds Hansel regularly to fatten him up.
+0.75 (The witch force; feeds regularly to; fatten him up)
+
+Hansel realizes this and uses the witch's tendency to his advantage.
+0.86 (Hansel; uses the witch 's tendency to; his advantage)
+0.92 (Hansel; uses; the witch 's tendency)
+0.80 (Hansel; realizes; this)
+
+Because of the witch's blindness, she is fooled into thinking Hansel is too thin to eat.
+0.81 Context(she into thinking,List([34, 61))):(Hansel; is; too thin to eat)
+0.40 (she; into thinking; Hansel is too thin to eat)
+0.74 (Hansel; to eat; )
+0.50 (she; is fooled into; thinking Hansel is too thin to eat)
+
+After weeks of the same result, the witch grows impatient and decides to eat Hansel anyway.
+0.89 Context(the witch decides,List([33, 50))):(the witch; decides to eat anyway; Hansel)
+0.91 (the witch; decides to eat Hansel anyway After; T:weeks of the same result)
+0.90 (the witch; decides to; eat Hansel anyway)
+0.93 (the witch; grows impatient After; T:weeks of the same result)
+0.81 (the witch; grows; impatient)
+
+The next day, the witch prepares the oven for Hansel, but decides she is hungry enough to eat Gretel too.
+0.51 Context(The next day decides,List([0, 20))):(she; is; hungry enough to eat Gretel too)
+0.84 (The next day; decides; she is hungry enough to eat Gretel too)
+0.45 (she; to eat too; Gretel)
+0.93 (the witch; prepares the oven for Hansel; T:The next day)
+0.92 (the witch; prepares; the oven for Hansel)
+
+She coaxes Gretel to open the oven and prods her to lean over in front of it to see if the fire is hot enough.
+0.77 Context(her to lean to see,List([10, 48))):(the fire; is; hot enough)
+0.29 Context(her to lean,List([10, 21))):(her; to lean over to see if; the fire is hot enough)
+0.29 (her; to lean over to; see if the fire is hot enough)
+0.26 (her; to lean over in; L:front of it)
+0.42 (She; prods her to; lean over in front of it to see if the fire is hot enough)
+0.37 (She; prods; her)
+0.92 (Gretel; to open; the oven)
+
+Gretel, sensing the witch's intent, pretends she does not understand what she means.
+0.16 Context(Gretel pretends she does not understand,List([0, 68))):(she; means; )
+0.26 Context(Gretel pretends,List([0, 44))):(she; does not understand; what she means)
+0.88 Context(Gretel pretends,List([0, 44))):(Gretel; pretends sensing; the witch's intent)
+0.80 (Gretel; pretends; she does not understand what she means)
+
+Infuriated, the witch demonstrates, and Gretel pushes her into the oven, leaving "the ungodly creature to be burned to ashes".
+0.83 Context(Gretel pushes,List([0, 13))):(Gretel; pushes her leaving; the ungodly creature to be burned to ashes ")
+0.90 (Gretel; pushes her into; the oven)
+0.83 (Gretel; pushes; her)
+0.91 (the ungodly creature; to be burned to; ashes)
+0.73 (the witch; demonstrates; )
+
+Gretel frees Hansel from the cage and the pair discovers a vase full of treasure and precious stones.
+0.90 (the pair; discovers; a vase full of precious stones)
+0.90 (the pair; discovers; a vase full of treasure)
+0.92 (Gretel; frees Hansel from; the cage)
+0.93 (Gretel; frees; Hansel)
+
+Putting the jewels into their clothing, the children set off for home.
+0.88 (the children; set off; T:Putting the jewels into their clothing)
+0.90 (the children; set off for; home)
+
+They arrive home to hear that their stepmother had since died from unknown causes and their father had not had a happy day since they were gone.
+0.43 Context(They to hear,List([0, 24))):(their father; had not had; a happy day since they were gone)
+0.37 (They; to hear that; their father had not had a happy day)
+0.32 (they; were gone; )
+0.25 (They; arrive to; hear that their father had not had a happy day)
+0.48 Context(They to hear,List([0, 24))):(their stepmother; had died from; unknown causes)
+0.37 (They; to hear that; their stepmother had since died from unknown causes)
+0.25 (They; arrive to; hear that their stepmother had since died from unknown causes)
+0.36 (They; arrive; home)
+
+They live happily ever after with the witch's wealth they brought home.
+0.36 (they; brought; home)
+0.32 (They; live happily; )

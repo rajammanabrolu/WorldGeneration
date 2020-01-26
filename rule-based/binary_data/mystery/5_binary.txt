@@ -1,0 +1,220 @@
+Lord Bellinger, the Prime Minister, and the Right Honourable Trelawney Hope, the Secretary of State for European Affairs, come to Holmes in the matter of a document stolen from Hope's dispatch box, which he kept at home in Whitehall Terrace when not at work.
+0.90 (the Right Honourable Trelawney Hope; come in; T:the matter of a document)
+0.94 (the Right Honourable Trelawney Hope; come to; Holmes)
+0.88 (Lord Bellinger; [is]; the Prime Minister)
+0.91 (Hope 's dispatch box; kept in; T:Whitehall Terrace)
+0.93 (Hope 's dispatch box; kept at; L:home)
+0.92 (a document; stolen from; Hope 's dispatch box)
+
+If divulged, this document could bring about very dire consequences for all Europe, even war.
+0.92 (this document; could bring about; very dire consequences for all Europe, even war)
+
+They are loath to tell Holmes at first the exact nature of the document's contents, but when Holmes declines to take on their case, they tell him that it was a rather injudicious letter from a foreign potentate.
+0.46 Context(they tell,List([45, 54))):(it; was; a rather injudicious letter from a foreign potentate)
+0.55 (they; tell him; T:when Holmes declines to take on their case)
+0.52 (they; tell him that; it was a rather injudicious letter from a foreign potentate)
+0.47 (they; tell; him)
+0.83 Context(Holmes declines,List([5, 20))):(Holmes; declines to take on; their case)
+0.83 (Holmes; declines to; take on their case)
+0.58 (They; to tell Holmes at; T:first the exact nature of the document 's contents)
+0.62 (They; to tell; Holmes)
+0.76 (They; are; loath to tell Holmes at first the exact nature of the document 's contents)
+
+It disappeared from the dispatch box one evening when Hope's wife was out at the theatre for four hours.
+0.93 (Hope's wife; was out at the theatre for; T:four hours)
+0.95 (Hope's wife; was; out at the theatre)
+0.57 (It; disappeared; T:when Hope's wife was out at the theatre for four hours)
+0.41 (It; disappeared; T:one evening)
+0.45 (It; disappeared from; the dispatch box)
+
+No-one in the house knew about the document, not even the Secretary's wife.
+0.93 (No-one in the house; knew about; the document)
+
+None of the servants could have guessed what was in the box.
+0.90 (None of the servants; could have guessed; what was in the box)
+
+Holmes decides to begin with some spies known to him, and is then astonished to hear from Dr. Watson that one of those that he names, Eduardo Lucas, has been murdered.
+0.50 Context(Holmes decides Eduardo Lucas has been murdered,List([0, 115))):(Holmes; decides to begin with some spies; one of those)
+0.90 Context(Holmes decides Eduardo Lucas has been murdered,List([0, 115))):(Holmes; decides to begin with; some spies)
+0.74 Context(Eduardo Lucas has been murdered,List([82, 115))):(Holmes; decides to; begin with some spies known to him one of those)
+0.71 (Eduardo Lucas; has been murdered; )
+0.20 (those; names; he)
+0.83 (some spies; known to; him)
+
+Before Holmes has a chance to act, Lady Hilda Trelawney Hope, the European Secretary's wife, arrives unexpectedly at 221B Baker Street.
+0.38 (Lady Hilda Trelawney Hope; [is] the Secretary [from]; Europe)
+0.38 (Lady Hilda Trelawney Hope; [is] wife [of]; the European Secretary)
+0.73 Context(Holmes has,List([7, 17))):(Holmes; has a chance to act to act; )
+0.92 (Holmes; has; a chance to act)
+0.96 (Lady Hilda Trelawney Hope; arrives unexpectedly Before; T:Holmes has a chance)
+0.94 (Lady Hilda Trelawney Hope; arrives unexpectedly at; 221B Baker Street)
+
+She asks Holmes insistently about the stolen document's contents, but Holmes only reveals to her that there would be very unfortunate consequences if the document were not found.
+0.88 (Holmes; only reveals to her that; there would be very unfortunate consequences if the document were not found)
+0.83 (Holmes; only reveals to; her)
+0.73 (the document; were not found; )
+0.35 (She; asks Holmes about; the stolen document 's contents)
+0.23 (She; asks Holmes; T:insistently)
+0.57 (She; asks; Holmes)
+
+Lady Hilda also begs Holmes to tell her husband nothing of her visit.
+0.86 (Holmes; to tell; her husband nothing of her visit)
+0.85 (Lady Hilda; begs Holmes to; tell her husband nothing of her visit)
+0.94 (Lady Hilda; begs; Holmes)
+
+Holmes's spy hunt does not go well.
+0.82 (Holmes's spy hunt; does not go well; )
+
+Four days after the murder, French police arrest the probable culprit of it, a woman whom Lucas has married in Paris, under the alias of "Henri Fournaye".
+0.90 (Lucas; has married under; L:the alias of "Henri Fournaye)
+0.93 (Lucas; has married in; L:Paris)
+
+She was seen in London near Eduardo Lucas' house the night of the crime, but she is now useless as a witness because she has gone insane.
+0.23 (she; has gone; insane)
+0.23 (she; is useless as a witness because; she has gone insane)
+0.48 (she; is; useless as a witness)
+0.22 (she; is useless as a witness; T:now)
+0.39 (She; was seen near; L:Eduardo Lucas ' house)
+0.50 (She; was seen in; L:London)
+
+Inspector Lestrade calls Holmes to the murder scene to examine something odd.
+0.86 Context(Inspector Lestrade calls,List([0, 24))):(Inspector Lestrade; calls Holmes to examine; something odd)
+0.86 (Inspector Lestrade; calls Holmes to; examine something odd)
+0.94 (Inspector Lestrade; calls; Holmes)
+
+Lucas bled over a drugget, and the blood soaked through it, but curiously, there is no bloodstain on the floor under the drugget.
+0.77 (Lucas; bled curiously; )
+0.73 (the blood; soaked; )
+0.92 (Lucas; bled over; L:a drugget)
+
+It can only mean that the constable guarding the crime scene has been foolish enough to let someone in, and leave them alone while they moved things in the room, including the carpet.
+0.85 Context(It can only mean,List([0, 16))):(the constable guarding the crime scene; has been; foolish enough to leave them alone)
+0.36 (It; can only mean that; the constable guarding the crime scene has been foolish enough to leave them alone)
+0.62 (they; moved things in; L:the room)
+0.62 (they; moved; things)
+0.87 (the constable guarding the crime scene; to leave them while; T:they moved things in the room , including the carpet)
+0.80 (the constable guarding the crime scene; to leave them; alone)
+0.86 (the constable guarding the crime scene; to leave; them)
+0.91 Context(It can only mean,List([0, 16))):(the constable guarding the crime scene; has been; foolish enough to let someone in)
+0.50 (It; can only mean that; the constable guarding the crime scene has been foolish enough to let someone in)
+0.92 (the constable guarding the crime scene; to let; someone in)
+0.57 (the constable; guarding; the crime scene)
+
+Holmes tells Lestrade to take the constable to a back room and obtain a confession, which he does, vigorously.
+0.88 (a confession; does; he)
+0.86 (Lestrade; to obtain; a confession , which he does)
+0.92 (Lestrade; to take the constable to; a back room)
+0.92 (Lestrade; to take; the constable)
+0.92 (Holmes; tells vigorously Lestrade to; take the constable to a back room)
+0.93 (Holmes; tells vigorously; Lestrade)
+
+While Lestrade is remonstrating with his wayward constable, Holmes pulls the unfastened carpet aside and quickly finds a hiding place in the floor, but it is empty.
+0.28 (it; is; empty)
+0.80 (Holmes; pulls the unfastened carpet; aside)
+0.94 (Holmes; pulls; the unfastened carpet)
+0.77 (Lestrade; is remonstrating; )
+
+Lestrade and the constable come back, and the latter tells Holmes that the unauthorized visitor was a young woman.
+0.91 Context(the latter tells,List([0, 16))):(the unauthorized visitor; was; a young woman)
+0.50 (the latter; tells Holmes that; the unauthorized visitor was a young woman)
+0.62 (the latter; tells; Holmes)
+
+She apparently fainted at the sight of the blood, and the constable then actually went out to get some brandy to revive her, but she had left before he got back.
+0.19 (he; got back; )
+0.31 (she; had left before; T:he got back)
+0.80 Context(the constable actually went to get,List([0, 43))):(some brandy; to revive; her)
+0.23 Context(the constable actually went,List([0, 32))):(the constable; actually went to get; some brandy to revive her)
+0.35 (the constable; actually went; T:then)
+0.23 (the constable; actually went to; get some brandy to revive her)
+0.23 (the constable; actually went; out)
+0.45 (She; apparently fainted at; L:the sight of the blood)
+
+As Holmes is leaving Lucas's house, he shows the constable a photograph, and he recognizes it as the visitor.
+0.45 (he; recognizes it as; the visitor)
+0.31 (he; recognizes; it)
+0.59 (he; shows the constable As; T:Holmes is leaving Lucas 's house)
+0.45 (he; shows the constable; a photograph)
+0.52 (he; shows; the constable)
+0.93 (Holmes; is leaving; Lucas 's house)
+
+Holmes goes to the Hope household and confronts Lady Hilda, accusing her of the theft.
+0.85 Context(Holmes confronts,List([0, 16))):(Holmes; confronts Lady Hilda accusing her of; the theft)
+0.76 Context(Holmes confronts,List([0, 16))):(Holmes; confronts Lady Hilda accusing; her)
+0.91 (Holmes; confronts; Lady Hilda)
+0.91 (Holmes; accusing her of; the theft)
+0.84 (Holmes; accusing; her)
+0.93 (Holmes; goes to; the Hope household)
+
+At first, she denies everything, but is forced to admit her wrongdoing under threat of certain scandal.
+0.27 (she; to admit; her wrongdoing)
+0.30 (she; is forced to admit her wrongdoing under threat of certain scandal At; T:first)
+0.31 (she; is forced to; admit her wrongdoing under threat of certain scandal)
+0.30 (she; denies everything At; T:first)
+0.45 (she; denies; everything)
+
+Lucas was blackmailing her with a compromising letter written by Lady Hilda years earlier, and demanded the contents of her husband's dispatch box for the return thereof.
+0.91 (Lucas; demanded; the contents of her husband 's dispatch box for the return thereof)
+0.93 (a compromising letter; written by; Lady Hilda years earlier)
+0.86 (Lucas; was blackmailing; her)
+
+She went to his house to do the business when, as it happens, his wife from Paris showed up and confronted him about his affair, believing that Lady Hilda was his mistress.
+0.88 Context(She went believing,List([0, 116))):(Lady Hilda; was; his mistress)
+0.21 Context(She went,List([0, 8))):(She; went believing that; Lady Hilda was his mistress)
+0.26 Context(She went,List([0, 8))):(She; went to do; the business when , as it happens , his wife confronted him about his affair)
+0.58 (his wife; confronted him as; T:it happens)
+0.49 (his wife; confronted him about; his affair)
+0.49 (his wife; confronted; him)
+0.30 Context(She went,List([0, 8))):(She; went to do; the business when , as it happens , his wife from Paris showed up)
+0.29 (She; went to; do the business)
+0.26 (She; went to; his house)
+0.46 (his wife from Paris; showed up; )
+0.19 (it; happens; )
+
+Lady Hilda hurriedly left.
+0.79 (Lady Hilda; hurriedly left; )
+
+She returned, however, to fetch the stolen document after her visit to Holmes convinced her that she needed to do this.
+0.18 Context(her visit to Holmes convinced she needed,List([58, 107))):(she; needed to do; this)
+0.18 Context(her visit to Holmes convinced,List([58, 87))):(she; needed to; do this)
+0.55 (her visit to Holmes; convinced her that; she needed to do this)
+0.55 (her visit to Holmes; convinced; her)
+0.41 (She; to fetch; the stolen document)
+0.17 (She; returned after; T:her visit to Holmes convinced her that she needed to do this)
+0.19 (She; returned; however)
+
+She hands the document to Holmes.
+0.50 (She; hands the document to; Holmes)
+0.52 (She; hands; the document)
+
+Holmes suggests putting it back in the dispatch box using Lady Hilda's duplicate key.
+0.87 Context(Holmes suggests putting,List([0, 23))):(Holmes; suggests putting it using; Lady Hilda's duplicate key)
+0.90 Context(Holmes suggests,List([0, 15))):(Holmes; suggests putting it; back in the dispatch box)
+0.83 Context(Holmes suggests,List([0, 15))):(Holmes; suggests putting; it)
+0.90 (Holmes; suggests; putting it back in the dispatch box using Lady Hilda's duplicate key)
+
+They do this, and when Hope arrives back home with the Prime Minister, Holmes pretends to believe that the evidence has convinced him that the document must still be in the box.
+0.71 Context(Holmes pretends to believe the evidence has convinced,List([54, 112))):(the document; must be in the box; T:still)
+0.82 Context(Holmes pretends to believe the evidence has convinced,List([54, 112))):(the document; must be in; the box)
+0.88 Context(Holmes pretends to believe,List([54, 80))):(the evidence; has convinced him that; the document must still be in the box)
+0.80 Context(Holmes pretends to believe,List([54, 80))):(the evidence; has convinced; him)
+0.74 Context(Holmes pretends,List([54, 69))):(Holmes; pretends to believe that; the evidence has convinced him that the document must still be in the box)
+0.94 (Holmes; pretends to believe that the evidence has convinced him that the document must still be in the box; T:when Hope arrives back home with the Prime Minister)
+0.74 (Holmes; pretends to; believe that the evidence has convinced him that the document must still be in the box)
+0.93 (Hope; arrives; back home with the Prime Minister)
+0.43 (They; do; this)
+
+It is soon found, and Hope rejoices that it was only a mistake.
+0.22 (It; is found; T:soon)
+
+In this way, the lost document is restored without Lady Hilda's part in the affair being revealed—though at the possible price of making her husband look a bit stupid.
+0.84 (the affair; being revealed though; L:at the possible price of making her husband look a bit stupid)
+0.75 (the lost document; is restored; )
+
+The Prime Minister, however, is no fool.
+0.94 (The Prime Minister; is; no fool)
+
+He can see that there is an underlying story, but Holmes simply responds, "We also have our diplomatic secrets."
+0.23 Context(He can see Holmes simply responds,List([0, 33))):(We; have; our diplomatic secrets)
+0.80 Context(He can see,List([0, 10))):(Holmes; simply responds; We also have our diplomatic secrets)
+0.40 (He; can see; Holmes simply responds , " We also have our diplomatic secrets)
+0.26 (He; can see that; there is an underlying story)

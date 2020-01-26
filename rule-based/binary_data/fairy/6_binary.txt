@@ -1,0 +1,85 @@
+In 1284, while the town of Hamelin was suffering from a rat infestation, a piper dressed in multicolored.
+0.90 (a piper; dressed in; multicolored)
+0.94 (the town of Hamelin; was suffering from; a rat infestation)
+
+The piper accepted and played his pipe to lure the rats into the Weser River, where they all drowned.
+0.28 (they; drowned; )
+0.73 (The piper; accepted; )
+
+Despite the piper's success, the mayor reneged on his promise and refused to pay him the full sum even going so far as to blame the piper for bringing the rats himself in an extortion attempt.
+0.87 Context(the mayor refused to pay,List([31, 55))):(the full sum; even going; so far as to blame the piper for bringing the rats himself in an extortion attempt)
+0.88 Context(the mayor refused,List([31, 48))):(the mayor; refused to pay him; the full sum even going so far)
+0.80 Context(the mayor refused,List([31, 48))):(the mayor; refused to pay; him)
+0.80 (the mayor; refused to; pay him the full sum even going so far)
+0.83 (the mayor; reneged on; his promise)
+
+Enraged, the piper stormed out of the town, vowing to return later to take revenge.
+0.82 Context(the piper stormed,List([9, 26))):(the piper; stormed out of the town vowing to; return later to take revenge)
+0.79 (the piper; stormed out of the town; T:Enraged)
+0.88 (the piper; stormed out; of the town)
+
+On Saint John and Paul's day, while the adults were in church, the piper returned dressed in green like a hunter and playing his pipe.
+0.94 (the piper; returned dressed in green On; T:Saint Paul 's day)
+0.94 (the piper; returned dressed On; T:Saint Paul 's day)
+0.94 (the piper; returned dressed in green On; L:Saint John)
+0.77 (the piper; returned dressed in; green)
+0.89 (the piper; dressed in; green like a hunter)
+0.93 (the piper; returned dressed while; T:the adults were in church)
+0.94 (the piper; returned dressed On; L:Saint John)
+0.90 (the adults; were in; church)
+
+In so doing, he attracted the town's children.
+0.30 (he; attracted the town 's children In; T:so doing)
+0.45 (he; attracted; the town's children)
+0.15 (so; doing; )
+
+130 children followed him out of town and into a cave and were never seen again.
+0.90 (130 children; followed him into; a cave)
+0.90 (130 children; followed him out; of town)
+0.83 (130 children; followed; him)
+0.77 (130 children; were never seen; T:again)
+
+Depending on the version, at most three children remained behind: one was lame and could not follow quickly enough, the second was deaf and therefore could not hear the music, and the last was blind and therefore unable to see where he was going.
+0.16 Context(the last to see,List([32, 68))):(he; was going; )
+0.33 (the last; to see; where he was going)
+0.49 (the last; was; therefore unable to see where he was going)
+0.38 (the last; was; blind)
+0.38 (the second; was; deaf)
+0.36 (one; was; lame)
+0.80 (at most three children; remained; behind)
+
+These three informed the villagers of what had happened when they came out from church.
+0.62 (they; came out from; church)
+0.57 (These three; informed; the villagers of what had happened)
+
+Other versions relate that the Pied Piper led the children to the top of Koppelberg Hill, where he took them to a beautiful land, or a place called Koppenberg Mountain, or Transylvania, or that he made them walk into the Weser as he did with the rats, and they all drowned.
+0.50 (he; took them to; Transylvania)
+0.92 (a place; called; Koppenberg Mountain)
+0.45 (he; took them to; a place)
+0.45 (he; took them to; a beautiful land)
+0.31 (he; took; them)
+0.24 (they; drowned; )
+0.44 Context(he made,List([96, 103))):(them; walk into; the Weser)
+0.30 (he; made; them walk into the Weser)
+0.45 (he; did with; the rats)
+
+Some versions state that the Piper returned the children after payment, or that he returned the children after the villagers paid several times the original amount of gold.
+0.51 Context(Some versions state,List([0, 19))):(he; returned the children after; T:the villagers paid several times the original amount of gold)
+0.40 Context(Some versions state,List([0, 19))):(he; returned; the children)
+0.87 (Some versions; state that; he returned the children after the villagers paid several times the original amount of gold)
+0.89 (the villagers; paid; the original amount of gold)
+0.90 (the villagers; paid the original amount of gold; T:several times)
+0.90 (Some versions; state that; the Piper returned the children after payment)
+
+The Hamlin street named Bungelosenstrasse is believed to be the last place that the children were seen.
+0.94 (the last place; were seen; the children)
+0.81 (The Hamlin street; to be; the last place that the children were seen)
+0.78 (The Hamlin street; is believed; )
+0.94 (The Hamlin street; named; Bungelosenstrasse)
+
+Ever since, music or dancing is not allowed on this street.
+0.82 (dancing; is not allowed; T:Ever since)
+0.89 (dancing; is not allowed on; L:this street)
+0.82 (music; is not allowed; T:Ever since)
+0.89 (music; is not allowed on; L:this street)
+

@@ -1,0 +1,263 @@
+Watson takes Holmes to a friend's estate near Reigate in Surrey to rest after a rather strenuous case in France.
+0.90 (Watson; takes Holmes to; rest after a rather strenuous case in France)
+0.93 (Watson; takes Holmes to; a friend's estate near Reigate in Surrey)
+0.93 (Watson; takes; Holmes)
+
+Holmes finds that his services are needed here, but he also finds that his recent illness serves him well.
+0.44 Context(he finds,List([0, 13))):(his recent illness; serves well; him)
+0.23 (he; finds that; his recent illness serves him well)
+0.33 Context(Holmes finds,List([0, 12))):(his services; are needed; L:here)
+0.83 (Holmes; finds that; his services are needed here)
+
+His host is Colonel Hayter.
+0.74 (His host; is; Colonel Hayter)
+
+There has recently been a burglary at the nearby Acton estate in which the thieves stole a motley assortment of things, even a ball of twine, but nothing terribly valuable.
+0.94 (the thieves; stole a motley assortment of things; L:the nearby Acton estate)
+0.90 (the thieves; stole; a motley assortment of things)
+
+Then one morning, the Colonel's butler tells news of a murder at another nearby estate, the Cunninghams'.
+0.96 (the Colonel's butler; tells news of a murder at another nearby estate; T:one morning)
+0.89 (the Colonel's butler; tells news of a murder at another nearby estate; T:Then)
+0.95 (the Colonel's butler; tells; news of a murder at another nearby estate)
+
+The victim is William Kirwan, the coachman.
+0.94 (The victim; is; William Kirwan)
+
+Inspector Forrester has taken charge of the investigation, and there is one physical clue: a torn piece of paper found in William's hand with a few words written on it.
+0.85 (a few words; written on; L:it)
+0.91 (paper; found in; L:William 's hand)
+0.93 (Inspector Forrester; has taken; charge of the investigation)
+
+Holmes takes an instant interest in this, seeing something that Forrester has missed: it is quite clear to Holmes that the fragment of a note was written by two men, each writing alternate words.
+0.94 (something; has missed; Forrester)
+0.54 (each; writing; alternate words)
+
+One man is young, and the other rather older.
+0.81 (One man; is; young)
+
+Moreover, they are related.
+0.28 (they; related; )
+0.36 (they; are; related)
+
+Holmes, an expert at studying handwriting, does not voice this or any other observation or conclusion until the end of the story.
+0.88 Context(Holmes does not voice,List([0, 59))):(Holmes; does not voice conclusion at studying; handwriting)
+0.88 (Holmes; does not voice conclusion until; T:the end of the story)
+0.88 (Holmes; does not voice; conclusion)
+0.88 Context(Holmes does not voice,List([0, 59))):(Holmes; does not voice any other observation until the end of the story at studying; handwriting)
+0.88 (Holmes; does not voice; any other observation until the end of the story)
+0.89 (Holmes; [is] an expert at; studying handwriting)
+0.88 Context(Holmes does not voice,List([0, 59))):(Holmes; does not voice this at studying; handwriting)
+0.88 (Holmes; does not voice this until; T:the end of the story)
+0.72 (Holmes; does not voice; this)
+
+He also observes that one line says "quarter to twelve", coincidentally the time of William's murder.
+0.62 Context(He observes,List([0, 16))):(one line; says quarter to; twelve)
+0.86 Context(He observes,List([0, 16))):(one line; says; quarter)
+0.35 (He; observes that; one line says "quarter to twelve)
+
+One of the first facts to emerge is that there is a longstanding legal dispute between the Actons and the Cunninghams involving ownership of about half of the estate currently in the Cunninghams' hands.
+0.90 (One of the first facts; is that; there is a longstanding legal dispute between the Actons and the Cunninghams)
+0.98 (a longstanding legal dispute between the Actons and the Cunninghams; involving; ownership of about half of the estate currently in the Cunninghams' hands)
+
+Holmes spends quite a bit of time investigating and interviewing the two Cunningham men, young Alec and his ageing father.
+0.80 (Holmes; spends quite a bit of time; his ageing father)
+0.91 (Holmes; spends quite a bit of time; interviewing the two Cunningham men)
+0.92 Context(Holmes spends,List([0, 13))):(Holmes; spends quite a bit of time interviewing; the two Cunningham men)
+0.72 Context(Holmes spends,List([0, 13))):(Holmes; spends quite a bit of time investigating; )
+0.76 (Holmes; spends quite a bit of time; investigating)
+0.92 (Holmes; spends; quite a bit of time)
+
+Alec tells Holmes that he saw the burglar struggling with William when a shot went off and William fell dead.
+0.90 Context(Alec tells he saw,List([0, 29))):(the burglar; struggling with William; T:when William fell dead)
+0.84 (William; fell; dead)
+0.88 Context(Alec tells he saw,List([0, 29))):(the burglar; struggling with William; T:when a shot went off)
+0.90 Context(Alec tells he saw,List([0, 29))):(the burglar; struggling with; William)
+0.50 Context(Alec tells,List([0, 10))):(he; saw; the burglar struggling with William)
+0.85 (Alec; tells Holmes that; he saw the burglar struggling with William)
+0.93 (Alec; tells; Holmes)
+0.73 (a shot; went off; )
+
+The burglar ran off through a hedge to the road.
+0.73 (The burglar; ran off; )
+
+The elder Cunningham claims that he was in his room smoking at the time, and Alec says that he had also still been up.
+0.18 Context(Alec says,List([0, 9))):(he; had also been up; T:still)
+0.13 Context(Alec says,List([0, 9))):(he; had also been; up)
+0.83 (Alec; says that; he had also still been up)
+0.40 Context(The elder Cunningham claims,List([0, 27))):(he; was in his room smoking at; T:the time)
+0.26 Context(The elder Cunningham claims,List([0, 27))):(he; was in; his room smoking)
+0.86 (The elder Cunningham; claims that; he was in his room smoking at the time)
+
+Holmes knows that they are lying.
+0.27 Context(Holmes knows,List([0, 12))):(they; are lying; )
+0.83 (Holmes; knows that; they are lying)
+
+No burglar with any sense would break into a house when he could see by the lit lamps that someone was still afoot.
+0.77 (someone; was; afoot)
+0.74 (someone; was afoot; T:still)
+0.19 (he; could see; )
+0.93 (No burglar with any sense; would break into; a house)
+
+Also, William's body has no powder burns on it; so he was not shot at point-blank range as the Cunninghams claim.
+0.93 Context(he was not shot,List([51, 66))):(William's body; has; no powder)
+0.43 (he; was not shot at; point-blank range as the Cunninghams claim)
+0.86 (William's body; burns on; L:it)
+
+The escape route also does not bear their story out: there is a boggy ditch next to the road that the fleeing murderer would have had to cross, yet there are no signs of any footprints in it.
+0.72 (the fleeing murderer; to cross; )
+
+Holmes knows that it would be useful to get hold of the rest of that note found in William's hand.
+0.74 (Holmes; knows that; it would be useful to get hold of the rest of that note)
+0.92 (that note; found in; L:William's hand)
+
+He believes that the murderer snatched it away from William and thrust it into his pocket, never realizing that a scrap of it was still in the murdered coachman's hand.
+0.52 Context(He believes never realizing,List([0, 27))):(a scrap of it; was in; the murdered coachman 's hand)
+0.36 Context(He believes never realizing,List([0, 27))):(a scrap of it; was in the murdered coachman 's hand; T:still)
+0.36 (He; believes never realizing that; a scrap of it was still in the murdered coachman 's hand)
+0.31 (He; believes thrust it into; his pocket)
+0.31 (He; believes thrust; it)
+0.80 Context(He believes,List([0, 11))):(the murderer; snatched away; it)
+0.30 (He; believes that; the murderer snatched it away from William)
+
+Unfortunately, neither the police nor Holmes can get any information from William's mother, for she is quite old, deaf, and somewhat simple-minded.
+0.28 (she; is; somewhat simple - minded)
+0.24 (she; is; deaf)
+0.28 (she; is; quite old)
+
+Holmes puts his recent illness to use and fakes a fit just as Forrester is about to mention the one clue to the Cunninghams.
+0.92 (Holmes; puts fakes; a fit)
+0.94 (Holmes; puts; fakes)
+0.90 Context(Holmes puts,List([0, 11))):(Holmes; puts his recent illness to use; a fit)
+0.94 (Holmes; puts his recent illness to; use a fit just as Forrester is about to mention the one clue to the Cunninghams)
+0.86 (Holmes; puts; his recent illness)
+0.92 (Forrester; to mention; the one clue to the Cunninghams)
+
+He suspects that the Cunninghams know where the rest of the note is, and does not wish them to destroy it.
+0.26 Context(He suspects the Cunninghams know the rest of the note does not wish,List([0, 78))):(them; to destroy; it)
+0.84 Context(He suspects the Cunninghams know,List([0, 37))):(the rest of the note; does not wish; them to destroy it)
+0.92 Context(He suspects,List([0, 11))):(the Cunninghams; know; where the rest of the note does not wish them to destroy it)
+0.40 (He; suspects that; the Cunninghams know where the rest of the note does not wish them to destroy it)
+0.80 Context(He suspects the Cunninghams know,List([0, 37))):(the rest of the note; is; )
+0.93 Context(He suspects,List([0, 11))):(the Cunninghams; know; where the rest of the note is)
+0.56 (He; suspects that; the Cunninghams know where the rest of the note is)
+
+Holmes also cunningly gets the elder Cunningham to write the word "twelve", which appears on the scrap of paper recovered from the murder scene, by deliberately making a mistake in an advertisement that Holmes tells Cunningham to publish, and asking him to correct it.
+0.31 (him; to correct; it)
+0.86 (Holmes; asking him to; correct it)
+0.86 (Holmes; asking; him)
+0.89 (paper; recovered from; the murder scene)
+0.96 (the elder Cunningham to write the word " twelve "; appears on; L:the scrap of paper)
+0.94 (an advertisement; to publish; Cunningham)
+0.80 (Holmes; tells Cunningham to; publish)
+0.95 (Holmes; tells; Cunningham)
+0.95 (Holmes; cunningly gets; the elder Cunningham to write the word " twelve " , which appears on the scrap of paper)
+
+Holmes then insists on searching the Cunninghams' rooms despite their protests that the burglar, whom Holmes has by now dismissed as a fabrication, could not have gone there.
+0.88 Context(Holmes insists on searching,List([0, 32))):(the burglar, whom Holmes has by now dismissed as a fabrication; could not have gone; there)
+0.90 Context(Holmes insists,List([0, 19))):(Holmes; insists on searching; the Cunninghams' rooms)
+0.82 (Holmes; insists on searching the Cunninghams ' rooms despite their protests that the burglar , whom Holmes has by now dismissed as a fabrication , could not have gone there; T:then)
+0.74 (Holmes; insists on; searching the Cunninghams' rooms despite their protests that the burglar, whom Holmes has by now dismissed as a fabrication, could not have gone there)
+0.73 (the burglar; has dismissed as a fabrication; T:now)
+0.84 (the burglar; has dismissed as; a fabrication)
+
+He sees Alec's room and then his father's, where he deliberately knocks a small table over, sending some oranges and a water carafe to the floor.
+0.35 (He; sees; Alec 's room and then his father 's)
+
+The others have not been looking his way at the time, and Holmes implies that the cause is Watson's clumsiness.
+0.92 Context(Holmes implies,List([0, 14))):(the cause; is; Watson 's clumsiness)
+0.92 (Holmes; implies that; the cause is Watson 's clumsiness)
+0.90 (The others; have not been looking his way at; T:the time)
+0.83 (The others; have not been looking; his way)
+
+Watson plays along and starts grovelling about to gather up scattered oranges.
+0.88 Context(Watson starts grovelling about,List([0, 30))):(Watson; starts grovelling about to gather; scattered oranges)
+0.75 Context(Watson starts grovelling about,List([0, 30))):(Watson; starts grovelling about to gather scattered oranges; up)
+0.90 (Watson; starts grovelling about to; gather up scattered oranges)
+0.77 (Watson; plays along; )
+
+Everyone then notices that Holmes has left the room.
+0.92 (Holmes; has left; the room)
+
+Watson recognizes his friend's voice.
+0.86 (Watson; recognizes; his friend's voice)
+
+He and Forrester rush to Alec's room where they find Alec trying to throttle Holmes and his father apparently twisting Holmes's wrist.
+0.62 Context(they find Alec trying to throttle,List([37, 70))):(his father; apparently twisting; Holmes 's wrist)
+0.85 Context(they find Alec trying,List([37, 58))):(Alec; trying to throttle; his father apparently twisting Holmes 's wrist)
+0.85 Context(they find,List([37, 46))):(Alec; trying to; throttle his father apparently twisting Holmes 's wrist)
+0.91 Context(they find Alec trying to throttle,List([37, 70))):(Alec; trying to throttle Holmes apparently twisting; Holmes 's wrist)
+0.91 Context(they find Alec trying,List([37, 58))):(Alec; trying to throttle; Holmes)
+0.91 Context(they find,List([37, 46))):(Alec; trying to; throttle Holmes)
+0.62 Context(they find Alec trying to throttle,List([30, 63))):(his father; apparently twisting; Holmes 's wrist)
+0.85 Context(they find Alec trying,List([30, 51))):(Alec; trying to throttle; his father apparently twisting Holmes 's wrist)
+0.85 Context(they find,List([30, 39))):(Alec; trying to; throttle his father apparently twisting Holmes 's wrist)
+0.69 (they; find Alec trying to throttle his father apparently twisting Holmes 's wrist; L:Alec 's room)
+0.63 (they; find; Alec trying to throttle his father apparently twisting Holmes 's wrist)
+0.91 Context(they find Alec trying to throttle,List([30, 63))):(Alec; trying to throttle Holmes apparently twisting; Holmes 's wrist)
+0.91 Context(they find Alec trying,List([30, 51))):(Alec; trying to throttle; Holmes)
+0.91 Context(they find,List([30, 39))):(Alec; trying to; throttle Holmes)
+0.69 (they; find Alec trying to throttle Holmes; L:Alec 's room)
+0.66 (they; find; Alec trying to throttle Holmes)
+
+The Cunninghams are quickly restrained, and Holmes tells Forrester to arrest the two for murdering William Kirwan.
+0.93 (Forrester; to arrest the two for; murdering William Kirwan)
+0.80 (Forrester; to arrest; the two)
+0.93 (Holmes; tells Forrester to; arrest the two for murdering William Kirwan)
+0.95 (Holmes; tells; Forrester)
+0.82 (The Cunninghams; are quickly; restrained)
+
+At first, Forrester thinks Holmes must be mad, but Holmes draws his attention to the looks on their faces – very guilty.
+0.86 (Holmes; draws his attention to; the looks on their faces - very guilty)
+0.89 (Holmes; draws; his attention)
+0.76 Context(Forrester thinks,List([11, 27))):(Holmes; must be; mad)
+0.82 (Forrester; thinks Holmes must be mad At; T:first)
+0.93 (Forrester; thinks; Holmes must be mad)
+
+After a revolver is knocked out of Alec's hand, the two are arrested.
+0.70 (the two; are arrested After; T:a revolver is knocked out of Alec's hand)
+0.92 (a revolver; is knocked out; of Alec's hand)
+
+The gun, of course, is the one used to murder William, and it is seized.
+0.19 (it; is seized; )
+0.90 (The gun; to murder; William)
+
+Holmes has found the rest of the note, still in Alec's dressing gown pocket.
+0.92 (Holmes; has found; the rest of the note)
+
+It runs thus:
+0.19 (It; runs thus; )
+
+"If you will only come round at quarter to twelve     to the east gate you will learn what     will very much surprise you and maybe      be of the greatest service to you and also     to Annie Morrison.
+0.70 (you; will learn; what will maybe be of the greatest service also to Annie Morrison)
+0.52 (you; will learn; what will maybe be of the greatest service to you)
+0.40 (you; will learn; what will very much surprise you)
+0.51 (you; will only come to; twelve to the east gate)
+0.51 (you; will only come at; T:quarter)
+0.36 (you; will only come; T:round)
+
+The elder Cunningham's confidence is broken after his arrest and he tells all.
+0.28 (he; tells; all)
+0.90 (The elder Cunningham 's confidence; is broken after; T:his arrest)
+
+It seems that William followed his two employers the night they broke into the Acton estate.
+0.70 (they; broke into the Acton estate; T:the night)
+0.66 (they; broke into; the Acton estate)
+
+William then proceeded to blackmail his employers – not realizing that it was dangerous to do such a thing to Alec – and they thought to use the recent burglary scare as a plausible way of getting rid of him.
+0.52 Context(William proceeded not realizing they thought,List([0, 83))):(they; thought to use; the recent burglary scare as a plausible way of getting rid of him)
+0.52 Context(William proceeded not realizing,List([0, 65))):(they; thought to; use the recent burglary scare as a plausible way of getting rid of him)
+0.81 Context(William proceeded,List([0, 22))):(William; proceeded not realizing that; they thought to use the recent burglary scare as a plausible way of getting rid of him)
+0.82 (William; proceeded to blackmail his employers; T:then)
+0.80 (William; proceeded to; blackmail his employers)
+0.50 Context(William proceeded to blackmail not realizing,List([0, 65))):(it; was; dangerous to do such a thing to Alec)
+0.84 Context(William proceeded to blackmail,List([0, 35))):(William; proceeded to blackmail his employers not realizing that; it was dangerous to do such a thing to Alec)
+0.80 Context(William proceeded,List([0, 22))):(William; proceeded to blackmail; his employers)
+0.82 (William; proceeded to blackmail his employers - not realizing that it was dangerous to do such a thing to Alec -; T:then)
+0.74 (William; proceeded to; blackmail his employers - not realizing that it was dangerous to do such a thing to Alec -)
+0.46 (it; to do such a thing to; Alec)
+0.41 (it; to do; such a thing)
+
+With a bit more attention paid to detail, they might very well have evaded all suspicion.
+0.62 (they; might very well have evaded; all suspicion)
+0.92 (a bit more attention; paid to; detail)

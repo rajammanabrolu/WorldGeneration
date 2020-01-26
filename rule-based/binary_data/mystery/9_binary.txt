@@ -1,0 +1,165 @@
+Sherlock Holmes and Dr. Watson rise unusually early one morning to meet a young woman named Helen Stoner who fears that her life is being threatened by her stepfather, Dr. Grimesby Roylott.
+0.42 Context(a young woman named Helen Stoner fears,List([52, 94))):(her life; is being threatened by; her stepfather)
+0.80 (Dr. Watson; to meet; a young woman named Helen Stoner who fears that her life is being threatened by her stepfather , Dr. Grimesby Roylott)
+0.89 (Dr. Watson; rise to; meet a young woman)
+0.93 (Dr. Watson; rise; T:unusually early one morning)
+0.39 (Dr. Grimesby Roylott; [is] stepfather [of]; hers)
+0.42 Context(a young woman named Helen Stoner fears,List([57, 99))):(her life; is being threatened by; her stepfather)
+0.87 (a young woman named Helen Stoner; fears that; her life is being threatened by her stepfather)
+0.80 (Sherlock Holmes; to meet; a young woman named Helen Stoner who fears that her life is being threatened by her stepfather , Dr. Grimesby Roylott)
+0.89 (Sherlock Holmes; rise to; meet a young woman)
+0.93 (Sherlock Holmes; rise; T:unusually early one morning)
+
+Roylott is a doctor who practiced in Calcutta, India and was married to Helen's late mother when she was a widow living there.
+0.77 (a widow; living; L:there)
+0.52 (she; was; a widow living there)
+0.81 (a doctor; was married to Helen 's late mother; T:when she was a widow)
+0.93 (a doctor; was; married to Helen 's late mother)
+0.97 (Roylott; is; a doctor who was married to Helen 's late mother)
+0.90 (a doctor; practiced in; L:Calcutta)
+0.95 (Roylott; is; a doctor who practiced in Calcutta , India)
+
+He is also the impoverished last survivor of what was once a wealthy but violent, ill-tempered and amoral Anglo-Saxon aristocratic family of Surrey, and has already served a jail sentence for killing his Indian butler in a rage.
+0.61 (He; is also; the impoverished last survivor of what was once a violent , amoral Anglo - Saxon aristocratic family of Surrey)
+0.61 (He; is also; the impoverished last survivor of what was once a violent , ill - tempered Anglo - Saxon aristocratic family of Surrey)
+0.61 (He; is also; the impoverished last survivor of what was once a wealthy , amoral Anglo - Saxon aristocratic family of Surrey)
+0.61 (He; is also; the impoverished last survivor of what was once a wealthy , ill - tempered Anglo - Saxon aristocratic family of Surrey)
+0.22 (He; has served a jail sentence for killing his Indian butler in a rage; T:already)
+0.32 (He; has served; a jail sentence for killing his Indian butler in a rage)
+
+Helen's twin sister had died almost two years earlier, shortly before she was to be married.
+0.17 (she; to be married; )
+0.94 (Helen's twin sister; had died; T:almost two years earlier)
+
+Helen had heard her sister's dying words, "The speckled band!" but was unable to decode their meaning.
+0.84 (Helen; to decode; their meaning)
+0.89 (Helen; was; unable to decode their meaning)
+0.86 (Helen; had heard; her sister 's dying words)
+
+Helen herself, troubled by the perplexing death of her sister, is now engaged, and she has begun to hear strange noises and observe strange activities around Stoke Moran, the impoverished and heavily mortgaged estate where she and her stepfather live.
+0.44 Context(she has begun,List([0, 13))):(she; has begun observe; strange activities around Stoke Moran)
+0.44 (she; has begun; observe strange activities around Stoke Moran)
+0.41 Context(she has begun,List([0, 13))):(she; has begun observe; strange activities around Stoke Moran , the heavily mortgaged estate where and her stepfather live)
+0.41 (she; has begun; observe strange activities around Stoke Moran , the heavily mortgaged estate where and her stepfather live)
+0.41 Context(she has begun,List([0, 13))):(she; has begun observe; strange activities around Stoke Moran , the impoverished estate where and her stepfather live)
+0.41 (she; has begun; observe strange activities around Stoke Moran , the impoverished estate where and her stepfather live)
+0.40 Context(she has begun,List([0, 13))):(she; has begun to hear; strange noises)
+0.40 (she; has begun to; hear strange noises)
+0.26 Context(she has begun,List([0, 13))):(she; has begun to hear; strange noises where and her stepfather live)
+0.26 (she; has begun to; hear strange noises where and her stepfather live)
+0.86 (Helen; engaged; T:now)
+0.84 (Helen; troubled by; the perplexing death of her sister)
+
+Dr. Roylott also keeps strange company at the estate.
+0.91 (Dr. Roylott; keeps strange company at; the estate)
+0.91 (Dr. Roylott; keeps; strange company)
+
+He is friendly with a band of gypsies on the property, and has a cheetah and a baboon as pets.
+0.52 (He; has; a baboon as pets)
+0.52 (He; has; a cheetah)
+0.52 (He; is; friendly with a band of gypsies on the property)
+
+For some time, he has been making changes to the house.
+0.55 (he; has been making to the house For; T:some time)
+0.35 (he; has been making to; the house)
+0.44 (he; has been making to the house; changes)
+
+Before Helen's sister's death, he had modifications made inside the house, and is now having the outside wall repaired, forcing Helen to move into the room where her sister died.
+0.72 (her sister; died; L:the room)
+0.92 (Helen; to move into; the room)
+0.80 (Helen; is having the outside wall; T:now)
+0.88 (Helen; is having; the outside wall)
+0.89 (modifications; made inside; L:the house)
+0.59 (he; had modifications made inside the house Before; T:Helen 's sister 's death)
+0.52 (he; had; modifications made inside the house)
+
+Holmes listens carefully to Helen's story and agrees to take the case.
+0.90 Context(Holmes agrees,List([0, 13))):(Holmes; agrees to take; the case)
+0.90 (Holmes; agrees to; take the case)
+0.93 (Holmes; listens carefully to; Helen 's story)
+
+He plans a visit to the manor later in the day.
+0.45 (He; plans a visit to the manor; T:later in the day)
+0.52 (He; plans; a visit to the manor)
+
+Before he can leave, however, he is visited by Dr. Roylott himself, who threatens him should he interfere.
+0.82 (Dr. Roylott; threatens him; should he interfere)
+0.82 (Dr. Roylott; threatens; him)
+0.40 (he; is visited Before; T:he can leave)
+0.50 (he; is visited by; Dr. Roylott)
+0.19 (he; can leave; )
+
+Undaunted, Holmes proceeds, first to the courthouse, where he examines Helen's late mother's will, and then to the countryside.
+0.55 (he; examines Helen 's late mother 's will , and then to the countryside; L:the courthouse)
+0.61 (he; examines; Helen's late mother's will, and then to the countryside)
+
+At Stoke Moran, Holmes inspects the premises carefully inside and out.
+0.95 (Holmes; inspects carefully out At; L:Stoke Moran)
+0.95 (Holmes; inspects carefully inside At; L:Stoke Moran)
+
+Among the strange features that he discovers are a bed anchored to the floor, a bell cord that is not attached to any bell, and a ventilator hole between Helen's temporary room and that of Dr Roylott.
+0.72 (a bell cord; is not attached; )
+0.89 (the strange features; discovers; he)
+
+Holmes and Watson arrange to spend the night in Helen's room.
+0.92 Context(Watson arrange,List([0, 14))):(Watson; arrange to spend the night in; L:Helen 's room)
+0.90 Context(Watson arrange,List([0, 14))):(Watson; arrange to spend; the night)
+0.92 (Watson; arrange to; spend the night in Helen 's room)
+0.89 Context(Holmes arrange,List([0, 14))):(Holmes; arrange to spend the night in; L:Helen 's room)
+0.87 Context(Holmes arrange,List([0, 14))):(Holmes; arrange to spend; the night)
+0.89 (Holmes; arrange to; spend the night in Helen 's room)
+
+In darkness they wait until about three in the morning; suddenly, a slight metallic noise and a dim light through the ventilator prompt Holmes to action.
+0.64 Context(a dim light through the ventilator prompt,List([68, 109))):(they; wait In; L:darkness)
+0.55 Context(a dim light through the ventilator prompt,List([68, 109))):(they; wait until; T:about three in the morning)
+0.85 (a dim light through the ventilator; prompt Holmes; T:suddenly)
+0.79 (a dim light through the ventilator; prompt Holmes to; action)
+0.94 (a dim light through the ventilator; prompt; Holmes)
+0.77 (Holmes; to action; )
+0.64 Context(a slight metallic noise prompt,List([68, 98))):(they; wait In; L:darkness)
+0.55 Context(a slight metallic noise prompt,List([68, 98))):(they; wait until; T:about three in the morning)
+0.82 (a slight metallic noise; prompt Holmes; T:suddenly)
+0.90 (a slight metallic noise; prompt Holmes to; action)
+0.93 (a slight metallic noise; prompt; Holmes)
+
+Quickly lighting a candle, he discovers on the bell cord the "speckled band"—a venomous snake.
+0.39 (he; discovers on; the bell cord)
+
+He strikes at the snake with his walking stick, driving it back through the ventilator.
+0.41 (He; driving it; back through the ventilator)
+0.27 (He; driving; it)
+0.31 (He; strikes at; the snake with his walking stick)
+
+Agitated, it fatally attacks Roylott, who had been waiting for it to return after killing Helen.
+0.46 (it; after killing; Helen)
+0.50 (it; to return after; T:killing Helen)
+0.86 (Roylott; had been waiting for; it to return after killing Helen)
+0.30 (it; attacks Roylott; T:fatally)
+0.46 (it; attacks; Roylott)
+
+Holmes identifies the snake as an Indian swamp adder and reveals to Watson the motive: the late wife's will had provided an annual income of ₤750 sterling, of which each daughter could claim one third upon marriage.
+0.92 Context(the late wife 's will had provided,List([38, 72))):(Holmes; reveals to Watson; the late wife 's will had provided an annual income of ₤750 sterling)
+0.92 Context(the late wife 's will had provided,List([38, 72))):(Holmes; reveals to; Watson)
+0.90 Context(the late wife 's will had provided,List([55, 89))):(Holmes; identifies the snake as; an Indian swamp adder)
+0.90 Context(the late wife 's will had provided,List([55, 89))):(Holmes; identifies; the snake)
+0.94 (the late wife 's will; had provided; an annual income of ₤750 sterling , of which each daughter could claim one third upon marriage)
+0.90 (each daughter; could claim one third upon; T:marriage)
+0.90 (each daughter; could claim; one third)
+
+Thus, Dr. Roylott plotted to remove both of his stepdaughters before they married to avoid losing most of the fortune he controlled when the daughters took with them their share of money left for them by their mother.
+0.75 (money; left by; their mother)
+0.82 (money; left for; them)
+0.62 (they; married to; avoid losing most of the fortune)
+0.81 (the daughters; took; their share of money)
+0.83 (the daughters; took their share of money with; them)
+0.87 (the fortune; controlled; T:when the daughters took with them their share of money)
+0.84 Context(Dr. Roylott plotted,List([6, 25))):(Dr. Roylott; plotted to remove both of his stepdaughters before; T:they married to avoid losing most of the fortune)
+0.84 Context(Dr. Roylott plotted,List([6, 25))):(Dr. Roylott; plotted to remove; both of his stepdaughters)
+0.89 (Dr. Roylott; plotted to; remove both of his stepdaughters before they married to avoid losing most of the fortune)
+
+Holmes admits his attack on the snake may make him indirectly responsible for Roylott's demise, but he doesn't foresee it troubling him, since his action saved Helen's life.
+0.26 Context(he does n't foresee,List([0, 19))):(it; troubling; him)
+0.21 (he; does n't foresee it troubling him since; his action saved Helen 's life)
+0.26 (he; does n't foresee; it troubling him)
+0.68 (his action; saved; Helen 's life)
+0.83 (Holmes; admits; his attack on the snake)

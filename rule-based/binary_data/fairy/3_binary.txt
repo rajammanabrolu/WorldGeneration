@@ -1,0 +1,300 @@
+A plague infests a village, and a wealthy gentleman's wife lies on her deathbed.
+0.87 (a wealthy gentleman 's wife; lies on; her deathbed)
+0.90 (A plague; infests; a village)
+
+She calls for her only daughter, and tells her to remain good and kind, as God would protect her.
+0.23 (her; to remain; kind)
+0.35 (She; tells her to; remain kind , as God would protect her)
+0.76 (God; would protect; her)
+0.23 (her; to remain; good)
+0.35 (She; tells her to; remain good , as God would protect her)
+0.37 (She; tells; her)
+0.31 (She; calls for; her only daughter)
+
+She then dies and is buried.
+0.19 (She; is buried; )
+0.30 (She; dies; T:then)
+
+The child visits her mother's grave every day to grieve and a year goes by.
+0.77 (a year; goes; by)
+0.90 (The child; visits her mother 's grave; T:every day to grieve)
+0.83 (The child; visits; her mother 's grave)
+
+The gentleman marries another woman with two older daughters from a previous marriage.
+0.90 (The gentleman; marries; another woman)
+
+They have beautiful faces and fair skin, but their hearts are cruel and wicked.
+0.38 (their hearts; are; wicked)
+0.38 (their hearts; are; cruel)
+0.62 (They; have; fair skin)
+0.62 (They; have; beautiful faces)
+
+The stepsisters steal the girl's fine clothes and jewels and force her to wear rags.
+0.90 (The stepsisters; steal; the jewels)
+0.90 (The stepsisters; steal; the girl 's fine clothes)
+0.45 (her; to wear; rags)
+
+They banish her into the kitchen, and give her the nickname "Aschenputtel".
+0.62 (They; banish her into; the kitchen)
+0.46 (They; banish; her)
+
+She is forced to do all kinds of hard work from dawn to dusk for the sisters.
+0.31 (She; to do all kinds of hard work for; T:the sisters)
+0.31 (She; to do all kinds of hard work to; dusk)
+0.41 (She; to do; all kinds of hard work)
+0.57 (She; is forced to; do all kinds of hard work from dawn to dusk for the sisters)
+
+The cruel sisters do nothing but mock her and make her chores harder by creating messes.
+0.74 Context(The cruel sisters do,List([0, 20))):(The cruel sisters; do but make; her chores harder)
+0.86 (The cruel sisters; do; nothing but make her chores harder by creating messes)
+0.74 Context(The cruel sisters do,List([0, 20))):(The cruel sisters; do but mock; her)
+0.86 (The cruel sisters; do; nothing but mock her)
+
+However, despite all of it, the girl remains good and kind, and will always go to her mother's grave to cry and pray to God that she will see her circumstances improve.
+0.90 (the girl; remains; kind)
+0.77 (the girl; remains; good)
+
+One day the gentleman visits a fair, promising his stepdaughters gifts of luxury.
+0.72 Context(the gentleman visits,List([8, 28))):(the gentleman; visits a fair promising; his stepdaughters gifts of luxury)
+0.91 (the gentleman; visits a fair; T:One day)
+0.72 (the gentleman; visits; a fair)
+
+His own daughter merely begs for the first twig to knock his hat off on the way.
+0.84 (the first twig; to knock off; his hat)
+0.63 (His own daughter; merely begs for; the first twig to knock his hat off on the way)
+
+The gentleman goes on his way, and acquires presents for his stepdaughters.
+0.83 (The gentleman; acquires; presents for his stepdaughters)
+0.73 (The gentleman; goes; )
+
+While passing a forest he gets a hazel twig, and gives it to his daughter.
+0.31 (he; gives it to; his daughter)
+0.31 (he; gives; it)
+0.48 (he; gets a hazel twig While; T:passing a forest)
+0.46 (he; gets; a hazel twig)
+
+She plants the twig over her mother's grave, waters it with her tears and over the years, it grows into a glowing hazel tree.
+0.27 (She; waters over; it)
+0.18 Context(She plants it grows,List([0, 82))):(She; plants the twig waters; it)
+0.26 Context(it grows,List([74, 82))):(She; plants the twig over; her mother 's grave)
+0.46 Context(it grows,List([74, 82))):(She; plants; the twig)
+0.39 (it; grows into; a glowing hazel tree)
+
+The girl prays under it three times a day, and a white bird always comes to her as she prays.
+0.19 (she; prays; )
+0.85 (a white bird; comes; T:always)
+0.75 (a white bird; comes as; T:she prays)
+0.82 (a white bird; comes to; her)
+0.89 (The girl; prays; T:three times a day)
+
+She tells her wishes to the bird, and every time the bird throws down to her what she has wished for.
+0.19 (she; has wished; )
+0.93 (the bird; throws down; T:every time)
+0.83 (the bird; throws down to; her)
+0.81 (the bird; throws; down)
+0.45 (She; tells her wishes to; the bird)
+0.37 (She; tells; her wishes)
+
+The king decides to ordain a festival that will last for three days and invites all the beautiful maidens in the land to attend so that the prince can select one of them for his bride.
+0.83 (the prince; can select one of them for; his bride)
+0.83 (the prince; can select; one of them)
+0.83 (all the beautiful maidens in the land; to attend so; that the prince can select one of them for his bride)
+0.66 (The king; invites all the beautiful maidens in the land so; that the prince can select one of them for his bride)
+0.77 (The king; invites all the beautiful maidens in the land to; attend)
+0.90 (The king; invites; all the beautiful maidens in the land)
+0.73 Context(The king decides,List([0, 16))):(The king; decides to ordain; a festival that will last for three days)
+0.88 (The king; decides to; ordain a festival)
+0.89 (a festival; will last for; three days)
+
+The two sisters are also invited, but when Aschenputtel begs them to allow her to go with them into the celebration, the stepmother refuses because she has no decent dress nor shoes to wear.
+0.52 (she; has; no decent dress nor shoes to wear)
+0.94 (the stepmother; refuses; T:when Aschenputtel begs them to allow her to go with them into the celebration)
+0.83 (the stepmother; refuses because; she has no decent dress nor shoes)
+0.30 Context(them to allow,List([23, 36))):(her; to go into; the celebration)
+0.26 Context(them to allow,List([23, 36))):(her; to go with; them)
+0.26 (them; to allow; her to go with them into the celebration)
+0.79 (no decent dress nor shoes; to wear; )
+0.86 (Aschenputtel; begs them to; allow her to go with them into the celebration)
+0.89 (Aschenputtel; begs; them)
+0.75 (The two sisters; are also invited; )
+
+When the girl insists, the woman throws a dish of lentils into the ashes for her to pick up, guaranteeing her permission to attend the festival, if she can clean up the lentils in two hours.
+0.19 (her; to pick up; )
+0.72 Context(the woman throws,List([23, 39))):(the woman; throws a dish of lentils guaranteeing; her permission to attend the festival)
+0.91 (the woman; throws a dish of lentils; T:When the girl insists)
+0.72 (the woman; throws a dish of lentils for; her to pick up)
+0.88 (the woman; throws a dish of lentils into; the ashes)
+0.90 (the woman; throws; a dish of lentils)
+0.45 (she; can clean up the lentils in; T:two hours)
+0.45 (she; can clean up; the lentils)
+0.73 (the girl; insists; )
+
+When the girl accomplished the task in less than an hour with the help of a flock of white doves that came when she sang a certain chant, the stepmother only redoubles the task and throws down even a greater quantity of lentils.
+0.90 (the girl; throws down; even a greater quantity of lentils)
+0.81 (the girl; throws; down)
+0.96 (the stepmother; only redoubles the task; T:When the girl accomplished the task in less than an hour with the help of a flock of white doves)
+0.90 (the stepmother; only redoubles; the task)
+0.52 (she; sang; a certain chant)
+0.81 (white doves; came; T:when she sang a certain chant)
+0.90 (the girl; accomplished; the task)
+
+When Aschenputtel is able to accomplish it in a greater speed, not wanting to spoil her daughters' chances, the stepmother hastens away with her husband and daughters to the celebration and leaves the crying stepdaughter behind.
+0.94 (the stepmother; hastens away with her daughters to the celebration; T:When Aschenputtel is able to accomplish it in a greater speed)
+0.83 (the stepmother; hastens away with; her daughters to the celebration)
+0.94 (the stepmother; hastens away with her husband; T:When Aschenputtel is able to accomplish it in a greater speed)
+0.83 (the stepmother; hastens away with; her husband)
+0.84 (Aschenputtel; to accomplish; it)
+0.89 (Aschenputtel; is; able to accomplish it in a greater speed)
+0.80 (Aschenputtel; leaves the crying stepdaughter; behind)
+0.92 (Aschenputtel; leaves; the crying stepdaughter)
+
+The girl retreats to the graveyard and asks to be clothed in silver and gold.
+0.89 (The girl; to be clothed in; gold)
+0.90 (The girl; asks to; be clothed in gold)
+0.89 (The girl; to be clothed in; silver)
+0.90 (The girl; asks to; be clothed in silver)
+0.90 (The girl; retreats to; the graveyard)
+
+The white bird drops a gold and silver gown and silk shoes.
+0.93 (The white bird; drops; a silver silk shoes)
+0.93 (The white bird; drops; a gold silk shoes)
+0.93 (The white bird; drops; a silver gown)
+0.93 (The white bird; drops; a gold gown)
+
+She goes to the feast.
+0.45 (She; goes to; the feast)
+
+The prince dances with her all the time, and when sunset comes she asks to leave.
+0.71 (sunset; comes; )
+0.90 (The prince; dances with her; T:all the time)
+0.83 (The prince; dances with; her)
+
+The prince escorts her home, but she eludes him and jumps inside a pigeon coop.
+0.90 (The prince; jumps inside; L:a pigeon coop)
+0.31 (she; eludes; him)
+0.83 (The prince; escorts; her home)
+
+The father came home ahead of time and the prince asks him to chop the pigeon coop down, but Aschenputtel has already escaped.
+0.80 (Aschenputtel; has escaped; T:already)
+0.23 (him; to chop the pigeon coop; down)
+0.45 (him; to chop; the pigeon coop)
+0.90 (the prince; asks him to; chop the pigeon coop down)
+0.87 (the prince; asks; him)
+0.89 (The father; came; T:ahead of time)
+0.77 (The father; came; home)
+
+The next day, the girl appears in grander apparel.
+0.93 (the girl; appears; T:The next day)
+0.90 (the girl; appears in; L:grander apparel)
+
+The prince falls in love with her and dances with her for the whole day, and when sunset comes, the prince tries to accompany her home again.
+0.72 Context(the prince tries,List([20, 36))):(the prince; tries to accompany her home; T:again)
+0.80 Context(the prince tries,List([20, 36))):(the prince; tries to accompany; her home)
+0.91 (the prince; tries to accompany her home again; T:when sunset comes)
+0.80 (the prince; tries to; accompany her home again)
+0.71 (sunset; comes; )
+0.90 (The prince; dances with her for; T:the whole day)
+0.83 (The prince; dances with; her)
+0.83 (The prince; falls in; love with her)
+
+However, she climbs a pear tree to escape him.
+0.27 (she; to escape; him)
+
+The Prince calls her father who chops down the tree, wondering if it could be Aschenputtel, but Aschenputtel has disappeared.
+0.77 (Aschenputtel; has disappeared; )
+0.43 Context(The Prince calls wondering,List([0, 63))):(it; could be; Aschenputtel)
+0.81 Context(The Prince calls,List([0, 16))):(The Prince; calls her father who chops down the tree wondering if; it could be Aschenputtel)
+0.88 (The Prince; calls; her father who chops down the tree)
+0.66 (her father; chops; down the tree)
+
+The third day, she appears dressed in grand finery, with slippers of gold.
+0.41 (she; dressed in; grand finery)
+0.55 (she; appears; T:The third day)
+
+Now the prince is determined to keep her, and has the entire stairway smeared with pitch.
+0.91 (the entire stairway; smeared with; pitch)
+0.83 (the prince; has the entire stairway smeared with pitch; T:Now)
+0.93 (the prince; has; the entire stairway smeared with pitch)
+0.81 (the prince; to keep; her)
+0.83 (the prince; is determined to keep her; T:Now)
+0.87 (the prince; is; determined to keep her)
+
+Aschenputtel loses track of time, and when she runs away one of her golden slippers sticks on that pitch.
+0.92 (Aschenputtel; loses; track of time)
+
+The prince proclaims that he will marry the maiden whose foot fits the golden slipper.
+0.40 Context(The prince proclaims,List([0, 20))):(he; will marry; the maiden whose foot fits the golden slipper)
+0.80 (The prince; proclaims that; he will marry the maiden)
+0.30 (the maiden; fits; )
+
+The next morning, the prince goes to Aschenputtel's house and tries the slipper on the eldest stepsister.
+0.91 (The next morning; tries; the slipper on the eldest stepsister)
+0.93 (the prince; goes; T:The next morning)
+0.92 (the prince; goes to; Aschenputtel 's house)
+
+The sister was advised by her mother to cut off her toes in order to fit the slipper.
+0.89 (The sister; to cut off her toes in; order)
+0.81 (The sister; to cut off; her toes)
+0.77 (The sister; was advised to; cut off her toes in order)
+0.83 (The sister; was advised to cut off her toes in order by; her mother)
+
+While riding with the stepsister, the two doves from Heaven tell the Prince that blood drips from her foot.
+0.80 Context(the two doves from Heaven tell,List([34, 64))):(that blood; drips from; her foot)
+0.72 (the two doves from Heaven; tell the Prince; that blood drips from her foot)
+0.95 (the two doves from Heaven; tell; the Prince)
+
+Appalled by her treachery, he goes back again and tries the slipper on the other stepsister.
+0.45 (he; tries; the slipper on the other stepsister)
+0.19 (he; goes; T:again)
+0.23 (he; goes; back)
+
+She cut off part of her heel in order to get her foot in the slipper, and again the prince is fooled.
+0.83 (the prince; is fooled; T:again)
+0.45 (She; cut off part of her heel in; order)
+0.31 (She; cut off; part of her heel)
+
+While riding with her to the king's castle, the doves alert him again about the blood on her foot.
+0.77 (the doves; alert him about; the blood on her foot)
+0.77 (the doves; alert him; T:again)
+0.83 (the doves; alert; him)
+
+He comes back to inquire about another girl.
+0.45 (He; comes; back to inquire about another girl)
+
+The gentleman tells him that they keep a kitchen-maid in the house – omitting to mention that she is his own daughter – and the prince asks him to let her try on the slipper.
+0.80 Context(The gentleman tells they keep to mention,List([0, 90))):(the prince; asks him to; let her try on the slipper)
+0.84 Context(The gentleman tells they keep to mention,List([0, 90))):(the prince; asks; him)
+0.41 Context(The gentleman tells they keep,List([0, 38))):(they; keep a kitchen - maid to mention that; the prince asks him to let her try on the slipper)
+0.70 (The gentleman; tells him that; they keep a kitchen - maid in the house - omitting to mention that the prince asks him to let her try on the slipper)
+0.40 Context(him to let,List([112, 122))):(her; try on; the slipper)
+0.26 (him; to let; her try on the slipper)
+0.20 Context(The gentleman tells they keep to mention,List([0, 90))):(she; is; )
+0.30 Context(The gentleman tells they keep,List([0, 38))):(they; keep a kitchen - maid to mention that; she is)
+0.55 Context(The gentleman tells,List([0, 19))):(they; keep; a kitchen - maid)
+0.70 (The gentleman; tells him that; they keep a kitchen - maid in the house - omitting to mention that she is his own daughter -)
+0.84 (The gentleman; tells; him)
+
+Aschenputtel appears after washing herself, and when she puts on the slipper, the prince recognizes her as the stranger with whom he has danced at the ball.
+0.88 (the prince; recognizes her; T:when she puts on the slipper)
+0.90 (the prince; recognizes her as; the stranger)
+0.83 (the prince; recognizes; her)
+0.45 (she; puts on; the slipper)
+0.45 (he; has danced at; L:the ball)
+0.91 (Aschenputtel; appears after; T:washing herself with whom he has danced at the ball)
+
+In a coda added in the second edition of 1819, during Aschenputtel's wedding, as she walks down the aisle with her stepsisters as her bridesmaids,, the doves fly down and strike the two stepsisters' eyes, one in the left and the other in the right.
+0.89 (the doves; strike; the two stepsisters ' eyes)
+0.19 (her; bridesmaids; )
+0.23 (she; walks with; her)
+0.45 (she; walks down; the aisle)
+0.90 (a coda; added in; L:the second edition of 1819)
+
+When the wedding comes to an end, and Aschenputtel and her prince march out of the church, the doves fly again, striking the remaining eyes of the two evil sisters blind, a punishment they had to endure for the rest of their lives.
+0.84 Context(the doves striking,List([25, 55))):(the remaining eyes of the two evil sisters; blind; )
+0.82 (the doves; striking; a punishment they had to endure for the rest of their lives)
+0.81 (a punishment; to endure for; the rest of their lives)
+0.95 (the doves; fly; T:When the wedding comes)
+0.81 (the doves; fly; T:again)
+0.73 (the wedding; comes; )
+0.92 (the wedding; comes; Aschenputtel)
+0.90 (the wedding; comes to; an end)

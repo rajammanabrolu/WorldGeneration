@@ -1,0 +1,146 @@
+Every night, their doors are securely locked by their father.
+0.72 (their doors; are securely locked; T:Every night)
+0.49 (their doors; are securely locked by; their father)
+
+But in the morning, their dancing shoes are found to be worn through as if they had been dancing all night.
+0.62 (they; had been dancing; T:all night)
+0.37 (their dancing shoes; to be worn as; T:if they had been dancing all night)
+0.74 (their dancing shoes; are found in; T:the morning)
+
+The king, perplexed, asks his daughters to explain, but they refuse.
+0.32 (they; refuse; )
+0.34 (his daughters; to explain; )
+0.74 (The king; asks his daughters to; explain)
+0.85 (The king; asks; his daughters)
+
+The king then promises his kingdom and each daughter to any man who can discover the princesses' midnight secret within three days and three nights, but those who fail within the set time limit will be sentenced to death.
+0.83 (The king; promises each daughter; T:then)
+0.89 (The king; promises each daughter to; any man)
+0.89 (The king; promises; each daughter)
+0.89 (any man; can discover the princesses ' midnight secret within; T:three nights)
+0.89 (any man; can discover the princesses ' midnight secret within; T:three days)
+0.89 (any man; can discover; the princesses ' midnight secret)
+0.83 (The king; promises his kingdom; T:then)
+0.89 (The king; promises his kingdom to; any man)
+0.81 (The king; promises; his kingdom)
+0.94 (those who fail within the set time limit; will be sentenced to; death)
+0.21 (those; fail within; the set time limit)
+
+An old soldier returned from war comes to the king's call after several princes have failed in the attempt.
+0.90 (several princes; have failed in; the attempt)
+0.91 (An old soldier; returned from; war)
+
+Whilst traveling through a wood he comes upon an old woman, who gives him a enchanted cloak that he can use to observe the king's unaware daughters and tells him not to eat or drink anything given to him in the evening by any of the princesses and to pretend to be fast asleep until they leave.
+0.23 (him; not to pretend to; be fast asleep)
+0.88 (an old woman; tells him; not to pretend to be fast asleep until they leave)
+0.32 (they; leave; )
+0.85 (anything; given to him by; any of the princesses)
+0.89 (anything; given to him in; T:the evening)
+0.82 (anything; given to; him)
+0.42 (him; not to drink; anything given to him in the evening by any of the princesses)
+0.90 (an old woman; tells him; not to drink anything)
+0.19 (him; not to eat; )
+0.75 (an old woman; tells him; not to eat)
+0.86 (an old woman; tells; him)
+0.35 Context(a enchanted cloak can use,List([75, 108))):(he; to observe; the king 's unaware daughters)
+0.87 (a enchanted cloak; can use to; observe the king 's unaware daughters)
+0.73 (an old woman; gives him; a enchanted cloak that he can use to observe the king 's unaware daughters)
+0.82 (an old woman; gives; him)
+0.55 (he; comes upon an old woman Whilst; T:traveling through a wood)
+0.45 (he; comes upon; an old woman)
+
+The soldier is well received at the palace just as the others had been and indeed, in the evening, the princess royal comes to his chamber and offers him a cup of wine.
+0.90 (The soldier; is well received at; L:the palace)
+
+The soldier, remembering the old woman's advice, secretly throws it away and begins to snore loudly as if asleep.
+0.70 (The soldier; to snore loudly; )
+0.73 (The soldier; begins; )
+0.86 Context(The soldier , remembering the old woman 's advice secretly throws away,List([0, 75))):(The soldier; remembering; the old woman 's advice)
+0.86 (The soldier , remembering the old woman 's advice; secretly throws away; it)
+
+The twelve princesses, assured that the soldier is asleep, dress themselves in fine dancing gowns and escape from their room by a trap door in the floor.
+0.86 (The twelve princesses; assured that; the soldier is asleep , escape from their room by a trap door in the floor)
+0.78 Context(The twelve princesses assured,List([0, 31))):(the soldier; is; asleep)
+0.86 (The twelve princesses; assured that; the soldier is asleep , dress themselves in fine dancing gowns)
+
+The soldier, seeing this, dons his magic cloak and follows them.
+0.83 (The soldier; follows; them)
+0.67 Context(The soldier dons,List([0, 32))):(The soldier; dons his magic cloak seeing; this)
+0.81 (The soldier; dons; his magic cloak)
+
+He steps on the gown of the youngest princess, whose cry of alarm to her sisters is rebuffed by the eldest.
+0.75 (the youngest princess; is rebuffed by; the eldest)
+0.45 (He; steps on; the gown of the youngest princess)
+
+The passageway leads them to three groves of trees; the first having leaves of silver, the second of gold, and the third of glittering diamonds.
+0.57 (the first; having; leaves of the third of glittering diamonds)
+0.94 (The passageway; leads them to; three groves of trees ; the first having leaves of the third of glittering diamonds)
+0.57 (the first; having; leaves of the second of gold)
+0.94 (The passageway; leads them to; three groves of trees ; the first having leaves of the second of gold)
+0.57 (the first; having; leaves of silver)
+0.94 (The passageway; leads them to; three groves of trees ; the first having leaves of silver)
+0.83 (The passageway; leads; them)
+
+The soldier, wishing for a token, breaks off a twig of each as evidence.
+0.89 (The soldier, wishing for; breaks off; a twig of each as evidence)
+
+They walk on until they come upon a great clear lake.
+0.62 (they; come upon; a great clear lake)
+0.36 (They; walk until; T:they come upon a great clear lake)
+
+Twelve boats, with twelve princes, appear where the twelve princesses are waiting.
+0.71 Context(Twelve boats , with twelve princes appear,List([0, 41))):(the twelve princesses; are waiting; )
+0.73 (Twelve boats, with twelve princes; appear; )
+
+Each princess gets into one, and the soldier steps into the same boat with the twelfth and youngest princess.
+0.90 (the soldier; steps into; the same boat)
+0.77 (Each princess; gets into; one)
+
+The youngest princess complains that the prince is not rowing fast enough, not knowing the soldier is in the boat.
+0.88 Context(The youngest princess complains the prince is not rowing fast enough not knowing,List([0, 86))):(the soldier; is in; the boat)
+0.82 Context(The youngest princess complains the prince is not rowing fast enough,List([0, 73))):(the prince; is not rowing fast enough not knowing; the soldier is in the boat)
+0.68 Context(The youngest princess complains,List([0, 31))):(the prince; is not rowing fast enough; )
+0.93 (The youngest princess; complains that; the prince is not rowing fast enough, not knowing the soldier is in the boat)
+
+On the other side of the lake stands a castle, into which all the princesses go and dance the night away.
+0.97 (On the other side of the lake; stands; a castle , into which all dance the night away)
+0.75 (a castle; go; )
+0.95 (On the other side of the lake; stands; a castle , into which all the princesses go)
+
+The twelve princesses happily dance all night until their shoes are worn through and they are obliged to leave.
+0.28 (they; to leave; )
+0.36 (they; are obliged to; leave)
+0.34 (their shoes; are worn through; )
+0.78 (The twelve princesses; happily dance until; T:their shoes are worn through)
+0.91 (The twelve princesses; happily dance; T:all night)
+
+The strange adventure continues on the second and third nights, and everything happens just as before, except that on the third night the soldier carries away a golden cup as a token of where he has been.
+0.91 (The strange adventure; continues on; T:the third nights)
+0.91 (The strange adventure; continues on; T:the second nights)
+0.19 (he; has been; )
+0.93 (the soldier; carries a golden cup on; T:the third night)
+0.89 (the soldier; carries; a golden cup)
+0.76 (the soldier; carries a golden cup; away)
+0.75 (everything; happens; T:just as before)
+
+When it comes time for him to declare the princesses' secret, he goes before the king with the three branches and the golden cup, and tells the king about all he has seen.
+0.45 (he; goes before; the king with the golden cup)
+0.52 (he; goes; T:When it comes time for him to declare the princesses ' secret)
+0.45 (he; goes before; the king with the three branches)
+0.45 (him; to declare; the princesses ' secret)
+0.34 (all; has seen; he)
+0.52 (it; tells; the king about all)
+
+The princesses know that there is no use in denying the truth, and confess.
+0.80 (The princesses; know that; there is no use in denying the truth)
+
+The soldier chooses the first and eldest princess as his bride for he is not a very young man, and is made the King's heir.
+0.83 (The soldier; chooses; the eldest princess as his bride)
+0.45 (he; is not; a very young man)
+0.83 (The soldier; chooses; the first princess as his bride)
+
+The twelve princes are put under a curse for as many nights as they danced with the princesses.
+0.62 (they; danced with; the princesses)
+0.78 (The twelve princes; are put under a curse as; T:they danced with the princesses)
+0.91 (The twelve princes; are put under a curse for; T:as many nights)
+0.91 (The twelve princes; are put under; a curse)

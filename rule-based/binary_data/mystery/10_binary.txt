@@ -1,0 +1,156 @@
+Jabez Wilson, a London pawnbroker, comes to consult Sherlock Holmes and Doctor Watson.
+0.93 (Jabez Wilson; to consult; Doctor Watson)
+0.93 (Jabez Wilson; comes to; consult Doctor Watson)
+0.93 (Jabez Wilson; to consult; Sherlock Holmes)
+0.93 (Jabez Wilson; comes to; consult Sherlock Holmes)
+
+While studying this perspective client, both Holmes and Watson notice his red hair, which has a distinct flame-like hue.
+0.95 (both Watson; notice his red hair , which has a distinct flame - like hue While; T:studying this perspective client)
+0.92 (both Watson; notice; his red hair , which has a distinct flame - like hue)
+0.69 (his red hair; has; a distinct flame - like hue)
+0.95 (both Holmes; notice his red hair , which has a distinct flame - like hue While; T:studying this perspective client)
+0.92 (both Holmes; notice; his red hair , which has a distinct flame - like hue)
+
+Wilson tells them that some weeks before, his young assistant, Vincent Spaulding, urged him to respond to a newspaper want-ad offering highly-paid work to only red-headed male applicants.
+0.39 (Vincent Spaulding; [is] young assistant [of]; him)
+0.67 Context(Wilson tells,List([0, 12))):(his young assistant; urged him to; respond to a newspaper want-ad offering highly-paid work to only red-headed male applicants)
+0.41 Context(Wilson tells,List([0, 12))):(his young assistant; urged; him)
+0.90 (Wilson; tells them that; some weeks before, his young assistant, Vincent Spaulding, urged him to respond to a newspaper want-ad offering highly-paid work to only red-headed male applicants)
+0.86 (Wilson; tells; them)
+0.45 (him; to respond to; a newspaper want-ad offering)
+
+The next morning, Wilson had waited in a long line of fellow red-headed men, was interviewed and was the only applicant hired, because none of the other applicants qualified; their red hair was either too dark or too bright, and did not match Wilson's unique flame color.
+0.92 Context(their red hair was,List([97, 115))):(The next morning; was; the only applicant hired)
+0.91 Context(their red hair was either,List([97, 122))):(The next morning; was; the only applicant hired)
+0.75 (the only applicant; hired; )
+0.71 Context(their red hair was,List([84, 102))):(The next morning; was interviewed; )
+0.70 Context(their red hair was either,List([84, 109))):(The next morning; was interviewed; )
+0.93 Context(their red hair was,List([130, 148))):(Wilson; had waited; T:The next morning)
+0.86 Context(their red hair was,List([130, 148))):(Wilson; had waited because; none of the other applicants qualified)
+0.90 Context(their red hair was,List([130, 148))):(Wilson; had waited in; L:a long line of fellow red - headed men)
+0.42 (their red hair; was; too bright)
+0.93 Context(their red hair was either,List([130, 155))):(Wilson; had waited; T:The next morning)
+0.90 Context(their red hair was either,List([130, 155))):(Wilson; had waited in; L:a long line of fellow red - headed men)
+0.35 (their red hair; was either; too dark)
+
+Wilson tells Holmes that his business has been struggling.
+0.29 Context(Wilson tells,List([0, 12))):(his business; has been struggling; )
+0.83 (Wilson; tells Holmes that; his business has been struggling)
+0.93 (Wilson; tells; Holmes)
+
+Since his pawn shop did most of its business in the evenings, he was able to vacate his shop for short periods in the afternoon, receiving £4 a week for several weeks; the work was obviously useless clerical work in a bare office, only performed for nominal compliance with a will, whereupon he was made to copy the Encyclopædia Britannica.
+0.42 Context(the work was obviously,List([168, 190))):(he; was; able to vacate his shop for short periods in the afternoon)
+0.88 (the work; was obviously; useless clerical work in a bare office)
+0.41 (he; receiving £4 a week for; T:several weeks)
+0.41 (he; receiving; £4 a week)
+0.27 (he; to vacate; his shop for short periods in the afternoon)
+0.66 (his pawn shop; did most of its business in; T:the evenings)
+0.58 (his pawn shop; did; most of its business)
+
+Wilson learned much about the subjects starting with the "A" section and looked forward to getting into the "B" section.
+0.90 (Wilson; looked to; getting into the " B " section)
+0.80 (Wilson; looked to getting into the " B " section; forward)
+0.90 (the subjects; starting with; the " A " section)
+0.92 (Wilson; learned; much about the subjects)
+
+One morning, a sign on the locked office door inexplicably announced that "THE RED-HEADED LEAGUE IS DISSOLVED"—Oct.
+0.91 Context(a sign on the locked office door inexplicably announced,List([13, 68))):(THE RED-HEADED LEAGUE; IS; DISSOLVED)
+0.96 (a sign on the locked office door; inexplicably announced that " THE RED - HEADED LEAGUE IS DISSOLVED " - Oct; T:One morning)
+0.96 (a sign on the locked office door; inexplicably announced that; "THE RED-HEADED LEAGUE IS DISSOLVED"-Oct)
+
+Wilson went to the landlord, who said that he had never heard of Duncan Ross, the person who managed the league office.
+0.43 Context(the landlord said,List([15, 37))):(he; had never heard of; Duncan Ross)
+0.80 (the landlord; said that; he had never heard of Duncan Ross)
+0.89 (the person; managed; the league office)
+0.92 (Wilson; went to; the landlord)
+
+The landlord did remember the tenant with scarlet hair and gives him a card which directs Wilson to an artificial knee company.
+0.89 (a card; directs Wilson to; an artificial knee company)
+0.90 (a card; directs; Wilson)
+0.95 (The landlord; gives him; a card which directs Wilson to an artificial knee company)
+0.83 (The landlord; gives; him)
+0.90 (The landlord; did remember the tenant with; scarlet hair)
+0.90 (The landlord; did remember; the tenant)
+
+Wilson concludes by expressing his frustration at losing the £4 a week.
+0.83 Context(Wilson concludes,List([0, 16))):(Wilson; concludes by expressing; his frustration at losing the £4 a week)
+0.83 (Wilson; concludes by; expressing his frustration at losing the £4 a week)
+
+Watson and Holmes laugh at Wilson because of the ridiculous situation, but Holmes assures him that by Monday they will solve the case.
+0.69 Context(Holmes laugh Holmes assures,List([0, 27))):(they; will solve the case by; T:Monday)
+0.55 Context(Holmes laugh Holmes assures,List([0, 27))):(they; will solve; the case)
+0.85 Context(Holmes laugh,List([0, 12))):(Holmes; assures him that; by Monday they will solve the case)
+0.83 Context(Holmes laugh,List([0, 12))):(Holmes; assures; him)
+0.71 (Holmes; laugh; Holmes assures him that by Monday they will solve the case)
+0.69 Context(Watson laugh Holmes assures,List([0, 27))):(they; will solve the case by; T:Monday)
+0.55 Context(Watson laugh Holmes assures,List([0, 27))):(they; will solve; the case)
+0.85 Context(Watson laugh,List([0, 12))):(Holmes; assures him that; by Monday they will solve the case)
+0.83 Context(Watson laugh,List([0, 12))):(Holmes; assures; him)
+0.77 (Watson; laugh; Holmes assures him that by Monday they will solve the case)
+0.89 (Holmes; laugh at Wilson because; of the ridiculous situation)
+0.91 (Holmes; laugh at; Wilson)
+0.92 (Watson; laugh at Wilson because; of the ridiculous situation)
+0.93 (Watson; laugh at; Wilson)
+
+Wilson leaves after having given the detective a description of Spaulding; Holmes decides to go and see Spaulding, whom Holmes notices has dirty trouser knees.
+0.91 Context(Holmes decides see,List([76, 94))):(Spaulding; has; dirty trouser knees)
+0.92 Context(Holmes decides,List([76, 90))):(Holmes; decides see; Spaulding , whom Holmes notices has dirty trouser knees)
+0.95 (Holmes; decides; see Spaulding , whom Holmes notices has dirty trouser knees)
+0.95 (Spaulding; notices; Holmes)
+0.73 Context(Holmes decides,List([76, 90))):(Holmes; decides to go to go; )
+0.92 Context(Holmes decides,List([76, 90))):(Wilson; leaves after; T:having given the detective a description of Spaulding)
+0.76 (Holmes; decides to; go)
+
+Holmes then taps on the pavement in front of Wilson's shop.
+0.86 (Holmes; taps on the pavement in front of Wilson 's shop; T:then)
+0.92 (Holmes; taps on; the pavement in front of Wilson's shop)
+
+With the case solved, he calls Police Inspector Jones and Mr. Merryweather, a director of the bank located next door.
+0.39 (Mr. Merryweather; [is] a director of; the bank)
+0.90 (the bank; located; L:next door)
+0.55 (he; calls Mr. Merryweather With; T:the case solved)
+0.57 (he; calls; Mr. Merryweather)
+0.57 (he; calls; Police Inspector Jones)
+0.73 (the case; solved; )
+
+The four hide themselves in the bank vault, waiting in the dark for over an hour until two men emerge from a tunnel cut into the vault's floor and are captured.
+0.73 (two men; are captured; )
+0.42 (The four; waiting for until; T:two men are captured)
+0.90 (a tunnel; cut into; the vault 's floor)
+0.90 (two men; emerge from; a tunnel)
+0.42 (The four; waiting for over; T:an hour)
+0.52 (The four; waiting for in; L:the dark)
+0.57 (The four; hide themselves in; L:the bank vault)
+0.42 (The four; hide; themselves)
+
+They are John Clay, who has a long history of criminal activity already, and his helper Archie.
+0.46 (They; are; his helper)
+0.79 (John Clay; has a long history of criminal activity; T:already)
+0.93 (John Clay; has; a long history of criminal activity)
+0.66 (They; are; John Clay)
+
+Under the aliases of Spaulding and Ross, they had contrived the 'Red-Headed League' rigmarole to keep Wilson out of his shop while they dug a tunnel in the basement to reach the vault.
+0.45 Context(they dug,List([122, 130))):(they; dug a tunnel to reach; the vault)
+0.74 (they; had contrived the ' Red - Headed League ' rigmarole Under; L:the aliases of Ross)
+0.45 Context(they dug,List([127, 135))):(they; dug a tunnel to reach; the vault)
+0.45 (they; dug a tunnel to; reach the vault)
+0.55 (they; dug a tunnel in; L:the basement)
+0.62 (they; dug; a tunnel)
+0.74 (they; had contrived the ' Red - Headed League ' rigmarole Under; L:the aliases of Spaulding)
+0.66 (they; had contrived; the ' Red - Headed League ' rigmarole)
+
+Although paying Wilson £4 a week was expensive, it was a pittance compared to the shipment of gold coins they were planning to steal.
+0.84 Context(they were planning,List([105, 123))):(gold coins; to steal; they)
+0.31 (they; were planning to; steal)
+0.52 (it; was; a pittance)
+0.83 (paying Wilson; was; expensive)
+
+Back at Baker Street, Holmes explains to Watson how he solved the case, applauding Clay's creativity and regretting that such a mind has been wasted on crime.
+0.89 Context(Holmes explains he solved regretting,List([23, 84))):(such a mind; has been wasted on; crime)
+0.29 Context(Holmes explains he solved,List([23, 62))):(he; solved the case regretting that; such a mind has been wasted on crime)
+0.74 (Holmes; explains to Watson; how he solved the case , regretting that such a mind has been wasted on crime)
+0.33 Context(Holmes explains he solved,List([23, 62))):(he; solved the case applauding; Clay 's creativity)
+0.39 Context(Holmes explains,List([23, 38))):(he; solved; the case)
+0.94 (Holmes; explains to Watson; L:Back at Baker Street)
+0.90 (Holmes; explains to Watson; how he solved the case , applauding Clay 's creativity)
+0.91 (Holmes; explains to; Watson)

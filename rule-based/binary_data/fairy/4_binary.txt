@@ -1,0 +1,141 @@
+In order to appear superior, a miller lies to the king, telling him that his daughter can spin straw into gold.
+0.90 (a miller; lies to; the king)
+
+The king calls for the girl, shuts her in a tower room filled with straw and a spinning wheel, and demands she spin the straw into gold by morning or he will cut off her head.
+0.26 Context(The king demands,List([0, 16))):(he; will cut off; her head)
+0.80 (The king; demands; he will cut off her head)
+0.47 Context(The king demands,List([0, 16))):(she; spin; the straw)
+0.80 (The king; demands; she spin the straw into gold by morning)
+0.91 (a tower room; filled with; a spinning wheel)
+0.83 Context(The king calls,List([0, 14))):(The king; calls for the girl shuts her in; L:a tower room)
+0.73 Context(The king calls,List([0, 14))):(The king; calls for the girl shuts; her)
+0.88 (The king; calls for; the girl)
+0.91 (a tower room; filled with; straw)
+
+When she has given up all hope, an imp-like creature appears in the room and spins the straw into gold in return for her necklace.
+0.23 (she; spins the straw in; return for her necklace)
+0.52 (she; spins; the straw)
+0.91 (an imp - like creature; appears; T:When she has given up all hope)
+0.93 (an imp - like creature; appears in; L:the room)
+0.45 (she; has given up; all hope)
+
+When next morning the king takes the girl to a larger room filled with straw to repeat the feat, the imp once again spins, in return for the girl's ring.
+0.91 Context(the imp spins,List([97, 121))):(the king; takes the girl; T:When next morning)
+0.82 Context(the imp spins,List([97, 121))):(the king; takes the girl to; repeat the feat)
+0.88 Context(the imp spins,List([97, 121))):(the king; takes the girl to; a larger room)
+0.88 Context(the imp spins,List([97, 121))):(the king; takes; the girl)
+0.84 (the imp; spins; T:once again)
+0.91 (a larger room; filled with; straw)
+
+On the third day, when the girl has been taken to an even larger room filled with straw and told by the king that he will marry her if she can fill this room with gold or execute her if she cannot, the girl has nothing left with which to pay the strange creature.
+0.31 (she; can execute; her)
+0.45 (she; can fill this room with; gold)
+0.45 (she; can fill; this room)
+0.26 Context(the girl has been told,List([24, 46))):(he; will marry; her)
+0.88 (the girl; has been told by; the king)
+0.89 (nothing; left with; which to pay the strange creature)
+0.96 (the girl; has nothing left; T:when the girl has been taken to an even larger room)
+0.93 (the girl; has nothing left On; T:the third day)
+0.93 (the girl; has; nothing left)
+0.92 (an even larger room; filled with; straw)
+0.90 (the girl; has been taken to; an even larger room)
+
+He extracts from her a promise that she will give him her firstborn child and so he spins the straw into gold a final time.
+0.41 (he; spins the straw; T:a final time)
+0.52 (he; spins; the straw)
+0.31 (she; will give him so; T:he spins the straw into gold a final time)
+0.14 (He; extracts from her; a promise that she will give him)
+0.31 (she; will give him; her firstborn child)
+0.31 (she; will give; him)
+0.21 (He; extracts from her; a promise that she will give him her firstborn child)
+0.31 (He; extracts from; her)
+
+The king keeps his promise to marry the miller's daughter, but when their first child is born, the imp returns to claim his payment: "Now give me what you promised."
+0.36 (their first child; is born; )
+0.64 (his promise; to marry; the miller 's daughter)
+
+She offers him all the wealth she has to keep the child, but the imp has no interest in her riches.
+0.87 (the imp; has; no interest in her riches)
+0.41 (she; to keep; the child)
+0.27 (She; offers; all the wealth she has to keep the child)
+0.30 (She; offers all the wealth she has to keep the child; him)
+
+He finally consents to give up his claim to the child if she can guess his name within three days.
+0.23 Context(He consents,List([0, 19))):(He; consents to give up; his claim to the child)
+0.25 (He; consents to give up his claim to the child if she can guess his name within three days; T:finally)
+0.32 (He; consents to; give up his claim to the child if she can guess his name within three days)
+0.45 (she; can guess his name within; T:three days)
+0.31 (she; can guess; his name)
+
+Her many guesses fail, but before the final night, she wanders into the woods, searching for him and comes across his remote mountain cottage and watches, unseen, as he hops about his fire and sings.
+0.24 (he; sings; )
+0.20 (she; comes as; T:he sings)
+0.24 (he; hops; )
+0.20 (she; comes as; T:he hops about his fire)
+0.18 Context(she wanders,List([25, 36))):(she; wanders into the woods searching for; him)
+0.48 (she; wanders into the woods before; T:the final night)
+0.22 (she; wanders into the woods; searching for him)
+0.39 (she; wanders into; the woods)
+0.36 (Her many guesses; fail; )
+
+In his song's lyrics, "tonight tonight, my plans I make, tomorrow tomorrow, the baby I take.
+0.88 (the baby; take; I)
+0.40 (I; make In; L:his song's lyrics)
+0.41 (I; make; T:tomorrow tomorrow)
+
+The queen will never win the game, for Rumpelstiltskin is my name", he reveals his name.
+0.88 Context(he reveals,List([68, 78))):(The queen; will never win; the game)
+0.26 (he; reveals; his name)
+0.90 (for Rumpelstiltskin; is; my name)
+
+When the imp comes to the queen on the third day, after first feigning ignorance, she reveals his name, Rumpelstiltskin, and he loses his temper and their bargain.
+0.31 (he; loses; their bargain)
+0.31 (he; loses; his temper)
+0.39 (Rumpelstiltskin; [is] name [of]; him)
+0.55 (she; reveals his name after; T:first feigning ignorance)
+0.66 (she; reveals his name; T:When the imp comes to the queen on the third day)
+0.31 (she; reveals; his name)
+0.86 (the imp; comes on; T:the third day)
+0.90 (the imp; comes to; the queen)
+
+Versions vary about whether he accuses the devil or witches of having revealed his name to the queen.
+0.89 (witches; of having revealed his name to; the queen)
+0.82 (witches; of having revealed; his name)
+0.31 (he; accuses witches of; having revealed his name to the queen)
+0.45 (he; accuses; witches)
+0.88 (Versions; vary about; whether he accuses witches of having revealed his name to the queen)
+0.90 (the devil; of having revealed his name to; the queen)
+0.83 (the devil; of having revealed; his name)
+0.31 (he; accuses the devil of; having revealed his name to the queen)
+0.45 (he; accuses; the devil)
+0.88 (Versions; vary about; whether he accuses the devil of having revealed his name to the queen)
+
+In the 1812 edition of the Brothers Grimm tales, Rumpelstiltskin then "ran away angrily, and never came back".
+0.86 (Rumpelstiltskin; never came; T:then)
+0.95 (Rumpelstiltskin; never came In; L:the 1812 edition of the Brothers Grimm tales)
+0.77 (Rumpelstiltskin; never came; back)
+0.77 (Rumpelstiltskin; ran angrily; T:then)
+0.95 (Rumpelstiltskin; ran angrily In; L:the 1812 edition of the Brothers Grimm tales)
+
+The ending was revised in an 1857 edition to a more gruesome ending wherein Rumpelstiltskin "in his rage drove his right foot so far into the ground that it sank in up to his waist; then in a passion he seized the left foot with both hands and tore himself in two".
+0.64 Context(he seized,List([202, 211))):(The ending; was revised to; a more gruesome ending wherein Rumpelstiltskin " in his rage drove his right foot so far into the ground that it sank in up to his waist)
+0.87 Context(he seized,List([202, 211))):(The ending; was revised to a more gruesome ending wherein Rumpelstiltskin " in his rage drove his right foot so far into the ground that it sank in up to his waist in; L:an 1857 edition)
+0.25 (he; seized the left foot; T:then)
+0.39 (he; seized; the left foot)
+0.31 (it; sank in; T:up to his waist)
+0.84 (Rumpelstiltskin; drove his right foot in; L:his rage)
+0.76 (Rumpelstiltskin; drove his right foot; so far into the ground that it sank in up to his waist)
+0.84 (Rumpelstiltskin; drove; his right foot)
+
+Other versions have Rumpelstiltskin driving his right foot so far into the ground that he creates a chasm and falls into it, never to be seen again.
+0.74 (Other versions; have; Rumpelstiltskin driving his right foot so far into the ground that he falls into it)
+0.31 (he; falls into; it)
+0.83 Context(Other versions have,List([0, 19))):(Rumpelstiltskin; driving so far; his right foot)
+0.89 (Other versions; have; Rumpelstiltskin driving his right foot so far into the ground)
+0.45 (he; creates; a chasm)
+
+In the oral version originally collected by the Brothers Grimm, Rumpelstiltskin flies out of the window on a cooking ladle.
+0.94 (Rumpelstiltskin; flies In; L:the oral version)
+0.92 (Rumpelstiltskin; flies out; of the window on a cooking ladle)
+0.85 (the oral version; collected; T:originally)
+0.91 (the oral version; collected by; the Brothers Grimm)

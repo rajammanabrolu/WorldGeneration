@@ -1,0 +1,258 @@
+Holmes and Dr. Watson find themselves at Poldhu in Cornwall one spring for the former's health, but the holiday ends with a bizarre event.
+0.91 Context(Dr. Watson find,List([0, 15))):(one spring for the holiday; ends with; a bizarre event)
+0.91 Context(Holmes find,List([0, 11))):(one spring for the holiday; ends with; a bizarre event)
+0.91 (Dr. Watson; find themselves in; L:Cornwall)
+0.94 (Dr. Watson; find themselves at; L:Poldhu)
+0.90 (Dr. Watson; find; themselves)
+0.87 (Holmes; find themselves in; L:Cornwall)
+0.91 (Holmes; find themselves at; L:Poldhu)
+0.86 (Holmes; find; themselves)
+
+Mr. Mortimer Tregennis, a local gentleman, and Mr. Roundhay, the local vicar, come to Holmes to report that Tregennis's two brothers have gone insane, and his sister has died.
+0.29 Context(Mr. Roundhay to report,List([0, 57))):(his sister; has died; )
+0.82 (Mr. Roundhay; to report that; his sister has died)
+0.58 (Mr. Roundhay; come to; report that his sister has died)
+0.29 Context(Mr. Mortimer Tregennis to report,List([0, 69))):(his sister; has died; )
+0.84 (Mr. Mortimer Tregennis; to report that; his sister has died)
+0.60 (Mr. Mortimer Tregennis; come to; report that his sister has died)
+0.89 (Mr. Roundhay; [is]; the local vicar)
+0.81 Context(Mr. Roundhay to report,List([0, 57))):(Tregennis 's two brothers; have gone; insane)
+0.91 (Mr. Roundhay; to report that; Tregennis 's two brothers have gone insane)
+0.75 (Mr. Roundhay; come to; report that Tregennis 's two brothers have gone insane)
+0.93 (Mr. Roundhay; come to; Holmes)
+0.89 (Mr. Mortimer Tregennis; [is]; a local gentleman)
+0.81 Context(Mr. Mortimer Tregennis to report,List([0, 69))):(Tregennis 's two brothers; have gone; insane)
+0.92 (Mr. Mortimer Tregennis; to report that; Tregennis 's two brothers have gone insane)
+0.77 (Mr. Mortimer Tregennis; come to; report that Tregennis 's two brothers have gone insane)
+0.93 (Mr. Mortimer Tregennis; come to; Holmes)
+
+Tregennis had gone to visit them in their village, played whist with them, and then left.
+0.80 (Tregennis; had left; T:then)
+0.84 (Tregennis; to visit them in; L:their village)
+0.84 (Tregennis; to visit; them)
+
+When he came back in the morning, he found them still sitting in their places at the table, the brothers, George and Owen, laughing and singing, and the sister, Brenda, dead.
+0.34 (he; found them still sitting in their places at the table , the brothers , Owen , singing , dead; T:When he came back in the morning)
+0.40 (he; found; them still sitting in their places at the table , the brothers , Owen , singing , dead)
+0.34 (he; found them still sitting in their places at the table , the brothers , Owen , laughing , dead; T:When he came back in the morning)
+0.40 (he; found; them still sitting in their places at the table , the brothers , Owen , laughing , dead)
+0.70 (the brothers; laughing; )
+0.35 Context(he found,List([35, 43))):(them; sitting in their places at; L:the table , the brothers)
+0.34 (he; found them still sitting in their places at the table , the brothers; T:When he came back in the morning)
+0.36 (he; found; them still sitting in their places at the table , the brothers)
+0.34 (he; found them still sitting in their places at the table , the brothers , George , laughing , dead; T:When he came back in the morning)
+0.40 (he; found; them still sitting in their places at the table , the brothers , George , laughing , dead)
+0.25 Context(he found,List([35, 43))):(them; sitting in their places; T:still)
+0.35 Context(he found,List([35, 43))):(them; sitting in their places at; L:the table)
+0.23 Context(he found,List([35, 43))):(them; sitting in; their places)
+0.34 (he; found them still sitting in their places at the table , the sister , Brenda , dead; T:When he came back in the morning)
+0.40 (he; found; them still sitting in their places at the table , the sister , Brenda , dead)
+0.45 (he; came; back in the morning)
+
+The housekeeper had discovered them in this state, and fainted.
+0.73 (The housekeeper; had fainted; )
+0.90 (The housekeeper; had discovered them in; L:this state)
+0.83 (The housekeeper; had discovered; them)
+
+The vicar has not been to see them yet.
+0.74 (The vicar; to see them; T:yet)
+0.81 (The vicar; to see; them)
+0.83 (The vicar; has not been to; see them yet)
+
+Tregennis says that he remembers one brother looking through the window, and then he himself turned to see some "movement" outside.
+0.23 Context(Tregennis says,List([0, 14))):(he; turned; T:then)
+0.89 (Tregennis; says that; then he himself turned to see some " movement " outside)
+0.17 (he; to see some " movement; L:outside)
+0.41 (he; to see; some " movement)
+0.40 Context(Tregennis says,List([0, 14))):(he; remembers; one brother looking through the window)
+0.83 (Tregennis; says that; he remembers one brother)
+0.90 (one brother; looking through; the window)
+
+He declares that the horrific event is the work of the devil.
+0.92 Context(He declares,List([0, 11))):(the horrific event; is; the work of the devil)
+0.40 (He; declares that; the horrific event is the work of the devil)
+
+Mortimer Tregennis was once estranged from his siblings by the matter of dividing the proceeds from the sale of the family business, but he insists that all was forgiven, although he still lives apart from them.
+0.13 Context(he insists,List([0, 10))):(all; was forgiven; )
+0.36 (he; insists that; all was forgiven , although he still lives apart from them)
+0.30 (he; lives; T:still)
+0.27 (he; lives; L:apart from them)
+0.88 (Mortimer Tregennis; was; estranged from his siblings)
+0.81 (Mortimer Tregennis; was estranged from his siblings; T:once)
+
+The doctor who was summoned, reckoned that she had been dead for six hours.
+0.45 (she; had been dead for; T:six hours)
+0.23 (she; had been; dead)
+0.85 (The doctor who was summoned; reckoned that; she had been dead for six hours)
+0.70 (The doctor; was summoned; )
+
+He also collapsed into a chair for a while after arriving.
+0.17 (He; after arriving; )
+0.14 (He; collapsed after; T:arriving)
+0.31 (He; collapsed for; T:a while)
+0.41 (He; collapsed into; a chair)
+
+Holmes goes to the house in question and, apparently carelessly, kicks over a watering pot, soaking everyone's feet.
+0.84 Context(Holmes kicks,List([0, 70))):(Holmes; kicks soaking; everyone's feet)
+0.75 (Holmes; kicks; )
+0.77 (Holmes; goes; T:apparently carelessly)
+0.92 (Holmes; goes to; the house in question)
+
+The housekeeper tells Holmes that she heard nothing in the night, and that the family had been particularly happy and prosperous lately.
+0.72 Context(The housekeeper tells,List([0, 21))):(the family; had been prosperous; T:lately)
+0.72 Context(The housekeeper tells,List([0, 21))):(the family; had been; prosperous)
+0.88 (The housekeeper; tells Holmes that; the family had been prosperous lately)
+0.72 Context(The housekeeper tells,List([0, 21))):(the family; had been particularly happy; T:lately)
+0.72 Context(The housekeeper tells,List([0, 21))):(the family; had been; particularly happy)
+0.88 (The housekeeper; tells Holmes that; the family had been particularly happy lately)
+0.39 Context(The housekeeper tells,List([0, 21))):(she; heard nothing in; T:the night)
+0.39 Context(The housekeeper tells,List([0, 21))):(she; heard; nothing)
+0.80 (The housekeeper; tells Holmes that; she heard nothing in the night)
+0.92 (The housekeeper; tells; Holmes)
+
+Holmes observes the remains of a fire in the fireplace.
+0.92 (Holmes; observes; the remains of a fire in the fireplace)
+
+Tregennis explains that it was a cold, damp night.
+0.47 Context(Tregennis explains,List([0, 18))):(it; was; a cold, damp night)
+0.83 (Tregennis; explains that; it was a cold, damp night)
+
+Afterwards, Holmes lays the case out to Watson thus:
+0.80 (Holmes; lays thus; T:Afterwards)
+
+Quite obviously, there is no point in attributing the tragedy to the Devil; therefore, what took place can only be the work of a human.
+0.89 (what took place; can only be; the work of a human)
+
+Whatever happened to those people happened right after Tregennis left, for they had not moved and everything was in the same place;     Mortimer Tregennis went swiftly back to the vicarage where he lives;     The only suggestion of an explanation—the "movement"—comes from Mortimer Tregennis;     Given the weather, anyone appearing at the window and doing something horrifying enough to instantly kill someone would have had to come right up to the window thus trampling the flowerbed, which is still intact;     What on earth could this person at the window have done to cause such horror?
+0.94 (anyone doing something horrifying enough to instantly kill someone; to come; right up to the window)
+0.84 Context(anyone doing something horrifying,List([22, 55))):(anyone doing something; horrifying to instantly kill; someone)
+0.74 (anyone doing something; horrifying; enough)
+0.94 (anyone doing something horrifying enough to instantly kill someone; trampling; the flowerbed , which is still intact)
+0.91 (anyone appearing at the window; to come; right up to the window)
+0.75 (the flowerbed; is; intact)
+0.73 (the flowerbed; is intact; T:still)
+0.86 (the window; horrifying to; instantly kill someone)
+0.76 (the window; horrifying to instantly kill someone; enough)
+0.91 (anyone appearing at the window; trampling; the flowerbed , which is still intact)
+0.89 (anyone; appearing at; L:the window)
+
+None of this seems to make for an elementary case, but soon, new questions are raised.
+0.73 (new questions; are raised; )
+0.90 (None of this; to make for; an elementary case)
+0.75 (None of this; seems; )
+
+Dr. Leon Sterndale, the famous hunter and explorer, aborts his sailing from Plymouth after the vicar wired him  with the tragic news.
+0.89 (Dr. Leon Sterndale; [is]; explorer)
+0.89 (Dr. Leon Sterndale; [is]; the famous hunter)
+0.90 (the vicar; wired him with; the tragic news)
+0.83 (the vicar; wired; him)
+0.86 (Dr. Leon Sterndale; aborts his sailing from Plymouth after; T:the vicar wired him with the tragic news)
+0.88 (Dr. Leon Sterndale; aborts; his sailing from Plymouth)
+
+He asks Holmes what his suspicions are, and is displeased when Holmes will not voice them.
+0.86 (Holmes; will not voice; them)
+0.35 (He; is displeased; T:when Holmes will not voice them)
+0.28 (He; is; displeased)
+0.29 Context(He asks,List([0, 7))):(his suspicions; are; )
+0.26 (He; asks Holmes; what his suspicions are)
+0.50 (He; asks; Holmes)
+
+After Sterndale leaves, Holmes follows him discreetly.
+0.95 (Holmes; follows discreetly After; T:Sterndale leaves)
+0.77 (Sterndale; leaves; )
+
+The morning after Holmes comes back to his room, apparently none the wiser for following Sterndale, the vicar arrives in a panic with the news that Mortimer Tregennis has now died in the same way as his sister.
+0.81 (Mortimer Tregennis; has died; T:now)
+0.78 (the vicar; arrives in; a panic with the news that Mortimer Tregennis has now died in the same way as his sister)
+0.86 (Holmes; comes; back to his room)
+
+A lamp is burning on the table beside the dead man.
+0.86 (A lamp; is burning beside; L:the dead man)
+0.90 (A lamp; is burning on; L:the table)
+
+Holmes rushes about, examining many things.
+0.91 (Holmes; examining; many things)
+
+He also scrapes some ashes out of the lamp, and puts them in an envelope.
+0.45 (He; puts them in; an envelope)
+0.37 (He; puts; them)
+0.41 (He; scrapes some ashes out; of the lamp)
+0.41 (He; scrapes; some ashes)
+
+Holmes deduces how the victims died or went mad and why people present when the death rooms were first opened fainted or felt unwell in each case.
+0.78 (the death rooms; were opened felt; T:first)
+0.87 (the death rooms; were opened felt in; L:each case)
+0.70 (the death rooms; were opened felt; T:unwell)
+0.95 (Holmes; deduces why people present; T:when the death rooms were first opened felt unwell in each case)
+0.92 (Holmes; deduces why people present; T:when the death rooms were first opened fainted)
+0.92 (Holmes; deduces; why people present)
+0.78 Context(Holmes deduces,List([0, 14))):(the victims; went; mad)
+0.90 (Holmes; deduces; how the victims went mad)
+0.69 Context(Holmes deduces,List([0, 14))):(the victims; died; )
+0.90 (Holmes; deduces; how the victims died)
+
+He tests his hypothesis by buying a lamp like the one in Tregennis's room, lighting it, and putting some of the collected "ashes" on the smoke guard.
+0.26 Context(He tests by buying,List([0, 33))):(He; tests his hypothesis by buying a lamp lighting; it)
+0.39 Context(He tests,List([0, 8))):(He; tests his hypothesis by buying; a lamp)
+0.31 (He; tests; his hypothesis)
+
+The smoke from this powder is so potent a poison that Holmes is immediately struck down.
+0.76 (a poison; that is struck down; T:immediately)
+0.85 (The smoke from this powder; is; so potent)
+
+Watson is able to resist and drags Holmes out of the room just in time.
+0.91 (Watson; drags Holmes; T:just in time)
+0.92 (Watson; drags Holmes out; of the room)
+0.95 (Watson; drags; Holmes)
+0.74 (Watson; to resist; )
+0.84 (Watson; is; able to resist)
+
+It is clear to Holmes that Mortimer Tregennis poisoned his siblings, but who killed Mortimer?
+0.92 (Holmes; killed; Mortimer)
+0.57 (It; is; clear to Holmes)
+
+It is Dr. Sterndale, who left physical evidence at the vicarage clearly implicating himself.
+0.74 Context(Dr. Sterndale left,List([6, 29))):(Dr. Sterndale; left physical evidence clearly implicating; himself)
+0.79 (Dr. Sterndale; left physical evidence; clearly implicating himself)
+0.89 (Dr. Sterndale; left physical evidence at; T:the vicarage)
+0.92 (Dr. Sterndale; left; physical evidence)
+0.57 (It; is; Dr. Sterndale)
+
+Holmes confronts Sterndale, who explains that he loved Brenda for years  and killed Mortimer in revenge for the cruel murder.
+0.39 Context(Sterndale explains,List([17, 41))):(he; killed Mortimer in; L:revenge for the cruel murder)
+0.43 Context(Sterndale explains,List([17, 41))):(he; killed; Mortimer)
+0.83 (Sterndale; explains that; he killed Mortimer in revenge for the cruel murder)
+0.39 Context(Sterndale explains,List([17, 41))):(he; loved Brenda for; T:years)
+0.43 Context(Sterndale explains,List([17, 41))):(he; loved; Brenda)
+0.83 (Sterndale; explains that; he loved Brenda for years)
+0.93 (Holmes; confronts; Sterndale)
+
+The poison is called Radix pedis diaboli, Sterndale collected from Africa as a curiosity.
+0.90 Context(The poison is called Radix pedis diaboli collected,List([0, 61))):(The poison; is called; Radix pedis diaboli)
+0.90 (The poison is called Radix pedis diaboli; collected as; a curiosity)
+
+The toxic contents of the plant root are vaporized by heat and diffuse into the local atmosphere.
+0.94 (The toxic contents of the plant root; are vaporized by; heat)
+
+He once explained to Mortimer what it was and what it was capable of, who then stole some to murder his siblings by throwing it on the fire just before he left.
+0.45 (what it; to murder; his siblings)
+0.23 Context(He explained,List([0, 17))):(it; was; capable of , who then stole some)
+0.28 (He; explained to Mortimer; what it was capable of , who then stole some)
+0.20 Context(He explained,List([0, 17))):(it; was; )
+0.25 (He; explained to Mortimer; T:once)
+0.23 (He; explained to Mortimer; what it was)
+0.39 (He; explained to; Mortimer)
+
+Mortimer thought Sterndale would be at sea before news reached Plymouth, but Sterndale recognized the poison's effects from the vicar's description of the tragedy and deduced right away what had happened.
+0.24 (Mortimer; deduced right away; what had happened)
+0.95 (Sterndale; recognized; the poison 's effects from the vicar 's description of the tragedy)
+0.92 Context(Mortimer thought,List([0, 16))):(Sterndale; would be at sea before; T:news reached Plymouth)
+0.90 Context(Mortimer thought,List([0, 16))):(Sterndale; would be at; sea)
+0.54 (Mortimer; thought; Sterndale would be at sea)
+0.84 (news; reached; Plymouth)
+
+Holmes's sympathies in this matter lie with Sterndale, and he tells him to go back to his work in Africa.
+0.35 (him; to go; back to his work in Africa)
+0.35 (he; tells him to; go back to his work in Africa)
+0.37 (he; tells; him)
+0.96 (Holmes 's sympathies in this matter; lie with; Sterndale)

@@ -1,0 +1,105 @@
+One by one, they leave their homes and set out together.
+0.26 (One; set out together; )
+0.46 (they; leave; their homes)
+
+They decide to go to Bremen, known for its freedom, to live without owners and become musicians there.
+0.63 (They; decide to; go to Bremen , known for its freedom , become musicians there)
+0.19 Context(They decide to go,List([0, 17))):(They; decide to go to live; )
+0.45 Context(They decide,List([0, 11))):(They; decide to go to; live without owners)
+0.60 Context(They decide,List([0, 11))):(They; decide to go to; Bremen)
+0.60 (They; decide to; go to Bremen)
+0.84 (Bremen; known for; its freedom)
+
+On the way to Bremen, they see a lighted cottage; they look inside and see four robbers enjoying their ill-gotten gains.
+0.69 Context(they look,List([52, 61))):(they; see a lighted cottage On; L:the way to Bremen)
+0.56 Context(they look,List([52, 61))):(they; see; a lighted cottage)
+0.31 (they; look; inside)
+
+Standing on each other's backs, they decide to scare the robbers away by making a din; the men run for their lives, not knowing what the strange sound is.
+0.30 Context(they decide,List([32, 43))):(they; decide to scare the robbers; away)
+0.55 Context(they decide,List([32, 43))):(they; decide to scare; the robbers)
+0.52 (they; decide to; scare the robbers away by making a din; the men run for their lives)
+
+The animals take possession of the house, eat a good meal, and settle in for the evening.
+0.90 (The animals; take; possession of the house)
+
+Later that night, the robbers return and send one of their members in to investigate.
+0.84 (the robbers; send one of their members; T:Later that night)
+0.68 (the robbers; send one of their members to; investigate)
+0.77 (the robbers; send one of their members; in)
+0.87 (the robbers; send; one of their members)
+
+He sees the Cat's eyes shining in the darkness and the robber thinks he is seeing the coals of the fire.
+0.40 Context(the robber thinks,List([0, 17))):(he; is seeing; the coals of the fire)
+0.84 (the robber; thinks; he is seeing the coals of the fire)
+0.92 Context(He sees,List([0, 7))):(the Cat 's eyes; shining in; L:the darkness)
+0.44 (He; sees; the Cat 's eyes shining in the darkness)
+
+He reaches over to light his candle.
+0.27 (He; reaches; his candle)
+
+Things happen in quick succession; the Cat scratches his face with her claws, the Dog bites him on the leg, the Donkey kicks him with his hooves, and the Rooster crows and chases him out the door, screaming.
+0.11 Context(Things chases,List([0, 13))):(Things; chases him screaming; )
+0.26 (Things; chases; him)
+0.83 (the Rooster; crows; )
+0.87 (the Donkey; kicks him with; his hooves)
+0.90 (the Donkey; kicks; him)
+0.93 (the Dog; bites him on; L:the leg)
+0.87 (the Dog; bites; him)
+0.39 Context(the Cat scratches,List([36, 53))):(Things; happen in; L:quick succession)
+0.84 (the Cat; scratches his face with; her claws)
+0.84 (the Cat; scratches; his face)
+
+He tells his companions that he was beset by a horrible witch who had scratched him with her long fingernails, a man who has a knife, a black monster who had hit him with a club, and worst of all, the judge who had screamed from the rooftop.
+0.75 (a black monster; had hit; worst of all)
+0.89 (the judge; had screamed from; the rooftop)
+0.39 Context(He tells,List([0, 8))):(he; was beset by; a horrible witch)
+0.26 (He; tells his companions that; he was beset by a horrible witch)
+0.31 (He; tells; his companions)
+0.90 (a black monster; had hit him with; a club)
+0.82 (a black monster; had hit; him)
+0.91 (a man; has; a knife)
+0.82 (a horrible witch; had scratched him with; her long fingernails)
+0.82 (a horrible witch; had scratched; him)
+
+The robbers abandon the cottage to the strange creatures who have taken it, where the animals live happily for the rest of their days.
+0.88 (the animals; live happily; L:the strange creatures who have taken it)
+0.83 (the animals; live happily for; T:the rest of their days)
+0.90 (The robbers; abandon the cottage to; the strange creatures)
+0.90 (The robbers; abandon; the cottage)
+
+In the original version of this story, which dates from the twelfth century, the robbers are a bear, a lion, and a wolf, all animals featured in heraldric devices.
+0.90 (all animals; featured in; heraldric devices)
+0.93 (the robbers; are all animals featured in heraldric devices In; L:the original version of this story)
+0.90 (the robbers; are; all animals featured in heraldric devices)
+0.93 (the robbers; are a wolf In; L:the original version of this story)
+0.90 (the robbers; are; a wolf)
+0.93 (the robbers; are a lion In; L:the original version of this story)
+0.90 (the robbers; are; a lion)
+0.93 (the robbers; are a bear In; L:the original version of this story)
+0.90 (the robbers; are; a bear)
+0.89 (this story; dates from; the twelfth century)
+
+When the donkey and his friends arrive in Bremen, the townsfolk applaud them for having rid the district of the terrible beasts.
+0.90 (the townsfolk; applaud them; T:When his friends arrive in Bremen)
+0.68 (his friends; arrive in; Bremen)
+0.45 (them; for having rid; the district of the terrible beasts)
+0.94 (the townsfolk; applaud them; T:When the donkey arrive in Bremen)
+0.90 (the townsfolk; applaud them for; having rid the district of the terrible beasts)
+0.83 (the townsfolk; applaud; them)
+0.92 (the donkey; arrive in; Bremen)
+
+An alternate version involves the animals' master(s) being deprived of his livelihood and having to send his animals away, unable to take care of them any further.
+0.90 (An alternate version; involves; the animals ' master ( s ) being deprived of having to send his animals away ,)
+0.74 (the animals ' master; being deprived; )
+0.90 (An alternate version; involves; the animals ' master ( s ) being deprived of his livelihood)
+
+After the animals dispatch the thieves, they take the ill-gotten gains back to their master so he can rebuild.
+0.19 (he; can rebuild; )
+0.70 (they; take back After; T:the animals dispatch the thieves)
+0.36 (they; take back so; he can rebuild)
+0.90 (the animals; dispatch; the thieves)
+
+Other versions involve at least one wild, non-livestock animal, such as a lizard, helping the domestic animals out in dispatching the thieves.
+0.88 (Other versions; helping out; the domestic animals)
+0.90 (Other versions; involve; at least one wild)

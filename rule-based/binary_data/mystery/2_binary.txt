@@ -1,0 +1,253 @@
+In the story, Holmes recounts to Watson the events arising after a visit from a university acquaintance, Reginald Musgrave.
+0.90 (the events; arising after; T:a visit from a university acquaintance)
+0.94 (Holmes; recounts to Watson the events In; L:the story)
+0.93 (Holmes; recounts to; Watson the events)
+
+Musgrave visits Holmes after the disappearance of two of his domestic staff, Rachel Howells, a maid, and Richard Brunton, the longtime butler.
+0.39 (Rachel Howells; [is]; a maid)
+
+The pair vanished after Musgrave had dismissed Brunton for secretly reading a family document, the Musgrave Ritual.
+0.90 Context(Musgrave had dismissed,List([24, 46))):(Musgrave; had dismissed Brunton for secretly reading; a family document)
+0.90 (Musgrave; had dismissed Brunton for; secretly reading a family document)
+0.91 (Musgrave; had dismissed; Brunton)
+0.95 (The pair; vanished after; T:Musgrave had dismissed Brunton for secretly reading a family document)
+
+The Ritual, which dates from the 17th century, is a riddle set in question/response form.
+0.90 (a riddle; set in; question/response form)
+0.93 (The Ritual; is; a riddle set in question/response form)
+0.91 (The Ritual; dates from; the 17th century)
+
+It reads:
+0.19 (It; reads; )
+
+'He who will come.'
+0.17 (He; will come; )
+
+'Where was the sun?'     'Over the oak.'     'Where was the shadow?'     'Under the elm.'     'How was it stepped?'     'North by ten and by ten, east by five and by five, south by two and by two, west by one and by one, and so under.'     'What shall we give for it?'
+0.19 (it; stepped; )
+
+Musgrave caught Brunton in the library at two o'clock one morning.
+0.91 (Musgrave; caught Brunton; T:one morning)
+0.88 (Musgrave; caught Brunton at; T:two o'clock)
+0.92 (Musgrave; caught Brunton in; the library)
+0.93 (Musgrave; caught; Brunton)
+
+Not only had he unlocked a cabinet and taken out the document in question, but he also had what looked like a chart or map, which he promptly stuffed into a pocket upon seeing his employer watching him.
+0.42 Context(a map he promptly stuffed upon seeing,List([29, 88))):(his employer; watching; him)
+0.23 Context(a map promptly stuffed,List([29, 62))):(he; upon seeing; his employer watching him)
+0.77 (a map; promptly stuffed into a pocket upon; T:seeing his employer watching him)
+0.86 (a map; promptly stuffed into; a pocket)
+0.42 (he; had; what looked like a map)
+0.42 Context(a chart he promptly stuffed upon seeing,List([29, 90))):(his employer; watching; him)
+0.23 Context(a chart promptly stuffed,List([29, 64))):(he; upon seeing; his employer watching him)
+0.77 (a chart; promptly stuffed into a pocket upon; T:seeing his employer watching him)
+0.86 (a chart; promptly stuffed into; a pocket)
+0.42 (he; had; what looked like a chart)
+
+Brunton besought Musgrave not to dishonour him by dismissing him, and asked for a month's time to invent some reason for leaving, making it seem as though he was leaving of his own accord.
+0.31 (he; was leaving of; his own accord)
+0.88 (Brunton; asked to; invent some reason for leaving)
+0.92 (Brunton; asked to invent some reason for leaving for; T:a month 's time)
+0.83 Context(Brunton besought,List([0, 16))):(Brunton; besought Musgrave not to dishonour; him)
+0.92 (Brunton; besought; Musgrave)
+
+Musgrave granted him a week.
+0.92 (Musgrave; granted him; a week)
+0.86 (Musgrave; granted; him)
+
+The story later reveals that Brunton wanted the time for something else.
+0.90 Context(The story reveals,List([0, 23))):(Brunton; wanted; the time for something else)
+0.79 (The story; reveals that Brunton wanted the time for something else; T:later)
+0.88 (The story; reveals that; Brunton wanted the time for something else)
+
+A few days later, Brunton disappeared, leaving behind most of his belongings.
+0.84 (Brunton; leaving behind; most of his belongings)
+0.77 (Brunton; leaving; behind)
+0.94 (Brunton; disappeared; T:A few days later)
+
+No sign could be found of him.
+0.73 (No sign; could be found; )
+
+The maid, Rachel Howells, who was also Brunton's former lover, had a hysterical fit when asked about Brunton's whereabouts, repeating over and over that he was gone.
+0.19 (he; was gone; )
+0.78 (Brunton 's whereabouts; repeating over; )
+0.90 (The maid; had a hysterical fit; T:when asked about Brunton 's whereabouts)
+0.91 (The maid; had; a hysterical fit)
+0.93 (Rachel Howells; was also; Brunton 's former lover)
+
+She was in such a state that another servant was posted to sit up with her at night.
+0.89 (another servant; to sit up with her at; T:night)
+0.81 (another servant; to sit up with; her)
+0.83 (another servant; was posted to; sit up with her at night)
+0.21 (She; was in; such a state that another servant was posted to sit up with her at night)
+
+Eventually, however, the guarding servant nodded off one night, and the hysterical Rachel Howells escaped through a window.
+0.94 (the hysterical Rachel Howells; escaped through; a window)
+0.84 (the guarding servant; nodded off; T:Eventually)
+0.91 (the guarding servant; nodded off; T:one night)
+
+Her footprints led to the edge of the mere, and ended there.
+0.38 (Her footprints; ended; L:there)
+0.64 (Her footprints; led to; the edge of the mere)
+
+Musgrave had the mere dredged, but only a sack containing some rusty, mangled bits of metal, and some coloured stones or glass were found.
+0.87 (only a sack containing some rusty , mangled bits of glass; were found; )
+0.91 (only a sack; containing; some rusty , mangled bits of glass)
+0.82 (only a sack containing some coloured stones; were found; )
+0.91 (only a sack; containing; some coloured stones)
+0.87 (only a sack containing some rusty , mangled bits of metal; were found; )
+0.91 (only a sack; containing; some rusty , mangled bits of metal)
+0.22 Context(Musgrave had,List([0, 12))):(mere; dredged; )
+0.81 (Musgrave; had; the mere dredged)
+
+Rachel Howells was never heard from again.
+0.82 (Rachel Howells; was never heard from; again)
+
+Holmes looked upon the case not as three mysteries, but as one.
+0.92 (Holmes; looked upon the case; not as three mysteries)
+0.92 (Holmes; looked upon; the case)
+
+He considered the riddle of the ritual.
+0.45 (He; considered; the riddle of the ritual)
+
+It was a meaningless, absurd tradition to Musgrave, and apparently to all his ancestors going back more than two centuries, but Holmes – and Brunton, too, Holmes suspected – saw it as something very different.
+0.86 Context(Holmes suspected,List([22, 38))):(Holmes; suspected saw it as; something very different)
+0.76 Context(Holmes suspected,List([22, 38))):(Holmes; suspected saw; it)
+0.73 (Holmes; suspected; )
+0.92 (Holmes and Brunton; saw it as; something very different)
+0.89 (Holmes and Brunton; saw; it)
+0.49 (It; was; a meaningless , absurd tradition apparently to all his ancestors going back more than two centuries)
+0.57 (It; was; a meaningless , absurd tradition to Musgrave)
+
+He quickly realized that it was a set of instructions for finding something.
+0.46 Context(He quickly realized,List([0, 19))):(it; was; a set of instructions for finding something)
+0.26 (He; quickly realized that; it was a set of instructions for finding something)
+
+Ascertaining the height of the oak, which was still standing, and the position of the elm, which was now gone, Holmes performed a few calculations and paced out the route to whatever awaited him, with Musgrave now eagerly following him.
+0.91 (Ascertaining the height; paced out; the route to whatever awaited him , with Musgrave now eagerly following him)
+0.90 (Holmes; performed; a few calculations)
+0.86 (Musgrave; eagerly following him; T:now)
+0.84 (Musgrave; eagerly following; him)
+0.73 (the elm; was gone; T:now)
+0.73 (the oak; was standing; T:still)
+
+It was quite instructive to Holmes that Brunton had recently asked about the old elm tree's height as well, and that he was apparently quite intelligent.
+0.23 (he; was apparently; quite intelligent)
+0.29 (It; was; quite instructive to Holmes that he was apparently quite intelligent)
+0.80 (Brunton; had asked as well; T:recently)
+0.44 (It; was; quite instructive to Holmes that Brunton had recently asked about the old elm tree 's height as well)
+
+The two men found themselves inside a doorway, momentarily disappointed, until they realized that there was the last instruction, "and so under".
+0.20 (they; realized that; there was so under)
+0.57 (The two men; found themselves until; T:they realized that there was so under)
+0.91 (The two men; found themselves inside; L:a doorway , momentarily disappointed)
+0.41 (they; realized that; there was the last instruction)
+0.91 (The two men; found themselves inside; L:a doorway)
+0.85 (The two men; found; themselves)
+
+There was a cellar under where they were standing, as old as the house.
+0.89 (a cellar under; were standing; they)
+
+Finding their way into it, they saw that the floor had been cleared to expose a stone slab with an iron ring on it.
+0.86 Context(they saw,List([27, 35))):(the floor; had been cleared to; expose a stone slab with an iron ring on it)
+0.52 (they; saw that; the floor had been cleared to expose a stone slab with an iron ring on it)
+
+Holmes thought it wise to bring the police in at this point.
+0.91 (Holmes; thought; it wise to bring the police in at this point)
+
+He and a burly Sussex policeman managed to lift the slab off the little hole that it was covering, and inside, they found an empty, rotten chest, and Brunton, who had been dead for several days.
+0.91 (Brunton; had been dead for; T:several days)
+0.77 (Brunton; had been; dead)
+0.92 Context(a burly Sussex policeman managed they found,List([0, 64))):(a burly Sussex policeman; managed to lift; the inside)
+0.92 Context(they found,List([54, 64))):(a burly Sussex policeman; managed to; lift the inside)
+0.40 Context(He managed they found,List([0, 42))):(He; managed to lift; the inside)
+0.40 Context(they found,List([32, 42))):(He; managed to; lift the inside)
+0.56 (they; found; an empty , rotten chest)
+0.92 Context(a burly Sussex policeman managed,List([0, 32))):(a burly Sussex policeman; managed to lift the slab off; the little hole)
+0.92 Context(a burly Sussex policeman managed,List([0, 32))):(a burly Sussex policeman; managed to lift; the slab)
+0.92 (a burly Sussex policeman; managed to; lift the slab off the little hole)
+0.40 Context(He managed,List([0, 10))):(He; managed to lift the slab off; the little hole)
+0.40 Context(He managed,List([0, 10))):(He; managed to lift; the slab)
+0.40 (He; managed to; lift the slab off the little hole)
+0.89 (the little hole; was covering; it)
+
+He had likely suffocated.
+0.24 (He; had; likely suffocated)
+
+Holmes then put everything together for his rather shocked client.
+0.86 (Holmes; put everything; T:then)
+0.77 (Holmes; put everything for; his rather shocked client)
+0.77 (Holmes; put everything; together)
+0.93 (Holmes; put; everything)
+
+Brunton had deduced the ritual's meaning, at least insofar as it led to something valuable.
+0.92 (Brunton; had deduced; the ritual's meaning)
+
+He had determined the elm tree's height by asking his master, had paced out the instructions – and Holmes had later even found a peg hole in the lawn made by Brunton – had found the hiding place in the old cellar, but then had found it impossible to lift the stone slab himself.
+0.91 (Brunton; had found; the hiding place in the old cellar)
+0.76 Context(He had determined,List([0, 17))):(Holmes; had even found a peg hole in the lawn; T:later)
+0.86 Context(He had determined,List([0, 17))):(Holmes; had even found; a peg hole in the lawn)
+0.35 (He; had paced out; the instructions)
+0.26 Context(He had determined,List([0, 17))):(He; had determined the elm tree 's height by asking; his master)
+0.40 (He; had determined; the elm tree 's height)
+
+So, he had been forced to draw someone else into his treasure hunt.
+0.27 (he; to draw someone else into; his treasure hunt)
+0.41 (he; to draw; someone else)
+0.31 (he; had been forced to; draw someone else into his treasure hunt)
+
+He had unwisely chosen Rachel Howells, who hated him.
+0.85 (Rachel Howells; hated; him)
+0.50 (He; had unwisely chosen; Rachel Howells)
+
+The two of them could have lifted the slab up, but they would have needed to support it while Brunton climbed down to fetch the treasure.
+0.40 Context(they would have needed,List([0, 22))):(they; would have needed to support; it)
+0.60 (they; would have needed to support it while; T:Brunton climbed down)
+0.40 (they; would have needed to; support it)
+0.91 (Brunton; to fetch; the treasure)
+0.88 (Brunton; climbed to; fetch the treasure)
+0.80 (Brunton; climbed; down)
+0.43 (The two of them; could have lifted the slab; up)
+0.68 (The two of them; could have lifted; the slab)
+
+Based on Rachel's sudden flight and disappearance, Holmes wondered if she had deliberately kicked the supports away and left Brunton to die, or if the slab had fallen back into place by itself and caused her to panic.
+0.39 Context(Holmes wondered,List([25, 40))):(she; had deliberately caused her to; panic)
+0.26 Context(Holmes wondered,List([25, 40))):(she; had deliberately caused; her)
+0.20 Context(Holmes wondered,List([25, 40))):(she; had; )
+0.18 Context(Holmes wondered,List([25, 40))):(she; had deliberately left Brunton to; die)
+0.43 Context(Holmes wondered,List([25, 40))):(she; had deliberately left; Brunton)
+0.18 Context(Holmes wondered,List([25, 40))):(she; had deliberately kicked; the supports away)
+0.26 Context(Holmes wondered,List([35, 50))):(she; had deliberately caused; her)
+0.83 (Holmes; wondered if; she had deliberately caused her to panic)
+0.20 Context(Holmes wondered,List([35, 50))):(she; had; )
+0.88 (Holmes; wondered if; she had deliberately if the slab had fallen back into place by itself)
+0.18 Context(Holmes wondered,List([35, 50))):(she; had deliberately left Brunton to; die)
+0.43 Context(Holmes wondered,List([35, 50))):(she; had deliberately left; Brunton)
+0.85 (Holmes; wondered if; she had deliberately left Brunton to die)
+0.17 (she; to die; )
+0.18 Context(Holmes wondered,List([35, 50))):(she; had deliberately kicked; the supports away)
+0.83 (Holmes; wondered if; she had deliberately kicked the supports away)
+
+As to the relics found in the bag retrieved from the mere, Holmes examined them and found that the metal parts were gold and the stones were gems.
+0.94 (Holmes; examined them As; T:to the relics)
+0.86 (Holmes; examined; them)
+0.77 (the bag; retrieved from; the mere)
+0.90 (the relics; found in; L:the bag)
+
+He believed that it was no less than King Charles I’s gold crown, being kept for his eventual successor – his son, Charles II, who would not be crowned until 11 years after the execution of Charles I. The ritual had been a guide to retrieving this important symbol, and Reginald confirms that one of his ancestors, Sir Ralph Musgrave, was a king's man.
+0.66 Context(Reginald confirms,List([0, 17))):(one of his ancestors; was; a king 's man)
+0.91 (Reginald; confirms that; one of his ancestors , Sir Ralph Musgrave , was a king 's man)
+0.39 (Charles II; [is] son [of]; him)
+0.54 (his son; would not be crowned after; T:the execution of Charles I. The ritual)
+0.60 (his son; would not be crowned until; T:11 years)
+0.52 (I; 's; gold crown)
+0.51 Context(He believed,List([0, 11))):(it; was; no less than King Charles)
+0.30 (He; believed that; it was no less than King Charles)
+
+Holmes theorized that the original holder of the ritual had died before teaching his son about its significance.
+0.86 Context(Holmes theorized,List([0, 16))):(the original holder of the ritual; had died before; T:teaching his son about its significance)
+0.89 (Holmes; theorized that; the original holder of the ritual had died before teaching his son about its significance)
+0.86 (the original holder of the ritual; before teaching; his son about its significance)
+
+It had thus become nothing more than a quaint custom for more than 200 years.
+0.46 (It; had become; nothing more than a quaint custom for more than 200 years)

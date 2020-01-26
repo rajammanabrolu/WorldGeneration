@@ -1,0 +1,324 @@
+Dr. Watson recounts an adventure that started on 20 March 1888.
+0.90 (an adventure; started on; T:20 March 1888)
+0.85 (Dr. Watson; recounts; an adventure that started on 20 March 1888)
+
+While the currently married Watson is paying Holmes a visit, a masked visitor arrives, introducing himself as Count Von Kramm, an agent for a wealthy client.
+0.39 (Count Von Kramm; [is] an agent for; a wealthy client)
+0.91 (a masked visitor; introducing himself as; Count Von Kramm)
+0.82 (a masked visitor; introducing; himself)
+0.85 (a masked visitor; arrives; introducing himself as Count Von Kramm)
+0.94 (the currently married Watson; is paying Holmes; a visit)
+0.95 (the currently married Watson; is paying; Holmes)
+
+Holmes quickly deduces that the visitor is, in fact, Wilhelm Gottsreich Sigismond von Ormstein, Grand Duke of Cassel-Felstein and the hereditary King of Bohemia.
+0.38 (Wilhelm Gottsreich Sigismond von Ormstein; [is] Grand Duke of; the hereditary King)
+0.38 (Wilhelm Gottsreich Sigismond von Ormstein; [is] Grand Duke of; Cassel - Felstein)
+0.74 Context(Holmes quickly deduces,List([0, 22))):(the visitor; is; )
+0.90 (Holmes; quickly deduces that; the visitor is)
+
+Realizing Holmes has seen through his guise, the King admits this and tears off his mask.
+0.77 (the King; admits; this)
+
+It transpires that the King is to become engaged to Clotilde Lothman von Saxe-Meiningen, a young Scandinavian princess.
+0.93 (the King; to become; engaged to Clotilde Lothman von Saxe-Meiningen)
+
+However, five years before the events of the story he had enjoyed a liaison with a "well-known adventuress", the American opera singer Irene Adler, whilst she was prima donna of the Imperial Opera of Warsaw.
+0.39 (Irene Adler; [is] opera singer [from]; United States)
+0.57 (she; was; prima donna of the Imperial Opera of Warsaw)
+0.45 (he; had enjoyed; a liaison with a "well-known adventuress)
+
+She has since retired and now lives in London.
+0.30 (She; lives; T:now)
+0.46 (She; lives in; L:London)
+
+Fearful that should the strictly principled family of his fiancée learn of this impropriety, the marriage would be called off, he had sought to regain letters and a photograph of Adler and himself together, which he had sent to her during their relationship as a token.
+0.26 Context(he had sought,List([129, 142))):(he; had sought to regain together; himself)
+0.26 (he; had sought to; regain himself together)
+0.31 (he; had sent to her during; T:their relationship as a token)
+0.31 (he; had sent to; her)
+0.44 Context(he had sought,List([129, 142))):(he; had sought to regain; a photograph of Adler)
+0.44 (he; had sought to; regain a photograph of Adler)
+0.84 (Adler; had sent to her during; T:their relationship as a token)
+0.84 (Adler; had sent to; her)
+0.36 Context(he had sought,List([129, 142))):(he; had sought to regain; letters , which he had sent to her during their relationship as a token)
+0.40 (he; had sought to; regain letters)
+0.80 (letters; had sent to her during; T:their relationship as a token)
+0.80 (letters; had sent to; her)
+
+The King's agents have tried to recover the photograph through sometimes forceful means, burglary, stealing her luggage, and waylaying her.
+0.87 (The King 's agents; have tried to; recover the photograph through waylaying her)
+0.86 Context(The King 's agents have tried to recover,List([0, 40))):(The King 's agents; have tried to recover the photograph through stealing; her luggage)
+0.86 (The King 's agents; have tried to; recover the photograph through stealing her luggage)
+0.92 (The King 's agents; have tried to; recover the photograph through burglary)
+0.92 Context(The King 's agents have tried,List([0, 29))):(The King 's agents; have tried to recover; the photograph)
+0.92 (The King 's agents; have tried to; recover the photograph through sometimes forceful means)
+
+An offer to pay for the photograph and letters was also refused.
+0.82 (An offer to pay for the letters; was also refused; )
+0.82 (An offer to pay for the photograph; was also refused; )
+
+With Adler threatening to send them to his future in-laws, which the King presumes is intended to prevent him from marrying any other woman, he makes the incognito visit to Holmes to request his help in locating and obtaining the photograph.
+0.88 Context(he makes,List([143, 151))):(the incognito visit to Holmes; to request; his help in obtaining the photograph)
+0.41 (he; makes; the incognito visit to Holmes to request his help in obtaining the photograph)
+0.78 (his future in-laws; presumes; the King)
+0.88 Context(he makes,List([143, 151))):(the incognito visit to Holmes; to request; his help in locating)
+0.41 (he; makes; the incognito visit to Holmes to request his help in locating)
+0.45 (him; from marrying; any other woman)
+0.83 Context(Adler threatening,List([5, 22))):(Adler; threatening to send them to; his future in-laws)
+0.83 Context(Adler threatening,List([5, 22))):(Adler; threatening to send; them)
+0.83 (Adler; threatening to; send them to his future in-laws)
+
+The photograph is described to Holmes as a cabinet and therefore too bulky for a lady to carry upon her person.
+0.83 (a lady; to carry upon; her person)
+0.86 (The photograph; is described as; a cabinet)
+
+As regards expenses, the King says Holmes has carte blanche and gives him £1,000, exclaiming "I would give one of the provinces of my kingdom to have that photograph!" Holmes asks Dr. Watson to join him at 221B Baker Street at 3 o'clock the following afternoon.
+0.89 (the King; says; gives him £1,000 , exclaiming " I would give one of the provinces of my kingdom)
+0.89 (Dr. Watson; to join him at; T:3 o'clock the following afternoon)
+0.94 (Dr. Watson; to join him at; L:221B Baker Street)
+0.87 (Dr. Watson; to join; him)
+0.90 Context(the King says,List([22, 35))):(Holmes; asks Dr. Watson to; join him at 221B Baker Street at 3 o'clock the following afternoon)
+0.93 Context(the King says,List([22, 35))):(Holmes; asks; Dr. Watson)
+0.80 Context(the King says,List([22, 35))):(Holmes; has; carte blanche)
+0.92 (the King; says; Holmes has carte blanche)
+
+The next morning, Holmes goes to Adler's house, disguised as a drunken out-of-work groom.
+0.91 (Holmes; disguised as; a drunken out-of-work groom)
+0.94 (Holmes; goes to Adler 's house; T:The next morning)
+0.94 (Holmes; goes to Adler 's house; disguised as a drunken out-of-work groom)
+0.93 (Holmes; goes to; Adler's house)
+
+He discovers from the local stable workers that Adler has a gentleman friend, the barrister Godfrey Norton of the Inner Temple, who calls at least once a day.
+0.92 (the Inner Temple; calls at; T:least once a day)
+0.94 (Adler; has; a gentleman friend)
+0.45 (He; discovers from; the local stable workers)
+
+On this particular day, Norton comes to visit Adler, and soon afterward takes a cab to the Church of St. Monica in Edgware Road.
+0.94 (Norton; takes a cab On; T:this particular day)
+0.92 (Norton; takes a cab to; the Church of St. Monica in Edgware Road)
+0.91 (Norton; takes; a cab)
+0.77 (Norton; comes; T:afterward)
+0.80 (Norton; comes; T:soon)
+0.92 (Norton; to visit; Adler)
+0.94 (Norton; comes On; T:this particular day)
+0.93 (Norton; comes to; visit Adler)
+
+Minutes later, the lady herself gets into her landau, bound for the same place.
+0.60 (her landau; bound for; the same place)
+0.81 (the lady; gets into her landau; T:later)
+0.81 (the lady; gets into; her landau)
+
+Holmes follows in a cab and enters a church, where he is unexpectedly asked to be a witness to Norton and Adler's wedding.
+0.46 (he; to be; a witness to Adler 's wedding)
+0.50 (he; is unexpectedly asked to; be a witness to Adler 's wedding)
+0.92 (Holmes; enters; a church , where he is unexpectedly asked to be a witness to Adler 's wedding)
+0.46 (he; to be; a witness to Norton)
+0.50 (he; is unexpectedly asked to; be a witness to Norton)
+0.92 (Holmes; enters; a church , where he is unexpectedly asked to be a witness to Norton)
+0.77 (Holmes; follows; )
+
+Meanwhile, Watson has been waiting for Holmes to arrive, and when Holmes finally does deliver himself back to Baker Street, he starts laughing.
+0.16 Context(he starts,List([64, 73))):(he; starts laughing laughing; )
+0.50 (he; starts laughing; T:when Holmes finally does deliver himself back to Baker Street)
+0.86 (Holmes; does deliver himself; T:finally)
+0.92 (Holmes; does deliver himself; back to Baker Street)
+0.84 (Holmes; does deliver; himself)
+0.16 Context(he starts,List([59, 68))):(he; starts laughing laughing; )
+0.83 Context(he starts,List([59, 68))):(Watson; has been waiting for Holmes to arrive; T:Meanwhile)
+0.92 Context(he starts,List([59, 68))):(Watson; has been waiting for; Holmes to arrive)
+0.24 (he; starts; laughing)
+0.77 (Holmes; to arrive; )
+
+Watson is confused and asks what is so funny.
+0.81 (Watson; asks; what is so funny)
+0.84 (Watson; is; confused)
+
+Holmes then recounts his tale and comments he thought the situation and position he was in at the wedding was amusing.
+0.54 Context(he thought,List([34, 44))):(the position he was in at the wedding; was; amusing)
+0.36 (he; thought; the position he was in at the wedding was amusing)
+0.45 (he; was in at; L:the wedding)
+0.86 (Holmes; recounts his comments he thought the position he was in at the wedding was amusing; T:then)
+0.89 (Holmes; recounts; his comments he thought the position he was in at the wedding was amusing)
+0.53 Context(Holmes recounts he thought,List([0, 44))):(the situation he was in at the wedding; was; amusing)
+0.36 Context(Holmes recounts,List([0, 20))):(he; thought; the situation he was in at the wedding was amusing)
+0.82 (Holmes; recounts his comments; T:then)
+0.80 (Holmes; recounts; his comments)
+0.89 (the situation; was in; at the wedding)
+0.86 (Holmes; recounts his tale; T:then)
+0.84 (Holmes; recounts; his tale)
+
+He also asks whether or not Watson is willing to participate in a scheme to figure out where the picture is hidden in Adler's house.
+0.55 (He; also asks whether; or not Watson is willing to participate in a scheme)
+0.91 (Watson; to participate in; a scheme)
+
+Watson agrees, and Holmes changes into another disguise as a clergyman.
+0.92 (Holmes; changes into; another disguise as a clergyman)
+0.77 (Watson; agrees; )
+
+The duo departs Baker Street for Adler's house.
+0.92 (The duo; departs Baker Street for; Adler's house)
+0.92 (The duo; departs; Baker Street)
+
+When Holmes and Watson arrive, a group of jobless men meanders throughout the street.
+0.77 (Watson; arrive; )
+0.77 (Holmes; arrive; )
+
+When Adler's coach pulls up, Holmes enacts his plan.
+0.95 (Holmes; enacts his plan; T:When Adler's coach pulls up)
+0.86 (Holmes; enacts; his plan)
+0.87 (Adler's coach; pulls; up)
+
+A fight breaks out between the men on the street over who gets to help Adler.
+0.90 (A fight; breaks out between; L:the men on the street)
+
+Holmes rushes into the fight to protect Adler and is seemingly struck and injured.
+0.71 (Holmes; injured; )
+0.77 (Holmes; is seemingly struck; )
+0.92 (Holmes; to protect; Adler)
+0.93 (Holmes; rushes into the fight to; protect Adler)
+0.92 (Holmes; rushes into; the fight)
+
+Adler takes him into her sitting room, where Holmes motions for her to have the window opened.
+0.68 Context(Holmes motions to have,List([45, 75))):(the window; opened; )
+0.87 (Holmes motions; to have the window opened; L:her sitting room)
+0.89 (Holmes motions; to have; the window opened)
+0.86 (Adler; takes him into; her sitting room)
+0.86 (Adler; takes; him)
+
+As Holmes lifts his hand, Watson recognizes a pre-arranged signal and tosses in a plumber's smoke rocket.
+0.92 (Watson; recognizes tosses in; L:a plumber 's smoke rocket)
+0.92 (Watson; recognizes; tosses)
+0.39 (Watson; [is] hand [of]; him)
+0.92 (Watson; recognizes a pre-arranged signal in; L:a plumber 's smoke rocket)
+0.92 (Watson; recognizes; a pre-arranged signal)
+0.89 (Holmes; lifts; his hand)
+
+While smoke billows out of the building, Watson shouts "FIRE!" and the cry is echoed up and down the street.
+0.89 (smoke; billows out; of the building down the street)
+0.73 (the cry; is echoed up; )
+0.92 (Watson; shouts; FIRE)
+0.89 (smoke; billows out; of the building)
+
+Holmes slips out of Adler's house and tells Watson what he saw.
+0.20 Context(Holmes tells,List([0, 12))):(he; saw; )
+0.83 (Holmes; tells Watson; what he saw)
+0.93 (Holmes; tells; Watson)
+0.82 (Holmes; slips; )
+
+As Holmes expected, Adler rushed to get her most precious possession at the cry of "fire" – the photograph of herself and the King.
+0.95 (Adler; to get her most precious possession at; the cry of " fire " - the photograph of the King)
+0.92 (Adler; rushed to; get her most precious possession at the cry of " fire " - the photograph of the King)
+0.89 (Adler; to get her most precious possession at; the cry of " fire " - the photograph of herself)
+0.84 (Adler; to get; her most precious possession)
+0.91 (Adler; rushed to; get her most precious possession at the cry of " fire " - the photograph of herself)
+0.77 (Holmes; expected; )
+
+Holmes was able to see that the picture was kept in a recess behind a sliding panel just above the right bell pull.
+0.92 Context(Holmes to see,List([0, 22))):(the picture; was kept in; L:a recess behind a sliding panel just above the right bell pull)
+0.93 (Holmes; to see that; the picture was kept in a recess behind a sliding panel just above the right bell pull)
+0.90 (Holmes; was; able to see that the picture was kept in a recess behind a sliding panel just above the right bell pull)
+
+He was unable to steal it at that moment, however, because the coachman was watching him.
+0.14 Context(the coachman was watching,List([59, 84))):(He; was; unable to steal it at that moment)
+0.80 (the coachman; was watching; him)
+0.20 (He; to steal it at; T:that moment)
+0.27 (He; to steal; it)
+
+He explains all this to Watson before being bid good-night by a familiar-sounding youth, who promptly manages to get lost in the crowd.
+0.91 (a familiar-sounding youth; to get lost in; L:the crowd)
+0.46 (He; explains all this before; T:being bid good-night by a familiar-sounding youth)
+0.50 (He; explains all this to; Watson)
+0.23 (He; explains; all this)
+
+The following morning, Holmes explains his findings to the King.
+0.94 (Holmes; explains his findings; T:The following morning)
+0.93 (Holmes; explains his findings to; the King)
+0.86 (Holmes; explains; his findings)
+
+When Holmes, Watson, and the King arrive at Adler's house at 8 am, her elderly maidservant sardonically informs them she left the country by the 5.15 train from Charing Cross railway station.
+0.46 Context(her elderly maidservant sardonically informs,List([49, 93))):(she; left; the country)
+0.81 (her elderly maidservant; sardonically informs them; T:When the King arrive at Adler 's house at 8 am)
+0.89 (the King; arrive at; T:8 am)
+0.94 (the King; arrive at; Adler 's house)
+0.81 (her elderly maidservant; sardonically informs them; T:When Watson arrive at Adler 's house at 8 am)
+0.88 (Watson; arrive at; T:8 am)
+0.93 (Watson; arrive at; Adler 's house)
+0.46 Context(her elderly maidservant sardonically informs,List([47, 91))):(she; left; the country)
+0.81 (her elderly maidservant; sardonically informs them; T:When Holmes arrive at Adler 's house at 8 am)
+0.61 (her elderly maidservant; sardonically informs them; she left the country by the 5.15 train from Charing Cross railway station)
+0.45 (her elderly maidservant; sardonically informs; them)
+0.88 (Holmes; arrive at; T:8 am)
+0.93 (Holmes; arrive at; Adler 's house)
+
+Holmes quickly goes to the photograph's hiding spot, finding a photo of Irene Adler in an evening dress and a letter dated midnight and addressed to him.
+0.83 (a letter; addressed to; him)
+0.90 (a letter; dated; midnight)
+0.92 (Holmes; finding; a photo of Irene Adler in a letter)
+0.92 (Holmes; finding; a photo of Irene Adler in an evening dress)
+0.92 (Holmes; quickly goes to; the photograph 's hiding spot)
+
+In the letter, Adler tells Holmes he did very well in finding the photograph and taking her in with his disguises.
+0.25 Context(Adler tells he did very well,List([16, 51))):(he; did very well in taking in; her)
+0.26 Context(Adler tells,List([16, 27))):(he; did very well in; L:taking her in with his disguises)
+0.88 (Adler; tells Holmes; he did very well in taking her in with his disguises)
+0.39 Context(Adler tells he did very well,List([16, 51))):(he; did very well in finding; the photograph)
+0.39 Context(Adler tells,List([16, 27))):(he; did very well in; L:finding the photograph)
+0.93 (Adler; tells Holmes In; L:the letter)
+0.83 (Adler; tells Holmes; he did very well in finding the photograph)
+0.93 (Adler; tells; Holmes)
+
+She also reveals that she posed as the youth who bid Holmes good-night.
+0.39 Context(She also reveals,List([0, 16))):(she; posed as; the youth)
+0.26 (She; also reveals that; she posed as the youth)
+0.89 (the youth; bid Holmes; T:good-night)
+0.93 (the youth; bid; Holmes)
+
+Adler has left England with Norton, "a better man" than the King, adding she will not compromise the King, despite being "cruelly wronged" by him; she had kept the photo only to protect herself from further action he might take.
+0.39 Context(she had kept,List([147, 159))):(she; had kept the photo only to protect herself from; further action)
+0.26 Context(she had kept,List([147, 159))):(she; had kept the photo only to protect; herself)
+0.43 Context(Adler has left adding she had kept,List([0, 159))):(she; will not compromise; the King)
+0.86 Context(Adler has left she had kept,List([0, 159))):(Adler; has left England adding; she will not compromise the King, despite being "cruelly wronged" by him)
+0.91 Context(she had kept,List([147, 159))):(Adler; has left England with; Norton)
+0.91 Context(she had kept,List([147, 159))):(Adler; has left; England)
+0.26 (she; had kept the photo; only to protect herself from further action)
+0.39 (she; had kept; the photo)
+0.88 (further action; might take; he)
+
+The King exclaims how amazing Adler is Holmes replies Miss Adler is indeed on a much different level from the King.
+0.92 Context(The King exclaims Adler is Holmes replies,List([0, 53))):(Miss Adler; is indeed on; a much different level from the King)
+0.95 Context(The King exclaims Adler is,List([0, 38))):(Holmes; replies; Miss Adler is indeed on a much different level from the King)
+0.78 Context(The King exclaims,List([0, 17))):(Adler; is; )
+0.95 (The King; exclaims; how amazing Adler is Holmes replies Miss Adler is indeed on a much different level from the King)
+
+Thanking Holmes effusively, the King offers a valuable emerald ring from his finger as further reward.
+0.84 (the King; offers a valuable emerald ring from; his finger as further reward)
+0.91 (the King; offers; a valuable emerald ring)
+
+Holmes says there is something he values even more highly – the photograph of Adler.
+0.83 (Holmes; says; there is something)
+0.87 (something; values even more highly; he)
+
+Ignoring the handshake proffered by the King, Holmes leaves.
+0.77 (Holmes; leaves; )
+0.92 (the handshake; proffered by; the King)
+
+He keeps the photograph as a reminder of her cleverness, and of being beaten by a woman's wit.
+0.42 (He; keeps the photograph as; a reminder of her cleverness, and of being beaten by a woman's wit)
+0.45 (He; keeps; the photograph)
+
+Watson also tells that, since their meeting, Holmes always refers to her by the honorable title of "the woman".
+0.82 Context(Watson tells,List([0, 17))):(Holmes; refers to her; T:always)
+0.88 Context(Watson tells,List([0, 17))):(Holmes; refers to her by; T:the honorable title of "the woman)
+0.80 Context(Watson tells,List([0, 17))):(Holmes; refers to; her)
+0.89 (Watson; tells that; , since their meeting, Holmes always refers to her by the honorable title of "the woman)
+
+In the opening paragraph of the short story, Watson calls her "the late Irene Adler", suggesting she is deceased.
+0.23 Context(Watson calls suggesting,List([45, 96))):(she; is; deceased)
+0.76 Context(Watson calls,List([45, 57))):(Watson; calls her suggesting; she is deceased)
+0.93 (Watson; calls her In; L:the opening paragraph of the short story)
+0.90 (Watson; calls her; the late Irene Adler)
+0.86 (Watson; calls; her)
+
+She married Godfrey Norton, making Adler her former name.
+0.31 (She; making; Adler her former name)
+0.50 (She; married; Godfrey Norton)

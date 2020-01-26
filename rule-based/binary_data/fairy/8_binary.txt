@@ -1,0 +1,309 @@
+At the beginning of the story, a queen sits sewing at an open window during a winter snowfall when she pricks her finger with her needle, causing three drops of red blood to drip onto the freshly fallen white snow on the black windowsill.
+0.91 Context(she pricks causing,List([99, 145))):(three drops of red blood; to drip onto; the freshly fallen white snow)
+0.40 Context(she pricks,List([99, 109))):(she; pricks her finger causing; three drops of red blood to drip onto the freshly fallen white snow on the black windowsill)
+0.31 (she; pricks; her finger)
+0.89 (a queen; sewing at; L:an open window)
+0.93 (a queen; sits sewing at an open window At; T:the beginning of the story)
+0.93 (a queen; sits; sewing at an open window)
+
+Then, she says to herself, "How I wish that I had a daughter that had skin as white as snow, lips as red as blood, and hair as black as ebony."
+0.33 Context(she says I wish,List([7, 41))):(I; had; a daughter that had skin as white as hair as black as ebony)
+0.91 (a daughter; had; skin as white as hair as black as ebony)
+0.33 Context(she says I wish,List([7, 41))):(I; had; a daughter that had skin as white as lips as red as blood)
+0.91 (a daughter; had; skin as white as lips as red as blood)
+0.24 Context(she says I wish,List([7, 41))):(I; had; a daughter that had skin as white as snow)
+0.26 Context(she says,List([7, 15))):(I; wish that; I had a daughter)
+0.25 (she; says to herself; T:Then)
+0.09 (she; says to herself; How I wish that I had a daughter)
+0.26 (she; says to; herself)
+0.91 (a daughter; had; skin as white as snow)
+
+Some time later, the queen gives birth to a baby daughter whom she names Snow White, but the queen dies in childbirth a short while later.
+0.89 (the queen; dies; T:a short while later)
+0.90 (the queen; dies in; L:childbirth)
+0.89 (a baby daughter; names; she)
+0.93 (the queen; gives birth; T:Some time later)
+0.90 (the queen; gives birth to; a baby daughter)
+0.90 (the queen; gives; birth)
+
+A year later, Snow White's father, the king, marries again.
+0.95 (Snow White's father; marries; T:A year later)
+0.82 (Snow White's father; marries; T:again)
+
+His new wife is very beautiful, but she is a vain and wicked woman who practices witchcraft.
+0.90 (a wicked woman; practices; witchcraft)
+0.52 (she; is; a wicked woman who practices witchcraft)
+0.90 (a vain woman; practices; witchcraft)
+0.52 (she; is; a vain woman who practices witchcraft)
+0.48 (His new wife; is; very beautiful)
+
+The new queen possesses a magic mirror, which she asks every morning, "Magic mirror on the wall, who is the fairest one of all?"
+0.79 (the wall; is; the fairest one of all)
+0.92 (a magic mirror; asks; T:every morning)
+0.85 (The new queen; possesses; a magic mirror, which she asks every morning)
+
+The mirror always tells the queen that she is the fairest.
+0.23 Context(The mirror tells,List([0, 23))):(she; is; the fairest)
+0.79 (The mirror; tells the queen; T:always)
+0.77 (The mirror; tells the queen that; she is the fairest)
+0.89 (The mirror; tells; the queen)
+
+The queen is always pleased with that, because the magic mirror never lies.
+0.75 (the magic mirror; never lies; )
+0.86 (The queen; is pleased with that because; the magic mirror never lies)
+0.57 (The queen; is; pleased with that)
+0.76 (The queen; is pleased with that; T:always)
+
+But as Snow White grows up, she becomes more beautiful each day and even more beautiful than her stepmother.
+0.44 (she; becomes even more beautiful; T:each day)
+0.59 (she; becomes even more beautiful as; T:Snow White grows up)
+0.79 (Snow White; grows up; )
+
+When the queen asks her mirror, it tells her that Snow White is the fairest.
+0.82 Context(it tells,List([32, 40))):(Snow White; is; the fairest)
+0.34 (it; tells her; T:When the queen asks her mirror)
+0.43 (it; tells her that; Snow White is the fairest)
+0.31 (it; tells; her)
+0.88 (the queen; asks her mirror that; Snow White is the fairest)
+0.87 (the queen; asks; her mirror)
+
+This gives the queen a great shock.
+0.38 (This; gives the queen; a great shock)
+0.38 (This; gives; the queen)
+
+She becomes envious, and from that moment on, her heart turns against Snow White, whom the queen grows to hate increasingly with time.
+0.90 (the queen; grows to; hate increasingly with time)
+0.68 (her heart; turns against; Snow White)
+0.23 (She; becomes; envious)
+
+Eventually, the angry queen orders a huntsman to take Snow White into the forest to be killed.
+0.73 (the forest; to be killed; )
+0.90 (a huntsman; to take Snow White into; the forest)
+0.92 (a huntsman; to take; Snow White)
+
+As proof that Snow White is dead, the queen demands that he returns with her heart, which she will consume in order to become as beautiful as Snow White.
+0.16 Context(the queen demands,List([34, 51))):(he; returns; )
+0.86 (the queen; demands that; he returns with her heart, which she will consume in order)
+0.46 (he; to become; as beautiful as Snow White)
+0.45 (she; will consume in; order)
+0.86 (Snow White; is; dead)
+
+The huntsman takes Snow White into the forest, but after raising his knife he finds himself unable to kill her.
+0.40 (he; finds himself unable to kill her after; T:raising his knife)
+0.37 (he; finds; himself unable to kill her)
+0.90 (The huntsman; takes Snow White into; the forest)
+0.92 (The huntsman; takes; Snow White)
+
+When Snow White finds out about her stepmother's plan, she tearfully begs, "Spare me this mockery of justice!
+0.46 (she; tearfully begs Spare me this mockery of justice; T:When Snow White finds out about her stepmother's plan)
+0.27 (she; tearfully begs; Spare me this mockery of justice)
+0.87 (Snow White; finds out about; her stepmother's plan)
+
+I will run away into the forest and never come home again!"
+0.19 (I; will never come; T:again)
+0.23 (I; will never come; home)
+0.35 (I; will run into; the forest)
+0.22 (I; will run into the forest; away)
+
+The huntsman reluctantly agrees to spare Snow White and brings the queen the heart of a wild animal instead.
+0.90 (The huntsman; brings instead the queen; the heart of a wild animal)
+0.90 (The huntsman; brings instead; the queen)
+0.90 Context(The huntsman reluctantly agrees,List([0, 31))):(The huntsman; reluctantly agrees to spare; Snow White)
+0.90 (The huntsman; reluctantly agrees to; spare Snow White)
+
+After wandering through the forest for hours, Snow White discovers a tiny cottage belonging to a group of seven dwarfs.
+0.91 (a tiny cottage; belonging to; a group of seven dwarfs)
+0.95 (Snow White; discovers a tiny cottage belonging to a group of seven dwarfs After; T:wandering through the forest for hours)
+0.95 (Snow White; discovers; a tiny cottage belonging to a group of seven dwarfs)
+
+Since no one is at home, she eats some of the tiny meals, drinks some of their wine, and then tests all the beds.
+0.83 (no one; tests all the beds; T:then)
+0.91 (no one; tests; all the beds)
+0.87 (no one; drinks; some of their wine)
+0.45 (she; eats; some of the tiny meals)
+0.90 (no one; is at; home)
+
+Finally, the last bed is comfortable enough for her and she falls asleep.
+0.30 (she; falls asleep; T:Finally)
+0.28 (she; falls; asleep)
+0.84 (the last bed; is comfortable enough for her; T:Finally)
+0.88 (the last bed; is; comfortable enough for her)
+
+When the dwarfs return home, they immediately become aware that there is a burglar in their house, because everything in their home is in disorder.
+0.68 (everything in their home; is in; disorder)
+0.46 (they; become aware that there is a burglar in their house; T:immediately)
+0.21 (they; become; aware that there is a burglar in their house)
+0.77 (the dwarfs; return; home)
+
+Prowling about frantically, they head upstairs and discover the sleeping Snow White.
+0.36 (they; head; upstairs)
+
+She wakes up and explains to them what happened, and the dwarfs take pity on her and let her stay with them in exchange for housekeeping.
+0.26 Context(She let,List([0, 7))):(her; stay with; them)
+0.32 (She; let; her stay with them in exchange for housekeeping)
+0.27 (She; take pity on; her)
+0.41 (She; take; pity)
+0.18 (She; explains to them; what happened)
+0.26 (She; explains to; them)
+0.19 (She; wakes up; )
+
+They warn her to be careful when alone at home and to let no one in while they are working in the mountains.
+0.62 (they; are working in; L:the mountains)
+0.42 (her; to let; no one in while they are working in the mountains)
+0.58 (They; warn her to; let no one in while they are working in the mountains)
+0.23 (her; to be; careful)
+0.36 (They; warn her to; be careful)
+0.54 (They; warn; her)
+
+Meanwhile, the queen, believing that Snow White is dead, asks her mirror once again: "Magic mirror on the wall, who is the fairest one of all?"
+0.79 (the wall; is; the fairest one of all)
+0.81 (the queen; asks her mirror; T:Meanwhile)
+0.87 (the queen; asks her mirror; Magic mirror)
+0.74 (the queen; asks her mirror; T:once again)
+0.85 (the queen; asks; her mirror)
+
+The mirror tells her that Snow White is still the fairest in the land.
+0.91 Context(The mirror tells,List([0, 16))):(Snow White; is; the fairest in the land)
+0.77 Context(The mirror tells,List([0, 16))):(Snow White; is the fairest in the land; T:still)
+0.90 (The mirror; tells her that; Snow White is still the fairest in the land)
+0.84 (The mirror; tells; her)
+
+The queen is furious when she learns that Snow White is still alive, and decides to kill the girl herself.
+0.80 Context(The queen decides,List([0, 17))):(The queen; decides to kill the girl; herself)
+0.88 Context(The queen decides,List([0, 17))):(The queen; decides to kill; the girl)
+0.80 (The queen; decides to; kill the girl herself)
+0.79 Context(she learns,List([26, 36))):(Snow White; is; alive)
+0.77 Context(she learns,List([26, 36))):(Snow White; is alive; T:still)
+0.43 (she; learns that; Snow White is still alive)
+0.69 (The queen; is furious; T:when she learns that Snow White is still alive)
+0.81 (The queen; is; furious)
+
+She appears at the dwarfs' cottage, disguised as an old peddler, and offers Snow White colorful, silky laced bodices as a present; the queen laces her up so tightly that Snow White faints.
+0.43 Context(the queen laces up so tightly,List([68, 101))):(She; offers; Snow White colorful , silky laced bodices)
+0.39 Context(the queen laces up so tightly,List([68, 101))):(She; appears at; L:the dwarfs ' cottage)
+0.79 (the queen; laces up so tightly; her)
+0.79 (Snow White; faints; )
+0.41 (She; disguised as; an old peddler)
+
+The dwarfs return just in time, and Snow White revives when the dwarfs loosen the laces.
+0.90 (the dwarfs; loosen; the laces)
+0.93 (Snow White; revives; T:when the dwarfs loosen the laces)
+0.90 (The dwarfs; return; T:just in time)
+
+Upon hearing from her Magic Mirror that Snow White still lives, the queen dresses as a comb seller and convinces Snow White to take a beautiful comb as a present; she brushes Snow White's hair with the poisoned comb.
+0.50 (she; brushes; Snow White 's hair with the poisoned comb)
+0.93 (Snow White; to take a beautiful comb as; a present)
+0.93 (Snow White; to take; a beautiful comb)
+0.85 (Snow White; convinces Snow White; T:still)
+0.91 (Snow White; convinces Snow White to; take a beautiful comb as a present)
+0.93 (Snow White; convinces; Snow White)
+
+The girl faints again, but she is again revived by the dwarfs when they remove the comb from her hair.
+0.46 (they; remove the comb from; her hair)
+0.62 (they; remove; the comb)
+0.22 (she; is revived; T:again)
+0.20 (she; is revived; T:when they remove the comb from her hair)
+0.35 (she; is revived by; the dwarfs)
+0.77 (The girl; faints; T:again)
+
+The Magic Mirror informs the queen that her plan has failed again and Snow White is not dead, so the queen disguises herself as a farmer's wife and offers Snow White a poisoned apple.
+0.82 (Snow White; is not; dead)
+0.86 Context(The Magic Mirror informs,List([0, 24))):(the queen; offers; a poisoned apple)
+0.89 Context(The Magic Mirror informs,List([0, 24))):(the queen; offers a poisoned apple; Snow White)
+0.93 (The Magic Mirror; informs the queen that her plan has failed again; the queen offers Snow White a poisoned apple)
+0.88 Context(The Magic Mirror informs,List([0, 24))):(the queen; disguises herself as; a farmer 's wife)
+0.80 Context(The Magic Mirror informs,List([0, 24))):(the queen; disguises; herself)
+0.85 (The Magic Mirror; informs the queen that her plan has failed again; the queen disguises herself as a farmer 's wife)
+0.68 (The Magic Mirror; informs; the queen that her plan has failed again)
+0.38 (her plan; has failed; T:again)
+
+Snow White is hesitant to accept it, so the queen cuts the apple in half, eating the white half and giving the red poisoned half to Snow White.
+0.85 Context(the queen cuts,List([0, 14))):(the queen; cuts the apple giving the red poisoned half to; Snow White)
+0.82 Context(the queen cuts,List([0, 14))):(the queen; cuts the apple giving; the red poisoned half)
+0.82 Context(the queen cuts,List([0, 14))):(the queen; cuts the apple eating; the white half)
+0.88 (the queen; cuts the apple in; half)
+0.90 (the queen; cuts; the apple)
+0.85 (Snow White; to accept; it)
+0.90 (Snow White; is; hesitant to accept it)
+
+The girl eagerly takes a bite and falls down unconscious.
+0.81 (The girl; falls; down unconscious)
+0.90 (The girl; eagerly takes; a bite)
+
+This time, the dwarfs are unable to revive Snow White.
+0.90 (the dwarfs; to revive; Snow White)
+0.93 (the dwarfs; are unable to revive Snow White; T:This time)
+0.92 (the dwarfs; are; unable to revive Snow White)
+
+Assuming that she is dead, they place her in a glass casket.
+0.55 (they; place her in; a glass casket)
+0.40 (they; place; her)
+
+Three days later, a prince stumbles upon Snow White lying in her glass coffin during a hunting trip.
+0.87 (Snow White; lying in; her glass coffin)
+0.93 (a prince; stumbles upon Snow White; T:Three days later)
+0.92 (a prince; stumbles upon; Snow White)
+
+After hearing her story from the seven dwarfs, the prince is allowed to take Snow White to her proper resting place.
+0.81 (the prince; to take Snow White to; her proper resting place)
+0.90 (the prince; to take; Snow White)
+0.88 (the prince; is allowed After; T:hearing her story from the seven dwarfs)
+
+While Snow White is being transported, one of the prince's servants trips and loses his balance.
+0.76 (Snow; loses; his balance)
+0.79 (Snow White; is being transported; )
+
+This dislodges the piece of poisoned apple from Snow White's throat, reviving her.
+0.54 (This; dislodges; the piece of poisoned apple from Snow White's throat)
+
+In the first edition, Snow White is carried to the palace without mishap, but later a servant, frustrated by the inconvenience caused by the prince's fawning over her, hits the body and dislodges the apple.
+0.90 (Snow; dislodges the apple In; L:the first edition)
+0.86 (Snow; dislodges; the apple)
+0.95 (later a servant , frustrated by the inconvenience; hits; the body)
+0.83 (the inconvenience; caused by; the prince 's fawning over her)
+0.90 (later a servant; frustrated by; the inconvenience)
+0.95 (Snow White; is carried In; L:the first edition)
+0.93 (Snow White; is carried to; the palace)
+
+The prince is overjoyed, and declares his love for Snow White.
+0.86 (The prince; declares; his love for Snow White)
+0.81 (The prince; is; overjoyed)
+
+Snow White agrees to marry him.
+0.85 Context(Snow White agrees,List([0, 17))):(Snow White; agrees to marry; him)
+0.85 (Snow White; agrees to; marry him)
+
+Snow White and the prince invite everyone to their wedding party, including Snow White's stepmother.
+0.83 (the prince; invite everyone to; their wedding party)
+0.90 (the prince; invite; everyone)
+0.87 (Snow White; invite everyone to; their wedding party)
+0.93 (Snow White; invite; everyone)
+
+The queen, still believing that Snow White is dead, again asks her magic mirror who is the fairest in the land.
+0.69 (her magic mirror; is; the fairest in the land)
+0.87 (The queen; again asks; her magic mirror who is the fairest in the land)
+
+The mirror says that the prince's bride is the fairest.
+0.81 Context(The mirror says,List([0, 15))):(the prince's bride; is; the fairest)
+0.88 (The mirror; says that; the prince's bride is the fairest)
+
+Not knowing that the bride is her stepdaughter, the queen arrives at the wedding to investigate.
+0.68 (the queen; arrives to; investigate)
+0.90 (the queen; arrives at; the wedding)
+
+Frozen with rage and fear, she tries to sow chaos but the prince recognizes her as a threat.
+0.39 Context(she tries,List([19, 28))):(she; tries to sow; chaos)
+0.39 (she; tries to; sow chaos)
+0.90 (the prince; recognizes her as; a threat)
+0.83 (the prince; recognizes; her)
+
+He orders that she wear a pair of red-hot iron slippers and dance in them until she drops dead for the attempted murder of Snow White.
+0.41 Context(He orders,List([0, 9))):(she; wear a pair of dance in them until; T:she drops dead for the attempted murder of Snow White)
+0.26 Context(He orders,List([0, 9))):(she; wear; a pair of dance in them)
+0.41 (He; orders that; she wear a pair of dance in them until she drops dead for the attempted murder of Snow White)
+0.41 Context(He orders,List([0, 9))):(she; wear a pair of red - hot iron slippers until; T:she drops dead for the attempted murder of Snow White)
+0.40 Context(He orders,List([0, 9))):(she; wear; a pair of red - hot iron slippers)
+0.41 (He; orders that; she wear a pair of red - hot iron slippers until she drops dead for the attempted murder of Snow White)
+0.39 (she; drops for; T:the attempted murder of Snow White)
+0.28 (she; drops; dead)
+

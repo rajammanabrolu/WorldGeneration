@@ -1,0 +1,171 @@
+A man was a soldier, but when war ended, his parents were dead, and his brothers had no place for him.
+0.56 (his brothers; had; no place for him)
+0.72 (his parents; were dead; T:when war ended)
+0.38 (his parents; were; dead)
+0.56 (war; ended; )
+0.93 (A man; was; a soldier)
+
+A green-coated man with a cloven hoof appeared to him and offered to make him rich if he would for seven years not cut his hair, clip his nails, bathe, or pray, and wear a coat and cloak that he would give him.
+0.81 (a cloak; would give; him)
+0.73 (A green - coated man clip; wear; a cloak that he would give him)
+0.81 (a coat; would give; him)
+0.73 (A green - coated man clip; wear; a coat that he would give him)
+0.80 (A green - coated man clip; pray; )
+0.90 (A green - coated man; clip; his nails)
+0.87 (A green - coated man; not cut; his hair)
+0.84 Context(A green - coated man offered,List([0, 28))):(A green - coated man; offered to make; him rich if he would for seven years)
+0.84 (A green - coated man; offered to; make him rich)
+0.91 (A green - coated man with a cloven hoof; appeared to; him)
+
+At the end, if he survived, he would be rich and free.
+0.55 (he; would be free At; T:the end)
+0.23 (he; would be; free)
+0.55 (he; would be rich At; T:the end)
+0.23 (he; would be; rich)
+0.19 (he; survived; )
+
+If he died during the time, the devil would have him.
+0.83 (the devil; would have; him)
+0.45 (he; died during; T:the time)
+
+The desperate soldier agreed and the devil gave him the green coat telling him he would find its pockets always full of limitless money and then a bearskin, telling him that he must sleep in it and would be known as Bearskin because of it.
+0.26 Context(then a bearskin telling,List([107, 132))):(he; would be known as Bearskin because; of it)
+0.43 Context(then a bearskin telling,List([107, 132))):(he; would be known as; Bearskin)
+0.81 (then a bearskin; telling him that; he would be known as Bearskin because of it)
+0.26 Context(then a bearskin telling,List([107, 132))):(he; must sleep in; L:it)
+0.78 (then a bearskin; telling him that; he must sleep in it)
+0.78 (then a bearskin; telling; him)
+0.26 Context(the green coat telling,List([19, 41))):(he; would find; its pockets always full of limitless money)
+0.87 (the green coat; telling him; he would find its pockets always full of limitless money and then a bearskin)
+0.81 (the green coat; telling; him)
+0.89 (the devil; gave him; the green coat telling him he would find its pockets always full of limitless money and then a bearskin ,)
+0.83 (the devil; gave; him)
+0.75 (The desperate soldier; agreed; )
+
+Bearskin set out, and gave much money to the poor that they would pray for him, to live out the seven years.
+0.19 Context(they would pray,List([42, 57))):(they; would pray to live out; )
+0.45 (they; would pray to; live out the seven years)
+0.39 (they; would pray to live out the seven years for; him)
+0.80 (Bearskin; gave much money to; the poor)
+0.92 (Bearskin; gave; much money)
+0.77 (Bearskin; set out; )
+
+After several years, he grew so revolting that he had to pay heavily to get any shelter.
+0.35 Context(he to pay heavily,List([47, 68))):(he; to pay heavily to get; any shelter)
+0.35 (he; to pay heavily to; get any shelter)
+0.23 (he; so revolting that; he had to pay heavily)
+0.55 (he; grew After; T:several years)
+0.18 (he; grew; so revolting that he had to pay heavily)
+
+In the fourth year, he heard an old man lamenting and persuaded him to tell his tale: he had lost all his money, did not know how to provide for his daughters and could not pay the innkeeper, so he would be sent to jail.
+0.39 (he; would be sent to; jail)
+
+Bearskin paid the innkeeper and gave the old man a purse of gold as well.
+0.92 (Bearskin; gave as well the old man; a purse of gold)
+0.92 (Bearskin; gave as well; the old man)
+0.92 (Bearskin; paid; the innkeeper)
+
+The old man said that he would marry him to one of his daughters in gratitude.
+0.26 Context(The old man said,List([0, 16))):(he; would marry him to; T:one of his daughters in gratitude)
+0.26 Context(The old man said,List([0, 16))):(he; would marry; him)
+0.88 (The old man; said that; he would marry him to one of his daughters in gratitude)
+
+The oldest ran away, screaming, from the sight.
+0.16 Context(The oldest ran,List([0, 14))):(The oldest; ran screaming; )
+0.32 (The oldest; ran; away)
+
+The middle one said he was worse than a bear that had tried to pass itself off as human.
+0.76 Context(a bear had tried,List([38, 59))):(a bear; had tried to pass off; itself)
+0.77 (a bear; had tried to; pass itself off)
+0.47 Context(The middle one said,List([0, 19))):(he; was; worse than a bear)
+0.82 (The middle one; said; he was worse than a bear)
+
+The youngest one agreed to fulfill her father's promise.
+0.39 Context(The youngest one agreed,List([0, 23))):(The youngest one; agreed to fulfill; her father's promise)
+0.39 (The youngest one; agreed to; fulfill her father's promise)
+
+Bearskin gave her half a ring and promised to return in three years.
+0.91 (Bearskin; to return in; T:three years)
+0.92 (Bearskin; promised to; return in three years)
+0.92 (Bearskin; gave her; half a ring)
+0.86 (Bearskin; gave; her)
+
+Her sisters ridiculed her at length.
+0.64 (Her sisters; ridiculed her at; L:length)
+0.49 (Her sisters; ridiculed; her)
+
+At the end of the seven years, Bearskin found the devil again and demanded he fulfill his promise.
+0.94 (Bearskin; found the devil At; T:the end of the seven years)
+0.80 (Bearskin; found the devil; T:again)
+0.92 (Bearskin; found; the devil)
+
+The devil then proceeds to bathe Bearskin, clip his nails and cut his hair until he is as good as new.
+0.77 Context(The devil proceeds,List([0, 23))):(The devil; proceeds cut his hair until; T:he is as good as new)
+0.77 Context(The devil proceeds,List([0, 23))):(The devil; proceeds cut; his hair)
+0.79 (The devil; proceeds cut his hair until he is as good as new; T:then)
+0.84 (The devil; proceeds; cut his hair until he is as good as new)
+0.28 (he; is; as good as new)
+0.77 Context(The devil proceeds,List([0, 23))):(The devil; proceeds clip; his nails)
+0.79 (The devil; proceeds clip his nails; T:then)
+0.77 (The devil; proceeds; clip his nails)
+0.90 (The devil; to bathe; Bearskin)
+
+Bearskin then demands that the devil say the Lord's prayer.
+0.90 Context(Bearskin demands,List([0, 21))):(the devil; say; the Lord's prayer)
+0.82 (Bearskin; demands that the devil say the Lord 's prayer; T:then)
+0.90 (Bearskin; demands that; the devil say the Lord's prayer)
+
+The devil warns Bearskin not to push his luck as he has already won their bargain and disappears.
+0.19 (he; disappears; )
+0.86 (Bearskin; not to push his luck as; T:he disappears)
+0.83 (The devil; warns Bearskin; not to push his luck as he disappears)
+0.22 (he; has won their bargain; T:already)
+0.23 (he; has won; their bargain)
+0.86 (Bearskin; not to push his luck as; he has already won their bargain)
+0.86 (Bearskin; not to push; his luck)
+0.89 (The devil; warns Bearskin; not to push his luck as he has already won their bargain)
+0.94 (The devil; warns; Bearskin)
+
+Clean and with his money, he dressed himself as a fine gentleman and went to the old man's house, where the older sisters served him, and his bride showed no reaction to him.
+0.49 (his bride; showed; no reaction to him)
+0.94 (the older sisters; served him; L:the old man 's house)
+0.85 (the older sisters; served; him)
+0.45 (he; dressed himself as; a fine gentleman)
+0.31 (he; dressed; himself)
+
+He told the old man that he would marry one of his daughters.
+0.26 Context(He told,List([0, 7))):(he; would marry; one of his daughters)
+0.26 (He; told the old man that; he would marry one of his daughters)
+0.46 (He; told; the old man)
+
+The two older sisters ran off to dress splendidly, and Bearskin dropped his half of the ring into a wine cup and gave it to his bride.
+0.42 (The two; gave it to; his bride)
+0.42 (The two; gave; it)
+0.92 (Bearskin; dropped his half of the ring into; a wine cup)
+0.86 (Bearskin; dropped; his half of the ring)
+0.81 (The two older sisters; ran; T:splendidly)
+0.94 (The two older sisters; ran; off to dress)
+
+She drank it and realized that he was her bridegroom.
+0.32 Context(She realized,List([0, 12))):(he; was; her bridegroom)
+0.26 (She; realized that; he was her bridegroom)
+0.37 (She; drank; it)
+
+They married.
+0.32 (They; married; )
+
+Upon realizing who he was and what they gave up, one sister hanged herself in rage and the other drowned herself.
+0.88 (one sister; hanged herself Upon; T:realizing what they gave up)
+0.85 (one sister; hanged herself Upon; T:realizing who he was)
+0.88 (one sister; hanged herself in; L:rage)
+0.80 (one sister; hanged; herself)
+0.42 (the other; drowned; herself)
+
+That night, the devil knocked on the door to tell Bearskin that he had gotten two souls for the price of one.
+0.39 Context(the devil knocked to tell,List([12, 49))):(he; had gotten; two souls for the price of one)
+0.86 Context(the devil knocked,List([12, 29))):(the devil; knocked on the door to tell Bearskin that; he had gotten two souls for the price of one)
+0.90 Context(the devil knocked,List([12, 29))):(the devil; knocked on the door to tell; Bearskin)
+0.91 (the devil; knocked on the door; T:That night)
+0.73 (the devil; knocked on the door to; tell Bearskin that he had gotten two souls for the price of one)
+0.88 (the devil; knocked on; the door)
+

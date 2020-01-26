@@ -1,0 +1,285 @@
+The story takes place in 1894, three years after the death of Sherlock Holmes.
+0.90 (The story; takes place; T:three years after the death of Sherlock Holmes)
+0.77 (The story; takes place in; T:1894)
+0.90 (The story; takes; place)
+
+On the night of March 30, an apparently unsolvable locked-room murder takes place in London: the Park Lane Mystery, the killing of the Honourable Ronald Adair, son of the Earl of Maynooth, a colonial governor in Australia.
+0.38 (Maynooth; [is] a colonial governor in; Australia)
+0.96 (an apparently unsolvable locked-room murder; takes place On; T:the night of March 30)
+0.95 (an apparently unsolvable locked-room murder; takes place in; L:London)
+0.94 (an apparently unsolvable locked-room murder; takes; place)
+
+He was in his sitting room, working on accounts of some kind, as indicated by the papers and money found by police.
+0.90 (the money; found by; police)
+0.41 (He; working on; accounts of some kind)
+0.31 (He; was in; his sitting room)
+
+Adair liked playing whist and regularly did so at several clubs, but never for great sums of money.
+0.92 (Adair; liked never for; great sums of money)
+0.86 (Adair; did so; T:regularly)
+0.91 (Adair; did so at; L:several clubs)
+0.82 (Adair; did; so)
+0.90 Context(Adair liked,List([0, 11))):(Adair; liked playing; whist)
+0.90 (Adair; liked; playing whist)
+
+It does, however, come out that he won as much as £420 in partnership with Colonel Sebastian Moran.
+0.68 (he; won; as much as £420 in partnership with Colonel Sebastian Moran)
+0.36 (It; does come out that; T:he won as much as £420 in partnership with Colonel Sebastian Moran)
+
+The motive does not appear to be robbery as nothing has been stolen, and it seems that Adair had not an enemy in the world.
+0.71 (nothing; has been stolen; )
+0.89 (The motive; to be robbery as; T:nothing has been stolen)
+0.89 (The motive; to be; robbery)
+0.73 (The motive; does not appear; )
+
+The only other way out was the open window, and there was a 20-foot drop below it onto a flower bed, which now shows no sign of being disturbed.
+0.69 (a 20 - foot drop below it onto a flower bed; shows no sign of being disturbed; T:now)
+0.83 (a 20 - foot drop below it onto a flower bed; shows; no sign of being disturbed)
+0.92 (The only other way; out was; the open window)
+
+Adair was killed with a soft-nosed revolver bullet to the head.
+0.92 (Adair; was killed with; a soft-nosed revolver bullet to the head)
+
+No one in the area at the time heard a shot.
+0.94 (No one in the area at the time; heard; a shot)
+
+In April, Doctor Watson, having retained an interest in crime from his previous association with Holmes, visits the crime scene at 427 Park Lane.
+0.84 Context(Doctor Watson visits,List([10, 111))):(Doctor Watson; visits the crime scene having retained an interest in crime from; his previous association with Holmes)
+0.89 Context(Doctor Watson visits,List([10, 111))):(Doctor Watson; visits the crime scene having retained; an interest in crime)
+0.94 (Doctor Watson; visits the crime scene In; T:April)
+0.89 (Doctor Watson; visits; the crime scene)
+
+He sees a plainclothes detective there with police, and also runs into an elderly deformed book collector, knocking several of his books to the ground.
+0.26 Context(He runs,List([0, 12))):(He; runs into an elderly deformed book collector knocking several of his books to; the ground)
+0.16 Context(He runs,List([0, 12))):(He; runs into an elderly deformed book collector knocking; several of his books)
+0.35 (He; runs into; an elderly deformed book collector)
+0.45 (He; sees; a plainclothes detective there with police)
+
+The encounter ends with the man snarling in anger and going away.
+0.77 (The encounter; ends with; the going away)
+0.73 (the man; snarling; )
+0.90 (The encounter; ends with; the man snarling in anger)
+
+However, that is not the last that Watson sees of him, for a short time later, the man comes to Watson's study in Kensington to apologize for his earlier behaviour.
+0.79 Context(that is not,List([9, 20))):(the man; comes; T:later)
+0.90 Context(that is not,List([9, 20))):(the man; comes to; Watson's study in Kensington)
+0.04 (that; is not; the last that Watson sees of him, for a short time)
+0.71 (the last; sees; Watson)
+
+Once he manages to distract Watson's attention for a few seconds, he transforms himself into Sherlock Holmes, much to Watson's great astonishment when he turns back round.
+0.40 Context(he manages,List([5, 15))):(he; manages to distract Watson 's attention for; T:a few seconds)
+0.44 Context(he manages,List([5, 15))):(he; manages to distract; Watson's attention)
+0.44 (he; manages to; distract Watson's attention for a few seconds)
+0.24 (he; turns; round)
+0.28 (he; turns; back)
+0.56 (he; transforms himself Once; T:he manages to distract Watson's attention for a few seconds)
+0.27 (he; transforms himself; T:when he turns back round)
+0.50 (he; transforms himself into; Sherlock Holmes)
+0.31 (he; transforms; himself)
+
+Contrary to what Watson believed, Holmes won against Professor Moriarty at Reichenbach Falls, flinging him down the waterfall with the help of baritsu, and then he climbed up the cliff beside the path to make it appear as though he, too, had fallen to his death.
+0.36 Context(he climbed to make,List([5, 52))):(it; appear as; T:though he , too , had fallen to his death)
+0.26 Context(he climbed,List([5, 15))):(he; climbed to make; it appear as though he , too , had fallen to his death)
+0.18 (he; climbed beside the path; T:then)
+0.18 (he; climbed beside the path to; make it appear)
+0.29 (he; climbed beside; the path)
+0.38 (he; climbed beside the path; up the cliff)
+0.20 (he; too had fallen to; his death)
+0.77 (Watson; believed; )
+
+This was a plan that Holmes had just conceived to defend against Moriarty's confederates.
+0.92 Context(Holmes had just conceived,List([21, 46))):(a plan; to defend; Holmes)
+0.91 (Holmes; had just conceived to; defend against Moriarty's confederates)
+0.37 (This; was; a plan that Holmes had just conceived to defend against Moriarty's confederates)
+
+However, at least one of them knew that he was still alive and tried to kill him by dropping rocks down on the ledge where he had taken refuge.
+0.29 Context(at least one of them knew he tried to kill,List([10, 57))):(he; tried to kill him by dropping down on; L:the ledge)
+0.26 Context(at least one of them knew he tried,List([10, 49))):(he; tried to kill; him)
+0.26 Context(at least one of them knew,List([10, 35))):(he; tried to; kill him by dropping rocks down on the ledge)
+0.61 (at least one of them; knew that; he tried to kill him by dropping rocks down on the ledge)
+0.55 (he; had taken refuge; L:the ledge)
+0.45 (he; had taken; refuge)
+0.20 Context(at least one of them knew,List([10, 35))):(he; was; alive)
+0.18 Context(at least one of them knew,List([10, 35))):(he; was alive; T:still)
+0.50 (at least one of them; knew that; he was still alive)
+
+Hurriedly climbing back down the cliff—and falling the last short distance to the path—Holmes ran for his life and, by the next week, he was in Florence.
+0.96 Context(he was,List([76, 82))):(falling the last short distance to the path - Holmes; ran by; T:the next week)
+0.50 (he; was in; Florence)
+0.94 (falling the last short distance to the path - Holmes; ran for; his life)
+
+Holmes apologizes to Watson for the deception needed to outwit his enemies, and describes his three years' exploits, explaining that he spent the next few years traveling to various parts of the world.
+0.39 Context(Holmes describes explaining he spent,List([0, 70))):(he; spent the next few years traveling to; various parts of the world)
+0.39 Context(Holmes describes explaining,List([0, 56))):(he; spent the next few years; traveling to various parts of the world)
+0.46 Context(Holmes describes explaining,List([0, 56))):(he; spent; the next few years)
+0.83 Context(Holmes describes,List([0, 16))):(Holmes; describes his three years ' exploits explaining that; he spent the next few years traveling to various parts of the world)
+0.83 (Holmes; describes; his three years ' exploits)
+0.83 (the deception; needed to; outwit his enemies)
+0.92 (Holmes; apologizes to Watson for; the deception)
+0.93 (Holmes; apologizes to; Watson)
+
+First, he went to Tibet and wandered for two years, even attaining entry to Lhasa and met the "head lama".
+0.22 (he; met lama; T:First)
+0.33 Context(he wandered,List([8, 19))):(he; wandered even attaining; entry to Lhasa)
+0.25 (he; wandered; T:First)
+0.39 (he; wandered for; T:two years)
+0.22 (he; went lama; T:First)
+
+Afterward, Holmes travelled incognito as a Norwegian explorer named Sigerson.
+0.93 (a Norwegian explorer; named; Sigerson)
+0.86 (Holmes; travelled incognito; T:Afterward)
+0.92 (Holmes; travelled incognito as; a Norwegian explorer)
+0.92 (Holmes; travelled; incognito)
+
+Then, he went to Persia, with Holmes entering Mecca and then to a brief stopover with the Khalifa in Khartoum.
+0.24 (he; went; T:then)
+0.39 (he; went with; Holmes)
+0.93 (Holmes; entering; Mecca)
+0.36 (he; went; T:Then)
+0.50 (he; went to; Persia)
+
+Finally, before returning, Holmes spent time doing chemical research on coal tar derivatives in Montpellier, France.
+0.91 Context(Holmes spent,List([27, 39))):(Holmes; spent time doing; chemical research on coal tar derivatives in Montpellier)
+0.82 (Holmes; spent time before; T:returning)
+0.82 (Holmes; spent time; T:Finally)
+0.91 (Holmes; spent time; doing chemical research on coal tar derivatives in Montpellier)
+0.92 (Holmes; spent; time)
+
+However, Holmes was finally brought back to London by the news of Adair's murder.
+0.80 (Holmes; was brought back to London; T:finally)
+0.90 (Holmes; was brought back to London by; the news of Adair's murder)
+0.90 (Holmes; was brought; back to London)
+
+During all this time, the only people who knew that Holmes was alive were Moriarty's henchmen and Holmes's brother Mycroft, who provided him with the money he needed.
+0.89 (the only people; knew that; Holmes was alive)
+0.97 (the only people who knew that Holmes was alive; were henchmen During; T:all this time)
+0.38 (Mycroft; [is] brother [of]; Holmes)
+0.80 Context(the only people knew,List([23, 47))):(Holmes; was; alive)
+0.93 (the only people; knew that; Holmes was alive were Moriarty 's and Holmes 's brother)
+0.88 (the money; needed; he)
+0.92 (Holmes 's brother; provided him with; the money)
+0.86 (Holmes 's brother; provided; him)
+
+Holmes tells Watson that they are going to do some dangerous work that evening, and after a roundabout trip through the city, they enter an empty house, an abandoned building known as Camden House whose front room overlooks—to Watson's great surprise—Baker Street.
+0.93 (an abandoned building; known as; Camden House)
+0.70 (they; enter an empty house after; T:a roundabout trip through the city)
+0.62 (they; enter; an empty house)
+0.74 (Holmes; tells Watson that; they are going to do some dangerous work that evening)
+0.93 (Holmes; tells; Watson)
+0.33 (they; to do some dangerous work; T:that evening)
+0.58 (they; to do; some dangerous work)
+
+Holmes's room can be seen across the street, and more surprisingly still, Holmes can be seen silhouetted against the blind: it is a lifelike waxwork bust, moved regularly from below by Mrs. Hudson to simulate life.
+0.82 Context(more surprisingly still , Holmes can be seen silhouetted against the blind : it is a lifelike waxwork bust moved regularly,List([0, 124))):(Holmes; can be seen; T:more surprisingly still)
+0.46 Context(more surprisingly still , Holmes can be seen silhouetted against the blind : it is a lifelike waxwork bust moved regularly,List([0, 124))):(it; is; a lifelike waxwork bust)
+0.86 (more surprisingly still , Holmes can be seen silhouetted against the blind : it is a lifelike waxwork bust; moved regularly by; Mrs. Hudson)
+0.74 (more surprisingly still , Holmes can be seen silhouetted against the blind : it is a lifelike waxwork bust; moved regularly from; below)
+0.74 (Holmes; silhouetted; )
+0.91 Context(Holmes 's room can be seen across the street : it is a lifelike waxwork bust moved regularly,List([0, 94))):(Holmes 's room; can be seen across; L:the street)
+0.46 Context(Holmes 's room can be seen across the street : it is a lifelike waxwork bust moved regularly,List([0, 94))):(it; is; a lifelike waxwork bust)
+0.83 (Holmes 's room can be seen across the street : it is a lifelike waxwork bust; moved regularly by; Mrs. Hudson)
+0.68 (Holmes 's room can be seen across the street : it is a lifelike waxwork bust; moved regularly from; below)
+
+Holmes employs the dummy because he was seen by one of Moriarty's men, and thus he expects an attempt on his life that very night.
+0.14 (he; expects; an attempt on his life that very night)
+0.50 (he; was seen by; one of Moriarty 's men)
+0.88 (Holmes; employs the dummy because; he was seen by one of Moriarty 's men)
+0.80 (Holmes; employs; the dummy)
+
+After a roundabout route, Watson and Holmes wait two hours until around midnight in the abandoned Camden House.
+0.94 (Holmes; wait After; T:a roundabout route)
+0.90 (Holmes; wait until; T:around midnight in the abandoned Camden House)
+0.92 (Holmes; wait; T:two hours)
+0.94 (Watson; wait two hours After; T:a roundabout route)
+0.93 (Watson; wait two hours until; T:around midnight in the abandoned Camden House)
+0.92 (Watson; wait; two hours)
+
+A sniper, who has taken the bait, fires a specialized air gun to assassinate his foe.
+0.85 Context(A sniper , who has taken the bait fires,List([0, 39))):(A sniper, who has taken the bait; fires a specialized air gun to assassinate; his foe)
+0.86 Context(A sniper , who has taken the bait fires,List([0, 39))):(A sniper; has taken; the bait)
+0.85 (A sniper, who has taken the bait; fires a specialized air gun to; assassinate his foe)
+0.92 (A sniper, who has taken the bait; fires; a specialized air gun)
+
+Surprisingly, he chooses Camden House as his vantage point.
+0.31 (he; chooses Camden House as; his vantage point)
+0.50 (he; chooses; Camden House)
+
+Once the ruffian shoots his air gun, scoring a direct hit on Holmes's dummy across the street, Holmes and Watson are on him, and he is soon disarmed and restrained.
+0.28 (he; is; restrained)
+0.28 (he; is; soon disarmed)
+0.90 (Watson; are on him Once; T:the ruffian shoots his air gun)
+0.86 (Watson; are on; him)
+0.90 (Holmes; are on him Once; T:the ruffian shoots his air gun)
+0.86 (Holmes; are on; him)
+0.83 (the ruffian; shoots; his air gun)
+
+While Watson knocks down the enemy, Holmes summons the police by blowing a whistle.
+0.90 Context(Holmes summons,List([36, 50))):(Holmes; summons the police by blowing; a whistle)
+0.90 (Holmes; summons the police by; blowing a whistle)
+0.90 (Holmes; summons; the police)
+0.92 (Watson; knocks down; the enemy)
+
+They are led by Inspector Lestrade, who arrests the gunman.
+0.91 (Inspector Lestrade; arrests; the gunman)
+0.66 (They; are led by; Inspector Lestrade)
+
+It is none other than Colonel Moran, Ronald Adair's whist partner, and the same man who threw rocks down on the ledge at Holmes at Reichenbach Falls.
+0.87 (the same man; threw rocks on; the ledge at Holmes at Reichenbach Falls)
+0.75 (the same man; threw rocks; down)
+0.92 (the same man; threw; rocks)
+0.52 (It; is; none other than the same man)
+0.38 (Colonel Moran; [is] whist partner [of]; Ronald Adair)
+0.57 (It; is; none other than Colonel Moran)
+
+Holmes does not wish the police to press charges of attempted murder in connection with what Moran has just done.
+0.88 Context(Holmes does not wish,List([0, 20))):(the police; to press; charges of attempted murder)
+0.94 (Holmes; does not wish; the police to press charges of attempted murder in connection with what Moran has just done)
+0.77 (Moran; has just done; )
+
+Instead, he tells Lestrade to charge him with actual murder, for Moran is the man who murdered Ronald Adair.
+0.90 (the man; murdered; Ronald Adair)
+0.95 (Moran; is; the man who murdered Ronald Adair)
+0.92 (Lestrade; to charge him with; actual murder)
+0.86 (Lestrade; to charge; him)
+0.46 (he; tells Lestrade to; charge him with actual murder, for Moran is the man)
+0.57 (he; tells; Lestrade)
+
+The air gun, it turns out, has been specially designed to shoot revolver bullets, and a quick forensics check of the one that "killed" his dummy shows, as Holmes expected, that it matches the bullet used to kill Adair.
+0.92 (the bullet; used to; kill Adair)
+0.50 (it; matches; the bullet used to kill Adair)
+0.77 (Holmes; expected; )
+0.78 (the one; killed; his dummy shows)
+0.19 (it; turns out; )
+
+Holmes and Watson then go to their old apartment in Baker Street, where Holmes' rooms were kept as he had left them thanks to Mycroft's supervision.
+0.89 (Watson; go; T:then)
+0.86 (Watson; go to; their old apartment in Baker Street)
+0.31 (he; had left; them)
+0.93 (Holmes ' rooms; were kept; L:their old apartment in Baker Street)
+0.90 (Holmes ' rooms; were kept as; T:he had left them thanks to Mycroft 's supervision)
+0.89 (Holmes; go; T:then)
+0.86 (Holmes; go to; their old apartment in Baker Street)
+
+Moran's motive in killing Adair is a matter of speculation even for Holmes.
+0.97 (Moran's motive in killing Adair; is; a matter of speculation even for Holmes)
+
+Nonetheless, his theory is that Adair had caught Moran cheating at cards, and threatened to expose his dishonourable behaviour.
+0.83 Context(his theory is Adair had threatened,List([14, 53))):(Adair; had threatened to expose; his dishonourable behaviour)
+0.83 Context(his theory is,List([14, 27))):(Adair; had threatened to; expose his dishonourable behaviour)
+0.47 (his theory; is that; Adair had threatened to expose his dishonourable behaviour)
+0.90 Context(his theory is Adair had caught,List([14, 49))):(Adair; had caught Moran cheating at; L:cards)
+0.90 Context(his theory is,List([14, 27))):(Adair; had caught Moran; T:cheating at cards)
+0.91 Context(his theory is,List([14, 27))):(Adair; had caught; Moran)
+0.62 (his theory; is that; Adair had caught Moran)
+
+Moran therefore got rid of the one man who could rob him of his livelihood, for he earned a living playing cards crookedly, and could ill afford to be barred from all his clubs.
+0.84 (Moran; to be barred from; all his clubs)
+0.80 (Moran; could afford to be barred from all his clubs; T:ill)
+0.80 (Moran; could afford to; be barred from all his clubs)
+0.23 (he; earned a living playing cards; T:crookedly)
+0.45 (he; earned; a living playing cards)
+0.82 (the one man; could rob him of; his livelihood)
+0.82 (the one man; could rob; him)
+0.86 (Moran; got rid of the one man; T:therefore)
+0.91 (Moran; got rid of; the one man)
+0.93 (Moran; got; rid of the one man)
