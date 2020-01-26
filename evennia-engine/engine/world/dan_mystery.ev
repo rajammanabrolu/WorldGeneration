@@ -1,0 +1,84 @@
+dig Next door;260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+set 260b8ad2-3161-11ea-9ced-ad812f9239ed/zone = '5F6Z'
+#
+describe "Well, here we are in a next door."
+#
+dig Alias Spaulding;260b8ad3-3161-11ea-b62f-ad812f9239ed
+#
+tel 260b8ad3-3161-11ea-b62f-ad812f9239ed
+#
+set 260b8ad3-3161-11ea-b62f-ad812f9239ed/zone = '5F6Z'
+#
+describe "You have entered a alias Spaulding. Not the alias Spaulding you'd expect. No, this is a alias Spaulding."
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop Mr. merryweather;260b8ad4-3161-11ea-976b-ad812f9239ed
+#
+describe 260b8ad4-3161-11ea-976b-ad812f9239ed = "You can see mr. merryweather in the next door. You shudder, but continue examining the next door."
+#
+lock 260b8ad4-3161-11ea-976b-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop John clay;26e7460c-3161-11ea-9ba5-ad812f9239ed
+#
+describe 26e7460c-3161-11ea-9ba5-ad812f9239ed = "What's that over there? It looks like it's john clay. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 26e7460c-3161-11ea-9ba5-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop Vault floor;27709726-3161-11ea-97cc-ad812f9239ed
+#
+describe 27709726-3161-11ea-97cc-ad812f9239ed = "It reveals inside it vault floor. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 27709726-3161-11ea-97cc-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop Tunnel;27d857fe-3161-11ea-9ba8-ad812f9239ed
+#
+describe 27d857fe-3161-11ea-9ba8-ad812f9239ed = "You scan the room, seeing tunnel. You wonder idly who put this stuff here."
+#
+lock 27d857fe-3161-11ea-9ba8-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop History activity;283d29a2-3161-11ea-9684-ad812f9239ed
+#
+describe 283d29a2-3161-11ea-9684-ad812f9239ed = "There history activity in it. You wonder idly who put this stuff here."
+#
+lock 283d29a2-3161-11ea-9684-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+create/drop Holmes;289338b6-3161-11ea-afa9-ad812f9239ed
+#
+describe 289338b6-3161-11ea-afa9-ad812f9239ed = "You bend down to tie your shoe. When you stand up, you notice holmes. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 289338b6-3161-11ea-afa9-ad812f9239ed = get:false()
+#
+tel 260b8ad3-3161-11ea-b62f-ad812f9239ed
+#
+create/drop Gold coin;28e920f8-3161-11ea-9e38-ad812f9239ed
+#
+describe 28e920f8-3161-11ea-9e38-ad812f9239ed = "It has gold coin. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 28e920f8-3161-11ea-9e38-ad812f9239ed = get:false()
+#
+tel 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+open Alias Spaulding;Spaulding;Alias Spaulding;2967d07e-3161-11ea-b6f5-ad812f9239ed = 260b8ad3-3161-11ea-b62f-ad812f9239ed
+#
+describe 2967d07e-3161-11ea-b6f5-ad812f9239ed = ""
+#
+tel 260b8ad3-3161-11ea-b62f-ad812f9239ed
+#
+open Next door;door;2967d07f-3161-11ea-aed3-ad812f9239ed = 260b8ad2-3161-11ea-9ced-ad812f9239ed
+#
+describe 2967d07f-3161-11ea-aed3-ad812f9239ed = ""
+#

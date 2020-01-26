@@ -1,0 +1,192 @@
+dig "Gelder & Co.,";287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+set 287653ae-30fc-11ea-ab2a-ad812f9239ed/zone = 'ABCD'
+#
+describe You examine Gelder & Co. There is no evidence that the busts were part of a batch of six.
+#
+dig Chiswick;287653af-30fc-11ea-b706-ad812f9239ed
+#
+tel 287653af-30fc-11ea-b706-ad812f9239ed
+#
+set 287653af-30fc-11ea-b706-ad812f9239ed/zone = 'ABCD'
+#
+describe You examine Chiswick. It looks like a large house, and it is surrounded by a fence, and the windows were open.
+#
+dig Doctor's house and branch office;287653b0-30fc-11ea-ba05-ad812f9239ed
+#
+tel 287653b0-30fc-11ea-ba05-ad812f9239ed
+#
+set 287653b0-30fc-11ea-ba05-ad812f9239ed/zone = 'ABCD'
+#
+describe You examine doctor's house and branch office. It looks like it's being burglarized.
+#
+dig "Morse Hudson's shop,";287653b1-30fc-11ea-bfd0-ad812f9239ed
+#
+tel 287653b1-30fc-11ea-bfd0-ad812f9239ed
+#
+set 287653b1-30fc-11ea-bfd0-ad812f9239ed/zone = 'ABCD'
+#
+describe You examine Morse Hudson's shop. There is no evidence of a burglary.
+#
+dig Front garden of an empty house up the street;287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+set 287653b2-30fc-11ea-a9c2-ad812f9239ed/zone = 'ABCD'
+#
+describe You examine front garden of an empty house up the street. It looks as though someone has thrown a stone at a wall.
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop "Pietro Venucci,";287653b3-30fc-11ea-a175-ad812f9239ed
+#
+describe 287653b3-30fc-11ea-a175-ad812f9239ed = You examine Pietro Venucci. They are two people who are not friends.
+#
+lock 287653b3-30fc-11ea-a175-ad812f9239ed = get:false()
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+create/drop Gelder & Co;287653b4-30fc-11ea-bce5-ad812f9239ed
+#
+describe 287653b4-30fc-11ea-bce5-ad812f9239ed = You examine Gelder & Co. They are not in London; you do not find them in the same shop in the same place, but there is a sign that says: "No more.
+#
+lock 287653b4-30fc-11ea-bce5-ad812f9239ed = get:false()
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop Lucretia Venucci;287653b5-30fc-11ea-8520-ad812f9239ed
+#
+describe 287653b5-30fc-11ea-8520-ad812f9239ed = You examine Lucretia Venucci. They are still alive and well.
+#
+lock 287653b5-30fc-11ea-8520-ad812f9239ed = get:false()
+#
+tel 287653af-30fc-11ea-b706-ad812f9239ed
+#
+create/drop Dr;287653b6-30fc-11ea-8dd0-ad812f9239ed
+#
+describe 287653b6-30fc-11ea-8dd0-ad812f9239ed = You examine Dr. They are the first to have found a piece of Holmes's plaster, but the first to get an idea about it.
+#
+lock 287653b6-30fc-11ea-8dd0-ad812f9239ed = get:false()
+#
+tel 287653b0-30fc-11ea-ba05-ad812f9239ed
+#
+create/drop Watson and Lestrade;287653b7-30fc-11ea-ba0b-ad812f9239ed
+#
+describe 287653b7-30fc-11ea-ba0b-ad812f9239ed = You examine Watson and Lestrade. They are both dressed in a tuxedo with a white button up, which they wear as a badge, and the two of them look as if they would have been very nice people to have had a chance to meet.
+#
+lock 287653b7-30fc-11ea-ba0b-ad812f9239ed = get:false()
+#
+tel 287653af-30fc-11ea-b706-ad812f9239ed
+#
+create/drop Holmes;287653b8-30fc-11ea-810e-ad812f9239ed
+#
+describe 287653b8-30fc-11ea-810e-ad812f9239ed = You examine Holmes. They are all in a similar state of decay.
+#
+lock 287653b8-30fc-11ea-810e-ad812f9239ed = get:false()
+#
+tel 287653b1-30fc-11ea-bfd0-ad812f9239ed
+#
+create/drop Napoleon;287653b9-30fc-11ea-b5c1-ad812f9239ed
+#
+describe 287653b9-30fc-11ea-b5c1-ad812f9239ed = You examine Napoleon. They are very similar but the fact they are different is not good.
+#
+lock 287653b9-30fc-11ea-b5c1-ad812f9239ed = get:false()
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+create/drop Busts in question all came from the same mould;287653ba-30fc-11ea-a8e5-ad812f9239ed
+#
+describe 287653ba-30fc-11ea-a8e5-ad812f9239ed = You examine busts in question all came from the same mould. It is possible that the first picture in this case was taken when a man's shop in London was burgled and the next, when a man's house in St James's was attacked by a lunatic.
+#
+lock 287653ba-30fc-11ea-a8e5-ad812f9239ed = get:false()
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+create/drop Plaster busts;287653bb-30fc-11ea-adf9-ad812f9239ed
+#
+describe 287653bb-30fc-11ea-adf9-ad812f9239ed = You examine plaster busts. It is a mystery how he is supposed to do it.
+#
+lock 287653bb-30fc-11ea-adf9-ad812f9239ed = get:false()
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop Fragments of Harker's bust;287653bc-30fc-11ea-bf94-ad812f9239ed
+#
+describe 287653bc-30fc-11ea-bf94-ad812f9239ed = You examine fragments of Harker's bust. It is a picture of an old man.
+#
+lock 287653bc-30fc-11ea-bf94-ad812f9239ed = get:false()
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop Thousands of images of Napoleon all over London;287653bd-30fc-11ea-b1de-ad812f9239ed
+#
+describe 287653bd-30fc-11ea-b1de-ad812f9239ed = You examine thousands of images of Napoleon all over London. It is very hard.
+#
+lock 287653bd-30fc-11ea-b1de-ad812f9239ed = get:false()
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+create/drop Black pearl of the Borgias;287653be-30fc-11ea-ab3f-ad812f9239ed
+#
+describe 287653be-30fc-11ea-ab3f-ad812f9239ed = You examine black pearl of the Borgias. It is a rare gem, and the seller is quite certain that he has stolen it.
+#
+lock 287653be-30fc-11ea-ab3f-ad812f9239ed = get:false()
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop Among the plaster shards is a gem;287653bf-30fc-11ea-8c56-ad812f9239ed
+#
+describe 287653bf-30fc-11ea-8c56-ad812f9239ed = You examine among the plaster shards is a gem. It is very important to note that this gem was a gold bar in its original form, and that it was not the same gem that had been sold in London.
+#
+lock 287653bf-30fc-11ea-8c56-ad812f9239ed = get:false()
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+create/drop Streetlamp;287653c0-30fc-11ea-a380-ad812f9239ed
+#
+describe 287653c0-30fc-11ea-a380-ad812f9239ed = You examine streetlamp. It is a dark grey, with a small hole in it on the outside, and the hole is a long, deep hole.
+#
+lock 287653c0-30fc-11ea-a380-ad812f9239ed = get:false()
+#
+tel 287653b1-30fc-11ea-bfd0-ad812f9239ed
+#
+create/drop Busts;287653c1-30fc-11ea-9dc5-ad812f9239ed
+#
+describe 287653c1-30fc-11ea-9dc5-ad812f9239ed = You examine busts. It is the work of a man who had been trained for life in the art of plaster busting: he was not the kind of person who would go and get a job with the art.
+#
+lock 287653c1-30fc-11ea-9dc5-ad812f9239ed = get:false()
+#
+tel 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+open Front garden of an empty house up the street;street;house;empty house;garden;Front garden;287653c2-30fc-11ea-ae19-ad812f9239ed = 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+tel 287653af-30fc-11ea-b706-ad812f9239ed
+#
+open Front garden of an empty house up the street;street;house;empty house;garden;Front garden;287653c3-30fc-11ea-be71-ad812f9239ed = 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+tel 287653b0-30fc-11ea-ba05-ad812f9239ed
+#
+open Front garden of an empty house up the street;street;house;empty house;garden;Front garden;287653c4-30fc-11ea-92c8-ad812f9239ed = 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+tel 287653b1-30fc-11ea-bfd0-ad812f9239ed
+#
+open Front garden of an empty house up the street;street;house;empty house;garden;Front garden;287653c5-30fc-11ea-b307-ad812f9239ed = 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+open "Gelder & Co.,";Co.,";& Co.,";"Gelder & Co.,";287653c6-30fc-11ea-a142-ad812f9239ed = 287653ae-30fc-11ea-ab2a-ad812f9239ed
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+open Chiswick;Chiswick;287653c7-30fc-11ea-bb26-ad812f9239ed = 287653af-30fc-11ea-b706-ad812f9239ed
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+open Doctor's house and branch office;office;branch office;house;Doctor's house;287653c8-30fc-11ea-a77a-ad812f9239ed = 287653b0-30fc-11ea-ba05-ad812f9239ed
+#
+tel 287653b2-30fc-11ea-a9c2-ad812f9239ed
+#
+open "Morse Hudson's shop,";shop,";Hudson's shop,";"Morse Hudson's shop,";287653c9-30fc-11ea-b95e-ad812f9239ed = 287653b1-30fc-11ea-bfd0-ad812f9239ed
+#

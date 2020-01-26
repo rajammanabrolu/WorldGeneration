@@ -1,0 +1,32 @@
+dig Demo Room;bca53dee-316e-11ea-991f-ad812f9239ed
+#
+tel bca53dee-316e-11ea-991f-ad812f9239ed
+#
+set bca53dee-316e-11ea-991f-ad812f9239ed/zone = 'ABCD'
+#
+describe "Welcome to the demo room. Everyone knows that all great adventures start with a tutorial. Here, you will briefly learn the controls. This is a text adventure engine, which means that all commands are input by typing into the box below. To get started, head to the treasure room. Go ahead and walk right in. Try typimg 'go to treasure room' in the input box."
+#
+dig Treasure Room;bca53def-316e-11ea-85e9-ad812f9239ed
+#
+tel bca53def-316e-11ea-85e9-ad812f9239ed
+#
+set bca53def-316e-11ea-85e9-ad812f9239ed/zone = 'ABCD'
+#
+describe "Good job! In every room, you can look at the 'Exits' to know the possible locations you can get to from your current location. The treasure in this room is the satisfaction of making progress. However, there is one last thing before I let you go. Some rooms can have items, characters, and other objects in them as well. You can get a closer look at these items by investigating them individually. Give it a shot. Try typing 'examine the scroll' or 'look at the scroll'."
+#
+tel bca53def-316e-11ea-85e9-ad812f9239ed
+#
+create/drop Scroll;bca53df0-316e-11ea-959a-ad812f9239ed
+#
+describe bca53df0-316e-11ea-959a-ad812f9239ed = "The tattered paper informs you of a secret code.."
+#
+lock bca53df0-316e-11ea-959a-ad812f9239ed = get:false()
+#
+tel bca53dee-316e-11ea-991f-ad812f9239ed
+#
+open Treasure Room;Room;Treasure Room;bca53df1-316e-11ea-977e-ad812f9239ed = bca53def-316e-11ea-85e9-ad812f9239ed
+#
+tel bca53def-316e-11ea-85e9-ad812f9239ed
+#
+open Demo Room;Room;Demo Room;bca53df2-316e-11ea-8686-ad812f9239ed = bca53dee-316e-11ea-991f-ad812f9239ed
+#

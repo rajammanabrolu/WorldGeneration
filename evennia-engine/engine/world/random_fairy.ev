@@ -1,0 +1,142 @@
+dig Walled garden;297ab058-3161-11ea-847a-ad812f9239ed
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+set 297ab058-3161-11ea-847a-ad812f9239ed/zone = 'X43K'
+#
+describe "A garden with a hedge, a meadow with a pond, and a hill on either side, surrounded by a fence of leaves and stones."
+#
+dig Middle of the woods;297ab059-3161-11ea-9eca-ad812f9239ed
+#
+tel 297ab059-3161-11ea-9eca-ad812f9239ed
+#
+set 297ab059-3161-11ea-9eca-ad812f9239ed/zone = 'X43K'
+#
+describe "A woodsy, little-to-the-right-of-the-road town, it is said that the middle of the woods is where the evil Merlin resides."
+#
+dig Wilderness;297ab05a-3161-11ea-891a-ad812f9239ed
+#
+tel 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+set 297ab05a-3161-11ea-891a-ad812f9239ed/zone = 'X43K'
+#
+describe "The wilderness is a vast and beautiful land, but it is also filled with danger and hardship."
+#
+dig Tower;297ab05b-3161-11ea-a063-ad812f9239ed
+#
+tel 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+set 297ab05b-3161-11ea-a063-ad812f9239ed/zone = 'X43K'
+#
+describe "It is a tower of iron, with a hundred and sixty-six windows, and a hundred and sixty-six doors."
+#
+dig Forest;297ab05c-3161-11ea-a03f-ad812f9239ed
+#
+tel 297ab05c-3161-11ea-a03f-ad812f9239ed
+#
+set 297ab05c-3161-11ea-a03f-ad812f9239ed/zone = 'X43K'
+#
+describe "It is a thick forest with many trees, each with a different color and shape."
+#
+dig Garden;297ab05d-3161-11ea-83b7-ad812f9239ed
+#
+tel 297ab05d-3161-11ea-83b7-ad812f9239ed
+#
+set 297ab05d-3161-11ea-83b7-ad812f9239ed/zone = 'X43K'
+#
+describe "A garden with a tree of life and death, with a spring that never sleeps and a spring that never lets dry."
+#
+tel 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+create/drop Prince;297ab05e-3161-11ea-a619-ad812f9239ed
+#
+describe 297ab05e-3161-11ea-a619-ad812f9239ed = "He is a young king with a beautiful wife and a handsome son."
+#
+lock 297ab05e-3161-11ea-a619-ad812f9239ed = get:false()
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+create/drop Lonely couple;297ab05f-3161-11ea-be51-ad812f9239ed
+#
+describe 297ab05f-3161-11ea-be51-ad812f9239ed = "The couple is a young couple who live alone."
+#
+lock 297ab05f-3161-11ea-be51-ad812f9239ed = get:false()
+#
+tel 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+create/drop Rapunzel;297ab060-3161-11ea-b8a7-ad812f9239ed
+#
+describe 297ab060-3161-11ea-b8a7-ad812f9239ed = "Rapunzel is a little red-headed fairy who lives in the woods with her mother, a giantess."
+#
+tel 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+create/drop Rapunzel;297ab060-3161-11ea-b8a7-ad812f9239ed
+#
+describe 297ab060-3161-11ea-b8a7-ad812f9239ed = "Rapunzel is a little red-headed fairy who lives in the woods with her mother, a giantess."
+#
+lock 297ab060-3161-11ea-b8a7-ad812f9239ed = get:false()
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+create/drop Thorn bush;297ab061-3161-11ea-adb4-ad812f9239ed
+#
+describe 297ab061-3161-11ea-adb4-ad812f9239ed = "A thorn bush is a tree that has been struck by lightning, and its roots are said to be rich in gold and silver."
+#
+lock 297ab061-3161-11ea-adb4-ad812f9239ed = get:false()
+#
+tel 297ab05c-3161-11ea-a03f-ad812f9239ed
+#
+create/drop Silk;297ab062-3161-11ea-bb4a-ad812f9239ed
+#
+describe 297ab062-3161-11ea-bb4a-ad812f9239ed = "It is a cloth used for clothing, but also used for covering the body and for covering the face."
+#
+lock 297ab062-3161-11ea-bb4a-ad812f9239ed = get:false()
+#
+tel 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+create/drop Ladder;297ab063-3161-11ea-b17b-ad812f9239ed
+#
+describe 297ab063-3161-11ea-b17b-ad812f9239ed = "It is a ladder that goes up and down."
+#
+lock 297ab063-3161-11ea-b17b-ad812f9239ed = get:false()
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+open Wilderness;Wilderness;297ad74c-3161-11ea-b53a-ad812f9239ed = 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+tel 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+open Walled garden;297ad74d-3161-11ea-811c-ad812f9239ed = 297ab058-3161-11ea-847a-ad812f9239ed
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+open Garden;Garden;297ad74e-3161-11ea-a6ce-ad812f9239ed = 297ab05d-3161-11ea-83b7-ad812f9239ed
+#
+tel 297ab05d-3161-11ea-83b7-ad812f9239ed
+#
+open Walled garden;297ad74f-3161-11ea-9c42-ad812f9239ed = 297ab058-3161-11ea-847a-ad812f9239ed
+#
+tel 297ab058-3161-11ea-847a-ad812f9239ed
+#
+open Middle of the woods;woods;Middle;297ad750-3161-11ea-9476-ad812f9239ed = 297ab059-3161-11ea-9eca-ad812f9239ed
+#
+tel 297ab059-3161-11ea-9eca-ad812f9239ed
+#
+open Walled garden;297ad751-3161-11ea-8403-ad812f9239ed = 297ab058-3161-11ea-847a-ad812f9239ed
+#
+tel 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+open Forest;Forest;297ad752-3161-11ea-b183-ad812f9239ed = 297ab05c-3161-11ea-a03f-ad812f9239ed
+#
+tel 297ab05c-3161-11ea-a03f-ad812f9239ed
+#
+open Wilderness;Wilderness;297ad753-3161-11ea-a82f-ad812f9239ed = 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+tel 297ab05a-3161-11ea-891a-ad812f9239ed
+#
+open Tower;Tower;297ad754-3161-11ea-9f26-ad812f9239ed = 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+tel 297ab05b-3161-11ea-a063-ad812f9239ed
+#
+open Wilderness;Wilderness;297ad755-3161-11ea-a695-ad812f9239ed = 297ab05a-3161-11ea-891a-ad812f9239ed
+#

@@ -1,0 +1,146 @@
+dig Walled Garden;3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+set 3e7b4290-3163-11ea-9dea-ad812f9239ed/zone = '9Q4F'
+#
+describe "You find yourself in a beautiful garden with many different types of flora. You see many rapunzel flowers in full bloom. An old witch is standing in the garden, keeping a close eye on you."
+#
+dig The Woods;3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+set 3e7b4291-3163-11ea-97bc-ad812f9239ed/zone = '9Q4F'
+#
+describe "You come to a small clearing in the otherwise dense forest. Before you is a large tower. There are no doors to enter, but from an upper window a long ladder hangs down. The tower is surrounded by thorny bushes, but you believe you can wade through them to reach the ladder."
+#
+dig Wilderness;3e7b4292-3163-11ea-ab5b-ad812f9239ed
+#
+tel 3e7b4292-3163-11ea-ab5b-ad812f9239ed
+#
+set 3e7b4292-3163-11ea-ab5b-ad812f9239ed/zone = '9Q4F'
+#
+describe "Leaving the forest, you come across a vast, sprawling wilderness. All is quiet until you catch sight of a very well-dressed man who is clumsily wandering through the underbrush."
+#
+dig Tower in the Woods;3e7b4293-3163-11ea-84f6-ad812f9239ed
+#
+tel 3e7b4293-3163-11ea-84f6-ad812f9239ed
+#
+set 3e7b4293-3163-11ea-84f6-ad812f9239ed/zone = '9Q4F'
+#
+describe "That was a long climb. You glance behind you to see a long way down. The decorations seem fitting in the bedroom of a young woman, but are surprised to see the same witch from before watching you from the other side. Is she following you?"
+#
+dig Lonely Couple's House;3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+tel 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+set 3e7b4294-3163-11ea-a6af-ad812f9239ed/zone = '9Q4F'
+#
+describe "Outside of the walled garden, you see a small farmhouse and a narrow trail leading into the woods. A lonely old couple is tending to their small field."
+#
+tel 3e7b4292-3163-11ea-ab5b-ad812f9239ed
+#
+create/drop Prince;3e7b4295-3163-11ea-8c45-ad812f9239ed
+#
+describe 3e7b4295-3163-11ea-8c45-ad812f9239ed = "You approach the man and notice his eyes are shut. No wonder he is hobbling around. You try to strike up a conversation, but he isn't interested. He claims he is searching for his lost love."
+#
+lock 3e7b4295-3163-11ea-8c45-ad812f9239ed = get:false()
+#
+tel 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+create/drop Lonely Couple;3e7b4296-3163-11ea-b873-ad812f9239ed
+#
+describe 3e7b4296-3163-11ea-b873-ad812f9239ed = "You start to approach them, but they appear to be in mourning. Perhaps it is best to let them be."
+#
+lock 3e7b4296-3163-11ea-b873-ad812f9239ed = get:false()
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+create/drop Witch;3e7b4297-3163-11ea-b8d3-ad812f9239ed
+#
+describe 3e7b4297-3163-11ea-b8d3-ad812f9239ed = "The witch makes her way through the garden to water all the various plants. Frequently, she looks up from her task and beams a glare in your direction."
+#
+tel 3e7b4293-3163-11ea-84f6-ad812f9239ed
+#
+create/drop Witch;3e7b4297-3163-11ea-b8d3-ad812f9239ed
+#
+describe 3e7b4297-3163-11ea-b8d3-ad812f9239ed = "She is babbling incoherent nonsense. Maybe it is a curse? probably best for you not to stay too long."
+#
+lock 3e7b4297-3163-11ea-b8d3-ad812f9239ed = get:false()
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+create/drop Rapunzel flowers;3e7b4298-3163-11ea-bdc4-ad812f9239ed
+#
+describe 3e7b4298-3163-11ea-bdc4-ad812f9239ed = "Beautiful purple flowers that stand out among the other plants present in the garden."
+#
+lock 3e7b4298-3163-11ea-bdc4-ad812f9239ed = get:false()
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+create/drop Thorn bushes;3e7b4299-3163-11ea-a4e4-ad812f9239ed
+#
+describe 3e7b4299-3163-11ea-a4e4-ad812f9239ed = "The thorns on these bushes are razor sharp. You'd best not even try to touch them. Luckily for you, there is a man shaped area where the bushes have been flattened and can be stepped over. Good things you wore your boots today."
+#
+lock 3e7b4299-3163-11ea-a4e4-ad812f9239ed = get:false()
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+create/drop Ladder;3e7b429a-3163-11ea-b936-ad812f9239ed
+#
+describe 3e7b429a-3163-11ea-b936-ad812f9239ed = "Taking a closer look at the ladder, you realize this is no rope, but actually hair of a golden blonde hue."
+#
+lock 3e7b429a-3163-11ea-b936-ad812f9239ed = get:false()
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+open Lonely Couple's House;House;Couple's House;Lonely Couple's House;3e7b429b-3163-11ea-9f6d-ad812f9239ed = 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+tel 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+open Walled Garden;Garden;Walled Garden;3e7b429c-3163-11ea-ae3c-ad812f9239ed = 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+open Witch;Witch;3e7b429d-3163-11ea-ae9d-ad812f9239ed = 3e7b4297-3163-11ea-b8d3-ad812f9239ed
+#
+describe 3e7b429d-3163-11ea-ae9d-ad812f9239ed = "The witch makes her way through the garden to water all the various plants. Frequently, she looks up from her task and beams a glare in your direction."
+#
+tel 3e7b4297-3163-11ea-b8d3-ad812f9239ed
+#
+open Walled Garden;Garden;Walled Garden;3e7b429e-3163-11ea-8f7b-ad812f9239ed = 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+describe 3e7b429e-3163-11ea-8f7b-ad812f9239ed = "The witch makes her way through the garden to water all the various plants. Frequently, she looks up from her task and beams a glare in your direction."
+#
+tel 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+open Rapunzel flowers;flowers;Rapunzel flowers;3e7b429f-3163-11ea-84a7-ad812f9239ed = 3e7b4298-3163-11ea-bdc4-ad812f9239ed
+#
+tel 3e7b4298-3163-11ea-bdc4-ad812f9239ed
+#
+open Walled Garden;Garden;Walled Garden;3e7b42a0-3163-11ea-937a-ad812f9239ed = 3e7b4290-3163-11ea-9dea-ad812f9239ed
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+open Lonely Couple's House;House;Couple's House;Lonely Couple's House;3e7b42a1-3163-11ea-92ee-ad812f9239ed = 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+tel 3e7b4294-3163-11ea-a6af-ad812f9239ed
+#
+open The Woods;Woods;3e7b42a2-3163-11ea-88a8-ad812f9239ed = 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+open Wilderness;Wilderness;3e7b42a3-3163-11ea-93fa-ad812f9239ed = 3e7b4292-3163-11ea-ab5b-ad812f9239ed
+#
+tel 3e7b4292-3163-11ea-ab5b-ad812f9239ed
+#
+open The Woods;Woods;3e7b42a4-3163-11ea-b680-ad812f9239ed = 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+tel 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#
+open Tower in the Woods;Woods;Tower;3e7b42a5-3163-11ea-90f3-ad812f9239ed = 3e7b4293-3163-11ea-84f6-ad812f9239ed
+#
+tel 3e7b4293-3163-11ea-84f6-ad812f9239ed
+#
+open The Woods;Woods;3e7b42a6-3163-11ea-a62d-ad812f9239ed = 3e7b4291-3163-11ea-97bc-ad812f9239ed
+#

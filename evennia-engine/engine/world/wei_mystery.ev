@@ -1,0 +1,88 @@
+dig Narrow London Street;29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+tel 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+set 29bd0a9e-3161-11ea-baa3-ad812f9239ed/zone = '8F66'
+#
+describe "The street is calm and quiet. A lone man stares across the street at two buildings. You follow his gaze across the way to a local bank and a ramshackle pawn shop."
+#
+dig Wilson's Pawn Shop;29bd0a9f-3161-11ea-92a3-ad812f9239ed
+#
+tel 29bd0a9f-3161-11ea-92a3-ad812f9239ed
+#
+set 29bd0a9f-3161-11ea-92a3-ad812f9239ed/zone = '8F66'
+#
+describe "The shop is quite cluttered with all sorts of strange items. The owner, Mr. Wilson, moves around the shop methodically, dusting the many shelves."
+#
+dig Bank;29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+set 29bd0aa0-3161-11ea-89e5-ad812f9239ed/zone = '8F66'
+#
+describe "No patrons are present today. Rather, you see quite a jarring scene of numerous men standing around."
+#
+tel 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+create/drop Sherlock Holmes;29bd0aa1-3161-11ea-bbe1-ad812f9239ed
+#
+describe 29bd0aa1-3161-11ea-bbe1-ad812f9239ed = "Holmes stands quietly in the streets, staring at the two buildings in front of him with a sly smirk on his face."
+#
+lock 29bd0aa1-3161-11ea-bbe1-ad812f9239ed = get:false()
+#
+tel 29bd0a9f-3161-11ea-92a3-ad812f9239ed
+#
+create/drop Jabez Wilson;29bd0aa2-3161-11ea-8037-ad812f9239ed
+#
+describe 29bd0aa2-3161-11ea-8037-ad812f9239ed = "Your typical London pawnbroker - a shrewd businessman. His hair is a flame-like hue of bright red."
+#
+lock 29bd0aa2-3161-11ea-8037-ad812f9239ed = get:false()
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+create/drop Mr. Merryweather;29bd0aa3-3161-11ea-b9bc-ad812f9239ed
+#
+describe 29bd0aa3-3161-11ea-b9bc-ad812f9239ed = "The bank director. He seems quite relieved that the criminals were apprehended but still a bit startled from the whole matter."
+#
+lock 29bd0aa3-3161-11ea-b9bc-ad812f9239ed = get:false()
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+create/drop Police Inspector Jones;29bd0aa4-3161-11ea-86e8-ad812f9239ed
+#
+describe 29bd0aa4-3161-11ea-86e8-ad812f9239ed = "Though seeming quite exhausted, the Inspector still wears a grin of pride for his work. He is keeping a close eye on the criminals."
+#
+lock 29bd0aa4-3161-11ea-86e8-ad812f9239ed = get:false()
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+create/drop Criminals;29bd0aa5-3161-11ea-959a-ad812f9239ed
+#
+describe 29bd0aa5-3161-11ea-959a-ad812f9239ed = "The criminals are handcuffed and moping over their failed heist."
+#
+lock 29bd0aa5-3161-11ea-959a-ad812f9239ed = get:false()
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+create/drop Bank Vault;29bd0aa6-3161-11ea-ad98-ad812f9239ed
+#
+describe 29bd0aa6-3161-11ea-ad98-ad812f9239ed = "The vault doors are closed shut and off limits. No successful heist today."
+#
+lock 29bd0aa6-3161-11ea-ad98-ad812f9239ed = get:false()
+#
+tel 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+open Bank;Bank;29bd0aa7-3161-11ea-a98f-ad812f9239ed = 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+tel 29bd0aa0-3161-11ea-89e5-ad812f9239ed
+#
+open Narrow London Street;Street;London Street;Narrow London Street;29bd0aa8-3161-11ea-9878-ad812f9239ed = 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+tel 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#
+open Wilson's Pawn Shop;Shop;Pawn Shop;Wilson's Pawn Shop;29bd0aa9-3161-11ea-872b-ad812f9239ed = 29bd0a9f-3161-11ea-92a3-ad812f9239ed
+#
+tel 29bd0a9f-3161-11ea-92a3-ad812f9239ed
+#
+open Narrow London Street;Street;London Street;Narrow London Street;29bd0aaa-3161-11ea-8a3f-ad812f9239ed = 29bd0a9e-3161-11ea-baa3-ad812f9239ed
+#

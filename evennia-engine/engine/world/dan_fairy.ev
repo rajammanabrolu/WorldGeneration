@@ -1,0 +1,206 @@
+dig Tower middle wood;0f304b92-3161-11ea-831d-ad812f9239ed
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+set 0f304b92-3161-11ea-831d-ad812f9239ed/zone = 'SB88'
+#
+describe "Well, here we are in a tower middle wood."
+#
+dig Later edition;0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+tel 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+set 0f304b93-3161-11ea-87aa-ad812f9239ed/zone = 'SB88'
+#
+describe "This might come as a shock to you, but you've just moved into a later edition."
+#
+dig Thorn bush;0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+set 0f304b94-3161-11ea-8b52-ad812f9239ed/zone = 'SB88'
+#
+describe "Look around you. Take it all in. It's not every day someone gets to be in a thorn bush."
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Sorceress;0f304b95-3161-11ea-a3c0-ad812f9239ed
+#
+describe 0f304b95-3161-11ea-a3c0-ad812f9239ed = "the tower middle wood contains sorceress. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 0f304b95-3161-11ea-a3c0-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Piece silk;17882086-3161-11ea-9271-ad812f9239ed
+#
+describe 17882086-3161-11ea-9271-ad812f9239ed = "There is piece silk in it. You wonder idly who put this stuff here."
+#
+lock 17882086-3161-11ea-9271-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Prince;19f8c7a8-3161-11ea-b1b3-ad812f9239ed
+#
+describe 19f8c7a8-3161-11ea-b1b3-ad812f9239ed = "There prince found in it. You wonder idly who put this stuff here."
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Prince;19f8c7a8-3161-11ea-b1b3-ad812f9239ed
+#
+describe 19f8c7a8-3161-11ea-b1b3-ad812f9239ed = "There is prince in it. There's something strange about this stuff being here, but you can't put your finger on it."
+#
+lock 19f8c7a8-3161-11ea-b1b3-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Love;1b2d3598-3161-11ea-a745-ad812f9239ed
+#
+describe 1b2d3598-3161-11ea-a745-ad812f9239ed = "There love in it. You wonder idly who put this stuff here."
+#
+lock 1b2d3598-3161-11ea-a745-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Plan;1bbc145c-3161-11ea-8c50-ad812f9239ed
+#
+describe 1bbc145c-3161-11ea-8c50-ad812f9239ed = "You can suddenly see plan. You shudder, but continue examining the tower middle wood."
+#
+lock 1bbc145c-3161-11ea-8c50-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Fruition;1c8c1250-3161-11ea-a105-ad812f9239ed
+#
+describe 1c8c1250-3161-11ea-a105-ad812f9239ed = "You can suddenly see fruition. There's something strange about this stuff being here, but you don't have time to worry about that now."
+#
+lock 1c8c1250-3161-11ea-a105-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Day;1d517542-3161-11ea-8cf1-ad812f9239ed
+#
+describe 1d517542-3161-11ea-8cf1-ad812f9239ed = "It holds day. There's something strange about this stuff being here, but you don't have time to worry about that now."
+#
+lock 1d517542-3161-11ea-8cf1-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Ladder;1dcb7a86-3161-11ea-bc7c-ad812f9239ed
+#
+describe 1dcb7a86-3161-11ea-bc7c-ad812f9239ed = "the tower middle wood contains ladder. There's something strange about this stuff being here, but you don't have time to worry about that now."
+#
+lock 1dcb7a86-3161-11ea-bc7c-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Twelve;1e640ba8-3161-11ea-9473-ad812f9239ed
+#
+describe 1e640ba8-3161-11ea-9473-ad812f9239ed = "There is twelve in it. Huh, weird."
+#
+lock 1e640ba8-3161-11ea-9473-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Hair;1ec269dc-3161-11ea-9cd4-ad812f9239ed
+#
+describe 1ec269dc-3161-11ea-9cd4-ad812f9239ed = "You can suddenly see hair, so there's that."
+#
+lock 1ec269dc-3161-11ea-9cd4-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+create/drop Rapunzel;1f5cb3cc-3161-11ea-88c9-ad812f9239ed
+#
+describe 1f5cb3cc-3161-11ea-88c9-ad812f9239ed = "the tower middle wood contains rapunzel. Huh, weird."
+#
+lock 1f5cb3cc-3161-11ea-88c9-ad812f9239ed = get:false()
+#
+tel 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+create/drop Dame gothel;1ffbdee8-3161-11ea-8b85-ad812f9239ed
+#
+describe 1ffbdee8-3161-11ea-8b85-ad812f9239ed = "You can see dame gothel in the later edition. There's something strange about this stuff being here, but you don't have time to worry about that now."
+#
+lock 1ffbdee8-3161-11ea-8b85-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Arm;20deffa4-3161-11ea-bc56-ad812f9239ed
+#
+describe 20deffa4-3161-11ea-bc56-ad812f9239ed = "There is arm in it, so there's that."
+#
+lock 20deffa4-3161-11ea-bc56-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Birth;22a9ef52-3161-11ea-802e-ad812f9239ed
+#
+describe 22a9ef52-3161-11ea-802e-ad812f9239ed = "You scan the room, seeing birth. You shudder, but continue examining the thorn bush."
+#
+lock 22a9ef52-3161-11ea-802e-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Kingdom;2323477e-3161-11ea-879d-ad812f9239ed
+#
+describe 2323477e-3161-11ea-879d-ad812f9239ed = "What's that over there? It looks like it's kingdom. You wonder idly who put this stuff here."
+#
+lock 2323477e-3161-11ea-879d-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Twin;23dba900-3161-11ea-948c-ad812f9239ed
+#
+describe 23dba900-3161-11ea-948c-ad812f9239ed = "the thorn bush contains twin. You wonder idly who put this stuff here."
+#
+lock 23dba900-3161-11ea-948c-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Voice;24ab9350-3161-11ea-9ba4-ad812f9239ed
+#
+describe 24ab9350-3161-11ea-9ba4-ad812f9239ed = "the thorn bush contains voice. Huh, weird."
+#
+lock 24ab9350-3161-11ea-9ba4-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Fall;25330ae4-3161-11ea-ae1e-ad812f9239ed
+#
+describe 25330ae4-3161-11ea-ae1e-ad812f9239ed = "You see a gleam over in a corner, where you can see fall. You shudder, but continue examining the thorn bush."
+#
+lock 25330ae4-3161-11ea-ae1e-ad812f9239ed = get:false()
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+create/drop Year;259c7a7a-3161-11ea-9c67-ad812f9239ed
+#
+describe 259c7a7a-3161-11ea-9c67-ad812f9239ed = "In it, you can see year. You wonder idly who put this stuff here."
+#
+lock 259c7a7a-3161-11ea-9c67-ad812f9239ed = get:false()
+#
+tel 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+open Later edition;edition;Later edition;25fbb60a-3161-11ea-b45c-ad812f9239ed = 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+describe 25fbb60a-3161-11ea-b45c-ad812f9239ed = ""
+#
+tel 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+open Tower middle wood;wood;middle wood;Tower middle wood;25fbb60b-3161-11ea-a5c5-ad812f9239ed = 0f304b92-3161-11ea-831d-ad812f9239ed
+#
+describe 25fbb60b-3161-11ea-a5c5-ad812f9239ed = ""
+#
+tel 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+open Thorn bush;bush;Thorn bush;25fbb60c-3161-11ea-9152-ad812f9239ed = 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+describe 25fbb60c-3161-11ea-9152-ad812f9239ed = ""
+#
+tel 0f304b94-3161-11ea-8b52-ad812f9239ed
+#
+open Later edition;edition;Later edition;25fbb60d-3161-11ea-81ad-ad812f9239ed = 0f304b93-3161-11ea-87aa-ad812f9239ed
+#
+describe 25fbb60d-3161-11ea-81ad-ad812f9239ed = ""
+#

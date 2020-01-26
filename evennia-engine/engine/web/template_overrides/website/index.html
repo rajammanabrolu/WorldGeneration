@@ -1,0 +1,147 @@
+{% extends "website/base.html" %}
+
+{% block titleblock %}Home{% endblock %}
+
+{% block header_ext %}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  {% if user.is_staff %}
+  <div class="col-12 col-md-4 mb-3">
+    <div class="card">
+      <h4 class="card-header text-center">Accounts</h4>
+
+      <div class="card-body">
+        <p>
+          There's currently <strong>{{num_accounts_connected}}</strong> connected out of a total of <strong>{{num_accounts_registered}}</strong> account{{num_accounts_registered|pluralize}} registered.
+        </p>
+        <p>
+          Of these, <strong>{{num_accounts_registered_recent}}</strong> were created this week, and <strong>{{num_accounts_connected_recent}}</strong> have connected within the last seven days.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-4 mb-3">
+    <div class="card">
+      <h4 class="card-header text-center">Recently Connected</h4>
+
+      <div class="card-body px-0 py-0">
+        <ul class="list-group">
+          {% for account in accounts_connected_recent %}
+            <li class="list-group-item">{{account.username}}&mdash;<em>{{account.last_login|timesince}} ago</em></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-4 mb-3">
+    <div class="card">
+      <h4 class="card-header text-center">Database Stats</h4>
+
+      <div class="card-body py-0 px-0">
+        <ul class="list-group">
+          <li class="list-group-item">{{num_accounts_registered}} account{{num_accounts_registered|pluralize}} (+ {{num_characters}} character{{num_characters|pluralize}})</li>
+          <li class="list-group-item">{{num_rooms}} room{{num_rooms|pluralize}} (+ {{num_exits}} exits)</li>
+          <li class="list-group-item">{{num_others}} other objects</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="col">
+  <div class="card">
+      <h4 class="card-header text-center">Bringing Stories Alive: Generating Interactive Fiction Worlds</h4>
+      <div class="card-body">
+          <section>
+              <p>
+                  This site hosts the text-adventure game worlds created for the under-review paper 'Bringing Stories Alive: Generating Interactive Fiction Worlds' by Ammanabrolu et al.
+              </p>
+              <p>
+                  Before playing any of the below games, we recommend the brief tutorial game <a href="/webclient/ABCD">here</a> to get familiar with the engine and commands. After that, feel free to try out any of the games below. <i>You can only have one game world open at a time, so please close out of any open game client tabs before opening a new one.</i>
+              </p>
+              <p>
+                  Not sure which one to pick? Click <button class="fake-button" onclick="selectRandom();">here</button> to play one at random, and see if you can guess the author.
+              </p>
+              <p>
+                  Never heard of Interactive Fiction before? Learn more @ <a href="https://en.wikipedia.org/wiki/Interactive_fiction" target="_blank">Wikipedia</a>.
+              </p>
+          </section>
+          <section>
+              <table class="table">
+                  <thead>
+                  <tr>
+                      <th></th>
+                      <th>Mystery Genre</th>
+                      <th>Fairy Tale Genre</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                      <td>Random:</td>
+                      <td><a href="/webclient/N766">Play now</a></td>
+                      <td><a href="/webclient/X43K">Play now</a></td>
+                  </tr>
+                  <tr>
+                      <td>Rule Based:</td>
+                      <td><a href="/webclient/5F6Z">Play now</a></td>
+                      <td><a href="/webclient/SB88">Play now</a></td>
+                  </tr>
+                  <tr>
+                      <td>Neural Generated:</td>
+                      <td><a href="/webclient/R28B">Play now</a></td>
+                      <td><a href="/webclient/B78H">Play now</a></td>
+                  </tr>
+                  <tr>
+                      <td>Human Authored:</td>
+                      <td><a href="/webclient/8F66">Play now</a></td>
+                      <td><a href="/webclient/9Q4F">Play now</a></td>
+                  </tr>
+                  </tbody>
+              </table>
+          </section>
+          <hr />
+          <section>
+              <p>
+                  In this study, we looked at the ability for AI algorithms to build interactive fiction worlds. If you are interested, also have a look at a <a href="https://gt-questgen.azurewebsites.net/">previous study</a> where we used AI algorithms to generate text-adventure quests.
+              </p>
+          </section>
+      </div>
+  </div>
+  </div>
+  {% endif %}
+</div>
+
+<style>
+.fake-button {
+    color: #007bff;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.fake-button:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.fake-button:focus {
+    outline: 0;
+}
+</style>
+
+<script>
+let ids = ['ABCD', 'N766', '5F6Z', 'R28B', '8F66', 'X43K', 'SB88', 'B78H', '9Q4F'];
+function selectRandom() {
+    let randId = ids[Math.floor(Math.random() * ids.length)];
+    window.location.href = '/webclient/' + randId;
+}
+</script>
+
+{% endblock %}

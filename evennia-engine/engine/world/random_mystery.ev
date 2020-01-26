@@ -1,0 +1,96 @@
+dig Baker Street;298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+tel 298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+set 298bbada-3161-11ea-8a5e-ad812f9239ed/zone = 'N766'
+#
+describe "Like any other street in London, it is a-stage-set, with the best and the worst of society crammed into one place."
+#
+dig Wilson's shop;298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+tel 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+set 298bbadb-3161-11ea-8fbe-ad812f9239ed/zone = 'N766'
+#
+describe "A small office with a window on the third floor."
+#
+dig Bank vault;298bbadc-3161-11ea-a518-ad812f9239ed
+#
+tel 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+set 298bbadc-3161-11ea-a518-ad812f9239ed/zone = 'N766'
+#
+describe "It is about three feet in height, and one and a half in width."
+#
+tel 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+create/drop Archie;298bbadd-3161-11ea-9b41-ad812f9239ed
+#
+describe 298bbadd-3161-11ea-9b41-ad812f9239ed = "A bully, a heel, a battler, a devil, a lunatic, a lunatic with a heart of gold."
+#
+lock 298bbadd-3161-11ea-9b41-ad812f9239ed = get:false()
+#
+tel 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+create/drop John Clay;298bbade-3161-11ea-953b-ad812f9239ed
+#
+describe 298bbade-3161-11ea-953b-ad812f9239ed = "Short, stocky, and one of the taller kind, John Clay is the kind of man who lives and dies by the watch he keeps."
+#
+lock 298bbade-3161-11ea-953b-ad812f9239ed = get:false()
+#
+tel 298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+create/drop Helper;298be1cc-3161-11ea-ac67-ad812f9239ed
+#
+describe 298be1cc-3161-11ea-ac67-ad812f9239ed = "A man who will come and help you out."
+#
+lock 298be1cc-3161-11ea-ac67-ad812f9239ed = get:false()
+#
+tel 298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+create/drop Artificial knee;298be1cd-3161-11ea-890d-ad812f9239ed
+#
+describe 298be1cd-3161-11ea-890d-ad812f9239ed = "It is a device for walking on two legs, very similar to the hobbit."
+#
+lock 298be1cd-3161-11ea-890d-ad812f9239ed = get:false()
+#
+tel 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+create/drop Red hair;298be1ce-3161-11ea-98da-ad812f9239ed
+#
+describe 298be1ce-3161-11ea-98da-ad812f9239ed = "It is a long, curly hair that is pulled back in a ponytail."
+#
+lock 298be1ce-3161-11ea-98da-ad812f9239ed = get:false()
+#
+tel 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+create/drop Taps on the pavement;298be1cf-3161-11ea-b7b2-ad812f9239ed
+#
+describe 298be1cf-3161-11ea-b7b2-ad812f9239ed = "A man with a truncheon in his hand and a wicker basket on his shoulder."
+#
+lock 298be1cf-3161-11ea-b7b2-ad812f9239ed = get:false()
+#
+tel 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+create/drop Trouser knees;298be1d0-3161-11ea-abc7-ad812f9239ed
+#
+describe 298be1d0-3161-11ea-abc7-ad812f9239ed = "A pair of breeches, made of muslin, of the worst kind, and about three inches (7 1/2 centimeters) in width at the knee."
+#
+lock 298be1d0-3161-11ea-abc7-ad812f9239ed = get:false()
+#
+tel 298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+open Bank vault;vault;Bank vault;298be1d1-3161-11ea-bc0d-ad812f9239ed = 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+tel 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+open Baker Street;Street;Baker Street;298be1d2-3161-11ea-a242-ad812f9239ed = 298bbada-3161-11ea-8a5e-ad812f9239ed
+#
+tel 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
+open Bank vault;vault;Bank vault;298be1d3-3161-11ea-a3cf-ad812f9239ed = 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+tel 298bbadc-3161-11ea-a518-ad812f9239ed
+#
+open Wilson's shop;shop;Wilson's shop;298be1d4-3161-11ea-8843-ad812f9239ed = 298bbadb-3161-11ea-8fbe-ad812f9239ed
+#
