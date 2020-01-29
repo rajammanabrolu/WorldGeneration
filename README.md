@@ -1,9 +1,9 @@
 # WorldGeneration
 Code accompanying the paper ["Bringing Stories Alive: Generating Interactive Fiction Worlds"](http://arxiv.org/abs/2001.10161).
 
-Neural PCG model (including AskBERT) is found in ```neural```, Rule-based PCG model is found in ```rule-based```, Evennia game generation framework is found in ```evennia-engine```.
+Neural PCG model (including AskBERT) is found in ```neural-based```, Rule-based PCG model is found in ```rule-based```, Evennia game generation framework is found in ```evennia-engine```.
 
-Each folder has its own README, follow the instructions in ```rule-based``` and ```neural``` to generate a ```*.dot``` file that can then be passed in the Evennia framework to create a playable game.
+Each folder has its own README, follow the instructions in ```rule-based``` and ```neural-based``` to generate a ```*.dot``` file that can then be passed in the Evennia framework to create a playable game.
 
 BibTex
 ```
