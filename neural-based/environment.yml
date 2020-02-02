@@ -1,4 +1,4 @@
-name: textgen
+name: WorldGen
 channels:
   - pytorch
   - defaults

@@ -100,6 +100,11 @@ def scratch_work():
 
 
 if __name__ == '__main__':
-    # main_fairy_tale()
-    # main_detective()
-    print_stories('mystery', 300)
+
+    print("scraping fairy tales")
+    main_fairy_tale()
+    print("done")
+    print("scraping fairy tales")
+    main_detective()
+    print("done")
+    # print_stories('mystery', 300)

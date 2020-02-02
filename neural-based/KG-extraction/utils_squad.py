@@ -33,6 +33,7 @@ logger = logging.getLogger(__name__)
 
 articles = ["the", 'a', 'an', 'his', 'her', 'their', 'my', 'its', 'those', 'these', 'that', 'this']
 
+
 class SquadExample(object):
     """
     A single training/test example for the Squad dataset.
@@ -1175,8 +1176,6 @@ def get_predictions(example, features, all_results, n_best_size,
     else:
         # predict "" iff the null score - the score of best non-null > threshold
         score_diff = score_null - best_non_null_entry.start_logit - (best_non_null_entry.end_logit)
-        print(score_diff)
-        # import ipdb; ipdb.set_trace()
         if score_diff > null_score_diff_threshold:
             return None, None
         else:

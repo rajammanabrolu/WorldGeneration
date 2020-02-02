@@ -93,18 +93,18 @@ class World:
             for c, p in zip(u2v, probs):
                 a = set(c.text.split()).difference(articles)
                 b = set(v.split()).difference(articles)
-                
+
                 # find best intersect
                 best_intersect = 0
                 for x in self.graph.nodes:
                     xx = set(x.split()).difference(articles)
-                    best_intersect = max(best_intersect, len(a.intersection(xx)) )
-                    
+                    best_intersect = max(best_intersect, len(a.intersection(xx)))
+
                 # increment if answer is best match BoW
                 if len(a.intersection(b)) == best_intersect:
                     s += len(a.intersection(b)) * p
-                
-                #naive method
+
+                # naive method
                 # s += len(a.intersection(b)) * p
 
         v2u, probs = self.candidates[v]['location']
@@ -113,18 +113,18 @@ class World:
             for c, p in zip(v2u, probs):
                 a = set(c.text.split()).difference(articles)
                 b = set(u.split()).difference(articles)
-                
+
                 # find best intersect
                 best_intersect = 0
                 for x in self.graph.nodes:
                     xx = set(x.split()).difference(articles)
-                    best_intersect = max(best_intersect, len(a.intersection(xx)) )
-                    
+                    best_intersect = max(best_intersect, len(a.intersection(xx)))
+
                 # increment if answer is best match BoW
                 if len(a.intersection(b)) == best_intersect:
                     s += len(a.intersection(b)) * p
-                
-                #naive method
+
+                # naive method
                 # s += len(a.intersection(b)) * p
 
         return s
@@ -139,7 +139,7 @@ class World:
         for pred, prob in zip(preds, probs):
             t = pred.text
             p = prob
-            print('>', t, p)
+            print('> ', t, p)
             if len(t) < 1:
                 continue
             if p > threshold and "MASK" not in t:
@@ -163,8 +163,6 @@ class World:
                 print(remove)
 
                 self.input_text = self.input_text.replace(remove, '[MASK]').replace('  ', ' ').replace(' .', '.')
-
-                print(t, p)
                 return t, p
             # else:
             # find a more minimal candidate if possible
@@ -183,22 +181,23 @@ class World:
         locs = []
         objs = []
         chars = []
-        
+
         # set thresholds/cutoffs
         threshold = 0.05
 
-        if args.cutoffs:
+        if args.cutoffs == 'fairy':
+            cutoffs = [6.5, -7, -5]  # fairy
+        elif args.cutoffs == 'mystery':
+            cutoffs = [3.5, -7.5, -6]  # mystery
+        else:
             cutoffs = [int(i) for i in args.cutoffs.split()]
             assert len(cutoffs) == 3
-        else:
-            # cutoffs = [3.5, -7.5, -6]  # mystery
-            cutoffs = [6.5, -7, -5]  # fairy
-        
-        
+
         # save input text
         tmp = self.input_text[:]
 
         # add chars
+        print("=" * 20 + "\tcharacters\t" + "=" * 20)
         self.input_text = tmp
         primer = "Who is somebody in the story?"
         cutoff = 10
@@ -209,7 +208,7 @@ class World:
             chars.append(t)
             t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
 
-        print("=" * 20)
+        print("=" * 20 + "\tlocations\t" + "=" * 20)
 
         # add locations
         self.input_text = tmp
@@ -224,7 +223,7 @@ class World:
 
             t, p = self.extractEntity(primer, threshold=threshold, cutoff=cutoff)
 
-        print("=" * 20)
+        print("=" * 20 + "\tobjects\t\t" + "=" * 20)
 
         # add objects
         self.input_text = tmp
@@ -243,16 +242,17 @@ class World:
         self.graph.add_nodes_from(objs, type='object', fillcolor="white", style="filled")
 
         # with open('stats.txt', 'a') as f:
-            # f.write(args.input_text + "\n")
-            # f.write(str(len(locs)) + "\n")
-            # f.write(str(len(chars)) + "\n")
-            # f.write(str(len(objs)) + "\n")
+        # f.write(args.input_text + "\n")
+        # f.write(str(len(locs)) + "\n")
+        # f.write(str(len(chars)) + "\n")
+        # f.write(str(len(objs)) + "\n")
         self.autocomplete()
 
     def autocomplete(self):
 
         self.generateNeighbors(self.args.nsamples)
 
+        print("=" * 20 + "\trelations\t" + "=" * 20)
         while not self.is_connected():
             components = list(nx.connected_components(self.graph))
             best = (-1, next(iter(components[0])), next(iter(components[1])))
@@ -276,23 +276,21 @@ class World:
                         best = max(best, (self.relatedness(u, v, self.graph.nodes[v]['type']), u, v))
 
             _, u, v = best
-            print(best)
-            if True:
-                # if _ == 0:
+
+            # attach randomly if empty or specified
+            if _ == 0 or args.random:
                 candidates = []
                 for c in components[0]:
                     if self.graph.nodes[c]['type'] == 'location':
                         candidates.append(c)
-                print(candidates)
                 u = random.choice(candidates)
-
-            print(u)
-            if self.graph.nodes[v]['type'] == 'location':
-                type = "located in"
-            else:
+            if self.graph.nodes[u]['type'] == 'location' and self.graph.nodes[v]['type'] == 'location':
                 type = "connected to"
-            self.graph.add_edge(u, v, label=type)
-            self.edge_labels[(u, v)] = type
+            else:
+                type = "located in"
+            print("{} {} {}".format(v, type, u))
+            self.graph.add_edge(v, u, label=type)
+            self.edge_labels[(v, u)] = type
 
     def export(self, filename="graph.dot"):
         nx.nx_pydot.write_dot(self.graph, filename)
@@ -300,12 +298,17 @@ class World:
 
     def draw(self, filename="./graph.svg"):
         self.export()
-        cmd = "sfdp -x -Goverlap=False -Tsvg graph.dot".format(filename)
-        returned_value = subprocess.check_output(cmd, shell=True)
-        with open(filename, 'wb') as f:
-            f.write(returned_value)
-        cmd = "inkscape -z -e {}.png {}.svg".format(filename[:-4], filename[:-4])
-        returned_value = subprocess.check_output(cmd, shell=True)
+
+        if args.write_sfdp:
+            cmd = "sfdp -x -Goverlap=False -Tsvg graph.dot".format(filename)
+            returned_value = subprocess.check_output(cmd, shell=True)
+            with open(filename, 'wb') as f:
+                f.write(returned_value)
+            cmd = "inkscape -z -e {}.png {}.svg".format(filename[:-4], filename[:-4])
+            returned_value = subprocess.check_output(cmd, shell=True)
+        else:
+            nx.draw(self.graph, with_labels=True)
+            plt.savefig(filename[:-4] + '.png')
 
 
 def parse_args():
@@ -317,7 +320,9 @@ def parse_args():
     parser.add_argument('--model_name', default='117M')
     parser.add_argument('--seed', default=0, type=int)
     parser.add_argument('--nsamples', default=10, type=int)
-    parser.add_argument('--cutoffs', default=None, type=str)
+    parser.add_argument('--cutoffs', default='fairy', type=str)
+    parser.add_argument('--write_sfdp', default=False, type=bool)
+    parser.add_argument('--random', default=False, type=bool)
 
     return parser.parse_args()
 
@@ -331,11 +336,11 @@ if __name__ == "__main__":
     filename = split[-1][:-4]
     path = "/".join(split[:-1])
 
-    if not os.path.exists('{}/plots'.format(path)):
-        os.makedirs('{}/plots'.format(path))
+    if not os.path.exists('./{}/plots'.format(path)):
+        os.makedirs('./{}/plots'.format(path))
 
-    if not os.path.exists('{}/dot'.format(path)):
-        os.makedirs('{}/dot'.format(path))
+    if not os.path.exists('./{}/dot'.format(path)):
+        os.makedirs('./{}/dot'.format(path))
     world.generate()
-    world.draw('{}/plots/{}.svg'.format(path, filename))
-    world.export('{}/dot/{}.dot'.format(path, filename))
+    world.draw('./{}/plots/{}.svg'.format(path, filename))
+    world.export('./{}/dot/{}.dot'.format(path, filename))

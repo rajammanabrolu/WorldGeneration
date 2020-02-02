@@ -7,4 +7,4 @@
 
 After running KG-extraction on some `story.txt` and doing pretraining
 
-`python flavortext.py --input_txt=<path to story.txt file>`
+`python flavortext.py --input_txt=<path to story.txt file> w/ corresponding dot file/folder`
