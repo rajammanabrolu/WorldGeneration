@@ -9,7 +9,7 @@ BibTex
 ```
 @article{ammanabrolu20world,
   title={Bringing Stories Alive: Generating Interactive Fiction Worlds},
-  author={and Ammanabrolu, Prithviraj and Cheung, Wesley and Tu, Dan and Broniec, William and Riedl, Mark O.},
+  author={Ammanabrolu, Prithviraj and Cheung, Wesley and Tu, Dan and Broniec, William and Riedl, Mark O.},
   journal={CoRR},
   year={2020},
   url={http://arxiv.org/abs/2001.10161},
