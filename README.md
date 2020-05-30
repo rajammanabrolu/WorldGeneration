@@ -5,6 +5,10 @@ Neural PCG model (including AskBERT) is found in ```neural-based```, Rule-based 
 
 Each folder has its own README, follow the instructions in ```rule-based``` and ```neural-based``` to generate a ```*.dot``` file that can then be passed in the Evennia framework to create a playable game.
 
+# Dataset
+
+The data used for finetuning fairytale and mystery models can be collected through ```/neural-based/scrape-wikipedia```
+
 BibTex
 ```
 @article{ammanabrolu20world,
