@@ -1,7 +1,7 @@
 anything==0.2.1
 asn1crypto==0.24.0
 attrs==19.1.0
-autobahn==19.9.3
+autobahn==20.12.3
 Automat==0.7.0
 cffi==1.12.3
 constantly==15.1.0
